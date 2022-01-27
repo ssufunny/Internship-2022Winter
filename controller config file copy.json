@@ -1,0 +1,64 @@
+{
+    "setting_complete": 1,
+    "deviceInfo": {
+        "deviceName": "개발용 서버",
+        "userId": 5,
+        "LoRaFarmID": "001",
+        "ddnsName": "http:///77972646.iptime.org:11990",
+        "routerManufacturer": "KT",
+        "routerModel": "GIGA WiFi",
+        "dvrManufacturer": "DAHUA",
+        "dvrModel": "D42",
+        "dvrCamCount": 0,
+        "farmAddress": "Migeum Daewoon 42",
+        "networkType": "W",
+        "latitude": 37.4388,
+        "longitude": 127.1396,
+        "currentVolume": 0,
+        "currentBroadcastUrl": "NONE",
+        "healthcheckInterval": 1
+    },
+    "objectInfo": {
+                        "0": "O-G:C-L:00100:1-LoRa 게이트웨이",
+                        "1": "O-Y:B-L:00101:1-온습도1",
+                        "2": "O-Y:B-L:00102:1-온습도2",
+                        "3": "O-Y:C-G:23-온습도3",
+                        "4": "O-M:C:50-G:17:27-천창개폐기1",
+                        "5": "O-M:C:70-L:00105:1-천창개폐기2",
+                        "6": "O-F:C:2-L:00106:1-중앙FAN",
+                        "7": "O-V:C-G:9-환풍기2",
+                        "8": "O-V:C-G:6-관수1",
+                        "9": "O-V:C-G:13-관수2",
+                        "10": "O-V:C-G:19-관수3"    
+    },                        
+    "deviceConfig": {
+        "dvrIpAddress": "192.168.0.XXX",
+        "dvrLoginId": "id",
+        "dvrPassword": "password",
+
+        "define": {
+            "GPIO_StartRelayPinNo": 4,
+            "MotorMaxOperationTime": 10,
+            "ValveMaxOperationTime": 1440,
+            "FanMaxOperationTime": 1440,
+            "CommPeriod2Sensor": 5,
+            "SensorDataSavePeriod": 10,
+            "LimitOverDataInputGap": 5,
+            "MotorDriveEventInputGap": 5,
+            "TempUpperLimit": 80,
+            "TempLowLimit": -20,
+            "HumiUpperLimit": 80,
+            "HumiLowLimit": 55,
+            "CO2UpperLimit": 200,
+            "CO2LowLimit": 1
+        }
+    },
+    "JejuApi": {
+        "farmType": "JEJU",
+        "gropNm": "현진테크고광희",
+        "grenHousNo": "1",
+        "ceoNm": "고광희",
+        "hpgUserId": "id",
+        "pswdNm": "password"
+    }
+}
