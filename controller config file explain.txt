@@ -1,0 +1,170 @@
+// Controller Config File
+//
+// 기능 : object(온도계, 모터,FAN..)에 대한 설정을 진행한다.
+//       objectInfo에서 Object 연결방식을 GPIO, LoRa중 택일하여 주의하여 Setting 해야한다.
+//       objectInfo이름은 가능한 1번 부터 순서대로 증가시켜주고, 중복되어서는 안된다.
+//
+// 주석이 달린 설정은 반드시 설정해주어야 합니다.
+// 주석이 달리지 않은 설정은 설정하실 필요 없습니다.
+// 
+// Pin번호는 gpio readall 실행시 BCM번호체계입니다.
+// 
+// History
+// 1. 2021.02.28     Ver 1.0   ObjInfo 체계 변경 (By JK)
+// 2. 2021.04.21     Ver 1.1   LoRaFarmID 추가 
+// 3. 2021.05.31     Ver 1.2   ObjInfo에 Fan Type추가 ('F:1', 'F:2')
+//
+// 주의) 편집할때 형식이 맞지 않으면 동작하지 않을수 있습니다.
+//
+{
+    "setting_complete": 1,                              // 0:초기치로 config정보를 수정할때 사용하는 것으로 Host반영안됨,  
+                                                        // 1:모든 설정을 수정완료한 후 Host에 반영할때 사용, 
+                                                        // 2:Host에 반영이 끝난것을 확인후 최종 2로 변경해주세요.
+    "deviceInfo": {
+        "deviceName": "개발용 서버",                        // 농장 이름
+        "userId": 5,                                    // UserId (에이전트의 유저 관리 페이지에서 USER ID로 표시되는 숫자를 입력해야 합니다.)
+        "LoRaFarmID": "001",                            // LoRa 농장 고유ID (001 ~ 654 까지 3자리 번호 부여), 농장이 인접해 있는경우 반드시 다른번호 부여해야 한다
+        "ddnsName": "http:///77972646.iptime.org:11990",     // 공유기에서 설정한 DDNS 주소와 PORT 번호
+        "routerManufacturer": "KT",                     // 공유기 제조사
+        "routerModel": "GIGA WiFi",                     // 공유기 모델명
+        "dvrManufacturer": "DAHUA",                     // DVR 제조사
+        "dvrModel": "D42",                              // DVR 모델명
+        "dvrCamCount": 0,                               // DVR에 연결된 카메라의 숫자
+        "farmAddress": "Migeum Daewoon 42",             // 농장 주소
+        "networkType": "W",                             // Network 타입(W: Wifi 혹은 유선, E: 기타)
+        "latitude": 37.4388,                            // 최초 실행시 IP를 통해 입력되므로 수정할 필요 없음
+        "longitude": 127.1396,
+        "currentVolume": 0,
+        "currentBroadcastUrl": "NONE",
+        "healthcheckInterval": 1
+    },
+    "objectInfo": {     // 한번 등록되어 운영되면 변경이 어려우니 주의하여 등록하여야 한다.
+                        // LoRa Gateway 없는경우에는 "0" 해당 라인을 삭제한다.
+                        // JSON Value 값
+                        //    1: 사용여부(O,X)
+                        //    2: LoRa Node ID 5자리 ('00101' - '65499')
+                        //       1) Farm ID(3자리) + Node ID(2자리) 
+                        //       2) 사용자가 Farm ID와 상관없이 정의하고 싶은 경우에는 ':' 다음에 5자리 유효한 숫자 입력가능.
+                        //       3) 가능한 '1)'번 방식 권장함
+                        //       4) 통신방식이 GPIO인 경우에는 의미없음, LoRa관련 객체인 경우에만 사용됨
+                        //    3: LoRa Relay No
+                        //       1) 통신방식이 GPIO인 경우에는 의미없음, LoRa관련 객체인 경우에만 사용됨
+                        //       2) LoRa Node를 고정시키고 싶은경우 ':'다음 5자리 숫자를 사용
+                        //    4: 디바이스종류(L:LoRa,Y:온습도,H:습도,C:CO2,M:모터,V:밸브,A:AC,F:Fan)
+                        //       1) Fan인 경우에는 장비Type과 장비Device Driver 유형을 같이 기술해야함
+                        //       2) 'F:1' --> 독일 슈나이드, 'F:2' --> 중국 Driver
+                        //    5: 통신방식(G:Gpio,L:LoRa)
+                        //    6: GPIO Pin번호(23:0)
+                        //    7: Object 이름
+                        // "0"은  LoRa게이트웨이로 번호를 변경하면 안된다. 나머지 온습도, Object(모터,밸브..) 순차적으로 등록한다. 
+                        // 반드시 순차적 일련번호 정의 할필요는 없지만, 가능한 순차적으로 1씩 증가시킨다. 최대 100 넘지 않는다.
+                        // 중간에, 온습도계, Object 삭제또는 추가하는 경우 번호체계를 변경하지 않는다. 추가되는 경우에는 맨뒤 일련번호 부여한다. 
+                        //
+                        // 주의) 온습도계, CO2 한개의 노드에서 처리하는 경우는 CO2 키값을 먼저 선언하고 다음 온습도계를 선언하여야 한다. (아래 3,4번 참조)
+                        //      이때 CO2의 Relay No는 '1'번으로 고정되고 온습도계는 '2'번으로 고정되며 실제 LoRa Node의 물리적인 Relay No와 일치하지 않는다.
+                        //      이는 온습도계만 있는 경우, 온습도CO2 같이 있는 경우 앱,서버단 처리 통일성을 위함이다
+                        //
+                        "0": "O-00-1-L-L-4:5-LoRa 게이트웨이", // LoRa Gateway가 있으면 (O-L-L-0:0-LoRa 게이트웨이) / LoRa Gateway가 없으면 (X-....)
+                        "1": "O-01-1-Y:B-L-0:0-온습도1",      // 내부 온습도1  LoRa 사용101
+                        "2": "O-02-1-Y-L-0:0-온습도2",          // 내부 온습도2 LoRa 미사용 102 추후 제품 오면 설치 예정
+                        "3": "O-00-1-Y-G-23:0-온습도3",       // 외부 온습도 LoRa 미사용103 추후 제품이 오면 설치 예정
+                        "4": "O-00-1-M-G-17:27-천창개폐기1",    // 천장개폐기 1번 GPIO17, GPIO27 사용
+                        "5": "O-05-1-M-L-22:10-천창개폐기2",
+                        "6": "O-06-1-F:2-L-0:0-중앙FAN",
+                        "7": "O-00-1-V-G-9:0-환풍기2",
+                        "8": "O-00-1-V-G-6:0-관수1",
+                        "9": "O-00-1-V-G-13:0-관수2",
+                        "10": "O-00-1-V-G-19:0-관수3"    
+   -->
+                        //    1: 사용여부(O,X)
+                        //    2: 통신방식(G:Gpio,L:LoRa)
+                        //       2-1: GPIO Pin번호(23:0)
+                        //
+                        //       2-1: LoRa Node ID 5자리 ('00101' - '65499')
+                        //          1) Farm ID(3자리) + Node ID(2자리) 
+                        //          2) 사용자가 Farm ID와 상관없이 정의하고 싶은 경우에는 ':' 다음에 5자리 유효한 숫자 입력가능.
+                        //          3) 가능한 '1)'번 방식 권장함
+                        //          4) 통신방식이 GPIO인 경우에는 의미없음, LoRa관련 객체인 경우에만 사용됨
+                        //       2-2: LoRa Relay No
+                        //          1) 통신방식이 GPIO인 경우에는 의미없음, LoRa관련 객체인 경우에만 사용됨
+                        //          2) LoRa Node를 고정시키고 싶은경우 ':'다음 5자리 숫자를 사용
+                        //    3: 디바이스종류(L:LoRa,Y:온습도,H:습도,C:CO2,M:모터,V:밸브,A:AC,F:Fan)
+                        //       1) Fan인 경우에는 장비Type과 장비Device Driver 유형을 같이 기술해야함
+                        //       2) 'F:1' --> 독일 슈나이드, 'F:2' --> 중국 Driver
+                        //       3) 전원유형이 배터리 Type인 경우 : B 추가한다
+                        //    4 Object 이름
+                        "0": "O-L:00100:1-L-LoRa 게이트웨이",    // LoRa Gateway가 있으면 (O-...) / LoRa Gateway가 없으면 (X-....)
+                        "1": "O-L:00101:1-Y:B-온습도1",      // 내부 온습도1  LoRa 사용101
+                        "3": "O-G:23:0-Y-온습도3",                   // 외부 온습도 LoRa 미사용103 추후 제품이 오면 설치 예정
+
+                        --> json format 변경 (2022.01.22)
+                        //    1: 사용여부에 대한 설정 Field
+                        //       1) 사용 : O
+                        //       2) 사용하지 않음 : X
+                        //    2: 디바이스종류에 대한 설정 Field
+                        //       1) 디바이스종류 (G:LoRa Gateway,Y:온습도,T:온도계,H:습도,C:CO2,M:모터,V:밸브,A:AC,F:Fan)
+                        //       2) 전원유형
+                        //          - 상시전원인 경우 : C
+                        //          - 배터리 Type인 경우 : B 
+                        //       3-1) Fan인 경우에는 장비Type과 장비업체 Device Driver 유형을 같이 기술해야함
+                        //          - 'F:C:1' --> 독일 슈나이드, 'F:C:2' --> 중국 Driver
+                        //       3-2) 개폐기(Motor)인 경우에는 장비 구동시간(초) 추가한다
+                        //          - 'M:C:50' --> 개폐기:상시전원:50초간 동작
+                        //    3: 통신방식에 대한 설정 Field (G:GPIO, L:LoRa)
+                        //       3-1: GPIO 방식
+                        //          1) G : GPIO 방식 의미
+                        //          2) GPIO Pin번호 #1
+                        //             - Valve은 가동, 정지 2개 상태 처리하기 위하여 1개 Pin만 사용
+                        //          3) GPIO Pin번호 #2
+                        //             - 개폐기의 경우 정회전, 역회전, 정지 3개 상태 처리하기 위하여 2개 Pin 사용
+                        //       3-2: LoRa 방식
+                        //          1) L : LoRa 방식 의미
+                        //          2) LoRa Node ID 5자리 ('00101' - '65499')
+                        //             - Farm ID(3자리) + Node ID(2자리) 
+                        //             - 사용자가 Farm ID와 상관없이 정의하고 싶은 경우에는 ':' 다음에 5자리 유효한 숫자 입력가능.
+                        //          3) LoRa Relay No
+                        //             - LoRa Device에 최대 4개 까지 Relay 가능
+                        //    4 Object 이름
+                        "0": "O-G:C-L:00100:1-LoRa 게이트웨이",    // LoRa Gateway가 있으면 (O-L-L-0:0-LoRa 게이트웨이) / LoRa Gateway가 없으면 (X-....)
+                        "1": "O-Y:B-L:00101:1-온습도1",           // 내부 온습도1  LoRa 사용101
+                        "2": "O-Y:B-L:00102:1-온습도2",           // 내부 온습도2 LoRa 미사용 102 추후 제품 오면 설치 예정
+                        "3": "O-Y:C-G:23-온습도3",               // 외부 온습도 LoRa 미사용103 추후 제품이 오면 설치 예정
+                        "4": "O-M:C:50-G:17:27-천창개폐기1",       // 천장개폐기 1번 GPIO17, GPIO27 사용
+                        "5": "O-M:C:70-L:00105:1-천창개폐기2",
+                        "6": "O-F:C:2-L:00106:1-중앙FAN",
+                        "7": "O-V:C-G:9-환풍기2",
+                        "8": "O-V:C-G:6-관수1",
+                        "9": "O-V:C-G:13-관수2",
+                        "10": "O-V:C-G:19-관수3"    },                        
+.
+    "deviceConfig": {
+        "dvrIpAddress": "192.168.0.XXX",          // DVR IP 주소
+        "dvrLoginId": "id",                       // DVR 로그인 ID
+        "dvrPassword": "password",                // DVR 로그인 Password
+
+        "define": {
+            "GPIO_StartRelayPinNo": 4,
+            "MotorMaxOperationTime": 10,          // 단위:분, 1일 1440(24*60)
+            "ValveMaxOperationTime": 1440,        // 단위:분
+            "FanMaxOperationTime": 1440,          // 단위:분
+            "CommPeriod2Sensor": 5,
+            "SensorDataSavePeriod": 10,
+            "LimitOverDataInputGap": 5,
+            "MotorDriveEventInputGap": 5,
+            "TempUpperLimit": 80,
+            "TempLowLimit": -20,
+            "HumiUpperLimit": 80,
+            "HumiLowLimit": 55,
+            "CO2UpperLimit": 200,
+            "CO2LowLimit": 1
+        }
+    },
+    "JejuApi": { // 아래 값들에는 공백이 들어가면 안됨
+        "farmType": "JEJU",                // 제주도일 경우, 수정하지 말것
+        "gropNm": "현진테크고광희",        // 농가명 (256 Bytes)
+        "grenHousNo": "1",                 // 온실번호 (숫자만 입력, 1 Byte)
+        "ceoNm": "고광희",                 // 농장주명 (256 Bytes)
+        "hpgUserId": "id",               // 농가 스마트팜 홈페이지 로그인 아이디 (48 Bytes)
+        "pswdNm": "password"               // 농가 스마트팜 홈페이지 로그인 비밀번호 (256 Bytes)
+    },
+}
