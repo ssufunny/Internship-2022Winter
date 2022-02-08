@@ -5,10 +5,10 @@
 -- node-red와 db를 연결하여 원하는 정보를 불러오기 위한 코드 중 sql문만 작성
 
 -- 센서의 수
-select count(*) from test where OperationControlMode = 'S';
+select count(*) as count from test where OperationControlMode = 'S';
 -- 모터의 수
-select count(*) from test where ObjectType = 'M';
+select count(*) as count from test where ObjectType = 'M';
 -- FAN의 수
-select count(*) from test where FanDevDriverType is not null;
+select count(*) as count from test where FanDevDriverType is not null;
 -- Valve 수
-select count(*) from test where ObjectType = 'V';
+select count(*) as count from test where ObjectType = 'V';
