@@ -1,4 +1,4 @@
--- dummy 데이터 삽입
+-- dummy 데이터 삽입문
 
 insert into test values (1, 'X', 'Pete', 1, 'E', 'V', 'F:2', 'G', 14, 18, 27, 'Tekfly', 'T', 'P', datetime('now','localtime'), 0, 0, -1, 68, 20);
 insert into test values (2, 'X', 'Stefan', 4, 'E', 'B', 'F:1', 'L', 25, 35, 97, 'Snaptags', 'S', 'F', datetime('now','localtime'), 0, 0, -1, 47, 37);

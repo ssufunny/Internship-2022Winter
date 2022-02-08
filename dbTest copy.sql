@@ -1,4 +1,7 @@
-create table test2
+drop table tMstObjectItemNew;
+create table IF NOT EXISTS tMstObjectItemNew
+
+create table test
 (
    RowNo INTEGER NOT NULL,
    ObjectExist CHAR(1) NOT NULL,
