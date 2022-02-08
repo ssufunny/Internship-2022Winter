@@ -7,3 +7,5 @@ UPDATE test SET FanDevDriverType ='' WHERE ObjectType != 'F';
 -- Motor가 아닌 장비의 MotorOperTime을 null로 변경
 UPDATE test SET MotorOperTime ='' WHERE ObjectType != 'M';
 
+-- 15부터 삭제
+DELETE FROM test WHERE RowNo >= 15;
