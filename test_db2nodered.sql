@@ -8,6 +8,8 @@
 select count(*) as count from smartfarm_1 where OperationControlMode = 'S';
 -- 모터의 수
 select count(*) as count from smartfarm_1 where ObjectType = 'M';
+-- 모터의 위치
+select ObjectPositionName as position from smartfarm_1 where ObjectType = 'M';
 -- FAN의 수
 select count(*) as count from smartfarm_1 where FanDevDriverType is not null;
 -- Valve 수
