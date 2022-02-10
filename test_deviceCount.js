@@ -8,6 +8,12 @@ var defaultCount = 6 // 장비 개수 default 값
 var deviceCount = msg.payload[0].count // 각 장비 수
 
 // 센서 수만큼의 그룹을 나타내고 센서 수보다 큰 수의 그룹은 숨김
-msg.payload={"group":{"show":["자동개폐기(동)_센서" + deviceCount, "자동개폐기(동)_센서" + (deviceCount - 1), "자동개폐기(동)_센서" + (deviceCount - 2), "자동개폐기(동)_센서" + (deviceCount - 3), "자동개폐기(동)_센서" + (deviceCount - 4), "자동개폐기(동)_센서" + (deviceCount - 5)], "hide":["자동개폐기(동)_센서" + (deviceCount + 1), "자동개폐기(동)_센서" + (deviceCount + 2), "자동개폐기(동)_센서" + (deviceCount + 3), "자동개폐기(동)_센서" + (deviceCount + 4), "자동개폐기(동)_센서" + (deviceCount + 5)], "focus":true}}
+msg.payload = {
+    "group": {
+        "show":["자동개폐기(동)_spacerLeft_dvc" + deviceCount, "자동개폐기(동)_spacerLeft_dvc" + (deviceCount + 1), "자동개폐기(동)_spacerRight_dvc" + deviceCount, "자동개폐기(동)_spacerRight_dvc" + (deviceCount + 1), "자동개폐기(동)_센서" + deviceCount, "자동개폐기(동)_센서" + (deviceCount - 1), "자동개폐기(동)_센서" + (deviceCount - 2), "자동개폐기(동)_센서" + (deviceCount - 3), "자동개폐기(동)_센서" + (deviceCount - 4), "자동개폐기(동)_센서" + (deviceCount - 5)], 
+        "hide":["자동개폐기(동)_spacerLeft_dvc" + (deviceCount - 1), "자동개폐기(동)_spacerLeft_dvc" + (deviceCount - 2), "자동개폐기(동)_spacerLeft_dvc" + (deviceCount - 3), "자동개폐기(동)_spacerLeft_dvc" + (deviceCount - 4), "자동개폐기(동)_spacerRight_dvc" + (deviceCount - 1), "자동개폐기(동)_spacerRight_dvc" + (deviceCount - 2), "자동개폐기(동)_spacerRight_dvc" + (deviceCount - 3), "자동개폐기(동)_spacerRight_dvc" + (deviceCount - 4), "자동개폐기(동)_센서" + (deviceCount + 1), "자동개폐기(동)_센서" + (deviceCount + 2), "자동개폐기(동)_센서" + (deviceCount + 3), "자동개폐기(동)_센서" + (deviceCount + 4), "자동개폐기(동)_센서" + (deviceCount + 5)], 
+        "focus":true
+    }
+}
 
 return msg;
