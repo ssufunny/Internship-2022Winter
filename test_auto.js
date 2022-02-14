@@ -13,7 +13,6 @@
 var deviceCount = msg.payload.length // 센서와 모터 수의 합
 var thCount = 0 // 센서 개수
 var mtrCount = 0 // 모터 개수
-var mtrPosition = []
 
 
 for (i = 0; i < deviceCount; i++) { // 센서와 모터 수의 합만큼 반복
@@ -25,6 +24,7 @@ for (i = 0; i < deviceCount; i++) { // 센서와 모터 수의 합만큼 반복
     }
 }
 
+// 모터 수에 따라 천창 위치 다르게 표시
 if (mtrCount == 1) {    // 모터 1개일 때
     msg.autoSkyligthName_1 = "천창(중)" 
 }
