@@ -1,4 +1,4 @@
-# ubifarm
+# smartfarm
 ![슬라이드1](https://user-images.githubusercontent.com/67498595/153801152-91bb05ed-2171-4f13-b464-5e890933df09.JPG)
 ![슬라이드2](https://user-images.githubusercontent.com/67498595/153801155-f21dfbdc-78d5-4cfe-a260-1f602bb1c349.JPG)
 ![슬라이드3](https://user-images.githubusercontent.com/67498595/153801157-b5f8cb2c-f197-4036-917d-522544aac444.JPG)
