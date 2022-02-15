@@ -1,4 +1,8 @@
 # smartfarm
+
+Node-RED를 이용하여 스마트팜 UI 구현하기
+1. 데이터베이스와 연동하여 동적인 화면 구상
+
 ![슬라이드1](https://user-images.githubusercontent.com/67498595/154000367-7a589b0a-6825-4077-a516-a8d0c4513b97.JPG)
 ![슬라이드2](https://user-images.githubusercontent.com/67498595/154000372-6877a248-14c6-47b9-803b-9ac9dd41717c.JPG)
 ![슬라이드3](https://user-images.githubusercontent.com/67498595/154000374-65a69b13-73c1-4755-ad98-2d7337048094.JPG)
