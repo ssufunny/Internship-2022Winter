@@ -2,6 +2,8 @@
 
 Node-RED를 이용하여 스마트팜 UI 구현하기
 1. 데이터베이스와 연동하여 동적인 화면 구상
+2. 표 형식으로 표현
+3. [관수] 급수간격 -> 급수요일, 급수시간 : 시간 입력 -> 시간 선택
 
 ![슬라이드1](https://user-images.githubusercontent.com/67498595/154000367-7a589b0a-6825-4077-a516-a8d0c4513b97.JPG)
 ![슬라이드2](https://user-images.githubusercontent.com/67498595/154000372-6877a248-14c6-47b9-803b-9ac9dd41717c.JPG)
