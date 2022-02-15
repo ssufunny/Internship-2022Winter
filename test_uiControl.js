@@ -1,3 +1,4 @@
+// X
 // db에서 불러온 data를 활용하여 장비 수에 맞게 ui가 동적으로 적용되도록 하는 코드 작성(for문 이용)
 
 var defaultCount = 8 // 장비 개수 default 값
