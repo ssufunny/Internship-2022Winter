@@ -1,0 +1,11 @@
+RowNo,ObjectExist,ObjectID4LoRa,LoRaNodeGpioRelayNo,ObjectType,TempHumiType,FanDevDriverType,ObjectCommunicationType,objectPin1,objectPin2,MotorOperTime,ObjectPositionName,OperationControlMode,OperationModeStatus,OperationStartTime,objectValueTemp,objectValueHumi,ThSensorRowNo,ThTempOpen,ThTempClose
+1,O,00101,1,Y,B,,L,,,,,S,,2022-02-11 16:25:16,0,0,-1,,
+2,O,00102,2,Y,B,,L,,,,,S,,2022-02-11 16:28:07,0,0,-1,,
+3,O,,3,Y,V,,G,23,,,,S,,2022-02-11 16:28:33,0,0,-1,,
+4,O,,3,M,,,G,17,27,50,TopLeft,,,2022-02-11 16:28:34,0,0,-1,,
+5,O,00105,3,M,,,L,,,70,TopRight,,,2022-02-11 16:28:34,0,0,-1,,
+6,O,00106,1,F,,F:C:2,L,,,,,,,2022-02-11 16:28:34,0,0,-1,,
+7,O,,2,V,,,G,9,,,,,,2022-02-11 16:28:35,0,0,-1,,
+8,O,,2,V,,,G,6,,,,,,2022-02-11 16:28:35,0,0,-1,,
+9,O,,2,V,,,G,13,,,,,,2022-02-11 16:28:37,0,0,-1,,
+10,O,,2,V,,,G,19,,,,,,2022-02-11 16:28:37,0,0,-1,,

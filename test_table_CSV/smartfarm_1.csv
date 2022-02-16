@@ -1,0 +1,16 @@
+RowNo,ObjectExist,ObjectID4LoRa,LoRaNodeGpioRelayNo,ObjectType,TempHumiType,FanDevDriverType,ObjectCommunicationType,objectPin1,objectPin2,MotorOperTime,ObjectPositionName,OperationControlMode,OperationModeStatus,OperationStartTime,objectValueTemp,objectValueHumi,ThSensorRowNo,ThTempOpen,ThTempClose
+1,O,Extractor Fan#1,1,E,,F:1,G,14,18,,TopRight,T,B,2022-01-28 14:36:09,0,0,-1,68,21
+2,O,Extractor Fan#2,4,E,,F:2,L,25,35,,TopLeft,X,F,2022-01-28 14:36:09,0,0,-1,80,30
+3,O,Valve#1,1,V,,,L,21,9,,BottomRight,T,S,2022-01-28 14:36:09,0,0,-1,42,38
+4,O,Temp#1,2,T,B,,L,18,2,,WallMid,S,P,2022-01-28 14:36:09,0,0,-1,66,34
+5,O,Blast Fan#1,4,B,,F:2,L,10,34,,TopMid,M,F,2022-01-28 14:36:09,0,0,-1,78,19
+6,O,Heater Fan#1,2,F,,F:1,G,11,31,,TopMid,X,F,2022-01-28 14:36:09,0,0,-1,58,17
+7,O,TempHumi#1,4,Y,B,,G,19,8,,WallMid,S,P,2022-01-28 14:36:09,0,0,-1,67,16
+8,O,Heater Fan#2,3,F,,F:2,L,38,15,,TopMid,M,B,2022-01-28 14:36:09,0,0,-1,43,20
+9,O,Motor#1,1,M,,,G,11,6,185,TopRight,T,F,2022-01-28 14:36:09,0,0,-1,53,3
+10,O,Blast Fan#2,1,B,,F:1,G,7,32,,TopMid,X,B,2022-01-28 14:36:09,0,0,-1,51,26
+11,O,Humi#1,2,H,V,,L,23,35,,WallMid,S,F,2022-01-28 14:36:09,0,0,-1,52,14
+12,O,Valve#2,2,V,,,L,33,22,,BottomLeft,T,P,2022-01-28 14:36:09,0,0,-1,70,32
+13,O,TempHumi#2,2,Y,V,,G,15,33,,WallMid,S,O,2022-01-28 14:36:09,0,0,-1,49,23
+14,O,Motor#2,4,M,,,L,37,39,154,TopLeft,M,R,2022-01-28 14:36:09,0,0,-1,76,35
+15,O,Valve#3,3,V,,,L,26,27,,BottomMid,T,S,2022-01-28 14:36:09,0,0,-1,85,45
