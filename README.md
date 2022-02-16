@@ -1,8 +1,37 @@
-# smartfarm
-![슬라이드1](https://user-images.githubusercontent.com/67498595/154000367-7a589b0a-6825-4077-a516-a8d0c4513b97.JPG)
-![슬라이드2](https://user-images.githubusercontent.com/67498595/154000372-6877a248-14c6-47b9-803b-9ac9dd41717c.JPG)
-![슬라이드3](https://user-images.githubusercontent.com/67498595/154000374-65a69b13-73c1-4755-ad98-2d7337048094.JPG)
-![슬라이드4](https://user-images.githubusercontent.com/67498595/154000376-dbb7f5f5-3f5d-472c-8480-efd4d492c1fb.JPG)
-![슬라이드5](https://user-images.githubusercontent.com/67498595/154000377-630e4319-de61-449f-86d5-fd9851c166c5.JPG)
-![슬라이드6](https://user-images.githubusercontent.com/67498595/154000379-b68c39d4-0e45-437a-9847-bc17f3e7e320.JPG)
-![슬라이드7](https://user-images.githubusercontent.com/67498595/154000366-7a61f92a-f78c-4dbd-a482-d60f990b0eb2.JPG)
+# SmartFarm
+
+> 유비샘 (2022.01 - 2022.02)
+
+## 프로젝트 설명
+- 프로젝트명 : **SmartFarm UI 제작**
+- 프로젝트 소개 :
+    - Configuration file(controller config file explain.txt)과 Database schema(dbTest.sql) 정보를 이용하여 데이터 생성
+    - Node-RED와 DB를 연동하여 기존 화면을 동적인 UI 화면으로 구상
+
+## 프로젝트 정보
+- 개발 환경 및 사용 기술 : 
+
+  - ![image](https://user-images.githubusercontent.com/67498595/154221429-9bc1dceb-abb1-4a5d-83da-6c7c663b95b8.png)Node-RED
+  - ![image](https://user-images.githubusercontent.com/67498595/154221609-49c6f4e3-a766-465a-a090-241e292e026f.png)
+
+
+
+
+## 프로젝트 결과물
+- 생성 데이터(test.db)
+
+  예시1. [table명 : smartfarm_1]
+![image](https://user-images.githubusercontent.com/67498595/154219644-aa6d005c-e219-40bb-83a2-efba9c2067e9.png)
+
+  예시2. [table명 : smartfarm_3]
+![image](https://user-images.githubusercontent.com/67498595/154220084-4d5dcfbf-08a1-4553-80d7-457c5d5493ec.png)
+
+
+- UI 화면(flows_smartfarm.json)
+
+  |  | UI 화면 |
+  |---|---|
+  | 자동개폐기 | ![자동개폐기](https://user-images.githubusercontent.com/67498595/154221096-fca52eda-1039-4018-891b-1fa0f6d188ee.png) |
+  | 개별스위치 | ![개별스위치](https://user-images.githubusercontent.com/67498595/154221122-ee0e2b3f-cc77-4c54-bb4d-c9ca0ce5256d.png) |
+  | 관수 | ![관수](https://user-images.githubusercontent.com/67498595/154221145-08077fcd-8f13-45e0-91ce-7c1b7d289229.png) |
+  | SETTING | ![SETTING](https://user-images.githubusercontent.com/67498595/154221166-f79c3a9b-4bbc-43b8-b106-73dd69d42fc1.png) |
