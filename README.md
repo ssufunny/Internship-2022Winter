@@ -3,7 +3,7 @@
 > 유비샘 (2022.01 - 2022.02)
 
 ## 프로젝트 설명
-- 프로젝트명 : SmartFarm UI 제작
+- 프로젝트명 : **SmartFarm UI 제작**
 - 프로젝트 소개 :
     - Configuration file(controller config file explain.txt)과 Database schema(dbTest.sql) 정보를 이용하여 데이터 생성
     - Node-RED와 DB를 연동하여 기존 화면을 동적인 UI 화면으로 구상
