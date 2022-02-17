@@ -4,17 +4,15 @@
 
 ## 프로젝트 설명
 - 프로젝트명 : **SmartFarm UI 제작**
+
 - 프로젝트 소개 :
     - Configuration file(controller config file explain.txt)과 Database schema(dbTest.sql) 정보를 이용하여 데이터 생성
     - Node-RED와 DB를 연동하여 기존 화면을 동적인 UI 화면으로 구상
-
-## 프로젝트 정보
+    
 - 개발 환경 및 사용 기술 : 
 
   - ![image](https://user-images.githubusercontent.com/67498595/154221429-9bc1dceb-abb1-4a5d-83da-6c7c663b95b8.png)Node-RED
   - ![image](https://user-images.githubusercontent.com/67498595/154221609-49c6f4e3-a766-465a-a090-241e292e026f.png)
-
-
 
 
 ## 프로젝트 결과물
