@@ -42,16 +42,16 @@ if (thCount < 3 || thCount == 5) {  // 센서 수가 1, 2, 5 일 때
     msg.payload = {
         "group": {
             "show": [   // 대시보드에 해당 그룹을 나타냄
-                "자동개폐기(동)_구분1", "자동개폐기(동)_구분" + (thCount - 3),  // 구분
-                "자동개폐기(동)_spacerLeft_dvc" + thCount, "자동개폐기(동)_spacerLeft_dvc" + (thCount + 1), "자동개폐기(동)_spacerRight_dvc" + thCount, "자동개폐기(동)_spacerRight_dvc" + (thCount + 1), // spacer
-                "자동개폐기(동)_센서" + thCount, "자동개폐기(동)_센서" + (thCount - 1), "자동개폐기(동)_센서" + (thCount - 2),  // 센서
-                "자동개폐기(동)_천창" + (mtrCount - 1), "자동개폐기(동)_천창" + mtrCount    // 천창
+                "자동개폐기_구분1", "자동개폐기_구분" + (thCount - 3),  // 구분
+                "자동개폐기_spacerLeft_dvc" + thCount, "자동개폐기_spacerLeft_dvc" + (thCount + 1), "자동개폐기_spacerRight_dvc" + thCount, "자동개폐기_spacerRight_dvc" + (thCount + 1), // spacer
+                "자동개폐기_센서" + thCount, "자동개폐기_센서" + (thCount - 1), "자동개폐기_센서" + (thCount - 2),  // 센서
+                "자동개폐기_천창" + (mtrCount - 1), "자동개폐기_천창" + mtrCount    // 천창
             ], 
             "hide": [   // 대시보드에서 해당 그룹을 숨김
-                "자동개폐기(동)_구분" + (thCount * thCount + 1), "자동개폐기(동)_구분" + (thCount * thCount - 2),   // 구분
-                "자동개폐기(동)_spacerLeft_dvc" + (thCount - 3),"자동개폐기(동)_spacerLeft_dvc" + (thCount - 1), "자동개폐기(동)_spacerLeft_dvc" + (thCount + 2), "자동개폐기(동)_spacerLeft_dvc" + (thCount + 3), "자동개폐기(동)_spacerLeft_dvc" + (thCount + 4), "자동개폐기(동)_spacerRight_dvc" + (thCount - 3), "자동개폐기(동)_spacerRight_dvc" + (thCount - 1), "자동개폐기(동)_spacerRight_dvc" + (thCount + 2), "자동개폐기(동)_spacerRight_dvc" + (thCount + 3), "자동개폐기(동)_spacerRight_dvc" + (thCount + 4),   // spacer
-                "자동개폐기(동)_센서" + (thCount + 1), "자동개폐기(동)_센서" + (thCount + 2), "자동개폐기(동)_센서" + (thCount + 3), "자동개폐기(동)_센서" + (thCount + 4), "자동개폐기(동)_센서" + (thCount + 5), "자동개폐기(동)_(2)센서3",   // 센서
-                "자동개폐기(동)_천창" + (mtrCount + 1), "자동개폐기(동)_천창" + (mtrCount + 2)  // 천창
+                "자동개폐기_구분" + (thCount * thCount + 1), "자동개폐기_구분" + (thCount * thCount - 2),   // 구분
+                "자동개폐기_spacerLeft_dvc" + (thCount - 3),"자동개폐기_spacerLeft_dvc" + (thCount - 1), "자동개폐기_spacerLeft_dvc" + (thCount + 2), "자동개폐기_spacerLeft_dvc" + (thCount + 3), "자동개폐기_spacerLeft_dvc" + (thCount + 4), "자동개폐기_spacerRight_dvc" + (thCount - 3), "자동개폐기_spacerRight_dvc" + (thCount - 1), "자동개폐기_spacerRight_dvc" + (thCount + 2), "자동개폐기_spacerRight_dvc" + (thCount + 3), "자동개폐기_spacerRight_dvc" + (thCount + 4),   // spacer
+                "자동개폐기_센서" + (thCount + 1), "자동개폐기_센서" + (thCount + 2), "자동개폐기_센서" + (thCount + 3), "자동개폐기_센서" + (thCount + 4), "자동개폐기_센서" + (thCount + 5), "자동개폐기_(2)센서3",   // 센서
+                "자동개폐기_천창" + (mtrCount + 1), "자동개폐기_천창" + (mtrCount + 2)  // 천창
             ], 
             "focus":true
         }
@@ -61,15 +61,15 @@ else if (thCount == 4) {    // 센서 수가 4 일 때
     msg.payload = {
         "group": {
             "show": [   // 대시보드에 해당 그룹을 나타냄
-                "자동개폐기(동)_구분1", "자동개폐기(동)_구분2",     // 구분
-                "자동개폐기(동)_spacerLeft_dvc" + thCount, "자동개폐기(동)_spacerLeft_dvc" + (thCount - 2), "자동개폐기(동)_spacerRight_dvc" + thCount, "자동개폐기(동)_spacerRight_dvc" + (thCount - 2),   // spacer
-                "자동개폐기(동)_센서" + thCount, "자동개폐기(동)_(2)센서" + (thCount - 1), "자동개폐기(동)_센서" + (thCount - 2), "자동개폐기(동)_센서" + (thCount - 3), "자동개폐기(동)_센서" + (thCount - 4), "자동개폐기(동)_센서" + (thCount - 5), // 센서
-                "자동개폐기(동)_천창" + (mtrCount - 1), "자동개폐기(동)_천창" + mtrCount    // 천창
+                "자동개폐기_구분1", "자동개폐기_구분2",     // 구분
+                "자동개폐기_spacerLeft_dvc" + thCount, "자동개폐기_spacerLeft_dvc" + (thCount - 2), "자동개폐기_spacerRight_dvc" + thCount, "자동개폐기_spacerRight_dvc" + (thCount - 2),   // spacer
+                "자동개폐기_센서" + thCount, "자동개폐기_(2)센서" + (thCount - 1), "자동개폐기_센서" + (thCount - 2), "자동개폐기_센서" + (thCount - 3), "자동개폐기_센서" + (thCount - 4), "자동개폐기_센서" + (thCount - 5), // 센서
+                "자동개폐기_천창" + (mtrCount - 1), "자동개폐기_천창" + mtrCount    // 천창
             ], 
             "hide": [   // 대시보드에서 해당 그룹을 숨김
-                "자동개폐기(동)_spacerLeft_dvc" + (thCount - 3), "자동개폐기(동)_spacerLeft_dvc" + (thCount + 1), "자동개폐기(동)_spacerRight_dvc" + (thCount - 3), "자동개폐기(동)_spacerRight_dvc" + (thCount + 1),   // spacer
-                "자동개폐기(동)_센서" + (thCount -1), "자동개폐기(동)_센서" + (thCount + 1), "자동개폐기(동)_센서" + (thCount + 2), "자동개폐기(동)_센서" + (thCount + 3), "자동개폐기(동)_센서" + (thCount + 4), "자동개폐기(동)_센서" + (thCount + 5),    // 센서
-                "자동개폐기(동)_천창" + (mtrCount + 1), "자동개폐기(동)_천창" + (mtrCount + 2)  // 천창
+                "자동개폐기_spacerLeft_dvc" + (thCount - 3), "자동개폐기_spacerLeft_dvc" + (thCount + 1), "자동개폐기_spacerRight_dvc" + (thCount - 3), "자동개폐기_spacerRight_dvc" + (thCount + 1),   // spacer
+                "자동개폐기_센서" + (thCount -1), "자동개폐기_센서" + (thCount + 1), "자동개폐기_센서" + (thCount + 2), "자동개폐기_센서" + (thCount + 3), "자동개폐기_센서" + (thCount + 4), "자동개폐기_센서" + (thCount + 5),    // 센서
+                "자동개폐기_천창" + (mtrCount + 1), "자동개폐기_천창" + (mtrCount + 2)  // 천창
             ], 
             "focus":true
         }
@@ -79,15 +79,15 @@ else {  // 센서 수가 3, 6 일 때
     msg.payload = {
         "group": {
             "show": [   // 대시보드에 해당 그룹을 나타냄
-                "자동개폐기(동)_구분1", "자동개폐기(동)_구분" + (thCount - 4),  // 구분
-                "자동개폐기(동)_센서" + thCount, "자동개폐기(동)_센서" + (thCount - 1), "자동개폐기(동)_센서" + (thCount - 2), "자동개폐기(동)_센서" + (thCount - 3), "자동개폐기(동)_센서" + (thCount - 4), "자동개폐기(동)_센서" + (thCount - 5), // 센서
-                "자동개폐기(동)_천창" + (mtrCount - 1), "자동개폐기(동)_천창" + mtrCount    // 천창
+                "자동개폐기_구분1", "자동개폐기_구분" + (thCount - 4),  // 구분
+                "자동개폐기_센서" + thCount, "자동개폐기_센서" + (thCount - 1), "자동개폐기_센서" + (thCount - 2), "자동개폐기_센서" + (thCount - 3), "자동개폐기_센서" + (thCount - 4), "자동개폐기_센서" + (thCount - 5), // 센서
+                "자동개폐기_천창" + (mtrCount - 1), "자동개폐기_천창" + mtrCount    // 천창
             ], 
             "hide": [   // 대시보드에서 해당 그룹을 숨김
-                "자동개폐기(동)_구분" + (thCount - 1),  // 구분
-                "자동개폐기(동)_spacerLeft_dvc" + (thCount + 1), "자동개폐기(동)_spacerLeft_dvc" + (thCount + 2), "자동개폐기(동)_spacerLeft_dvc" + (thCount - 1), "자동개폐기(동)_spacerLeft_dvc" + (thCount - 2), "자동개폐기(동)_spacerLeft_dvc" + (thCount - 4), "자동개폐기(동)_spacerLeft_dvc" + (thCount - 5), "자동개폐기(동)_spacerRight_dvc" + (thCount + 1), "자동개폐기(동)_spacerRight_dvc" + (thCount + 2), "자동개폐기(동)_spacerRight_dvc" + (thCount - 1), "자동개폐기(동)_spacerRight_dvc" + (thCount - 2), "자동개폐기(동)_spacerRight_dvc" + (thCount - 4), "자동개폐기(동)_spacerRight_dvc" + (thCount - 5),  // spacer
-                "자동개폐기(동)_센서" + (thCount + 1), "자동개폐기(동)_센서" + (thCount + 2), "자동개폐기(동)_센서" + (thCount + 3), "자동개폐기(동)_(2)센서3", // 센서
-                "자동개폐기(동)_천창" + (mtrCount + 1), "자동개폐기(동)_천창" + (mtrCount + 2)  // 천창
+                "자동개폐기_구분" + (thCount - 1),  // 구분
+                "자동개폐기_spacerLeft_dvc" + (thCount + 1), "자동개폐기_spacerLeft_dvc" + (thCount + 2), "자동개폐기_spacerLeft_dvc" + (thCount - 1), "자동개폐기_spacerLeft_dvc" + (thCount - 2), "자동개폐기_spacerLeft_dvc" + (thCount - 4), "자동개폐기_spacerLeft_dvc" + (thCount - 5), "자동개폐기_spacerRight_dvc" + (thCount + 1), "자동개폐기_spacerRight_dvc" + (thCount + 2), "자동개폐기_spacerRight_dvc" + (thCount - 1), "자동개폐기_spacerRight_dvc" + (thCount - 2), "자동개폐기_spacerRight_dvc" + (thCount - 4), "자동개폐기_spacerRight_dvc" + (thCount - 5),  // spacer
+                "자동개폐기_센서" + (thCount + 1), "자동개폐기_센서" + (thCount + 2), "자동개폐기_센서" + (thCount + 3), "자동개폐기_(2)센서3", // 센서
+                "자동개폐기_천창" + (mtrCount + 1), "자동개폐기_천창" + (mtrCount + 2)  // 천창
             ], 
             "focus":true
         }
