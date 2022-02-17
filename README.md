@@ -1,28 +1,30 @@
-# SmartFarm
+# SmartFarm UI 제작 Project
 
 > 유비샘 (2022.01 - 2022.02)
 
-## 프로젝트 설명
-- 프로젝트명 : **SmartFarm UI 제작**
-
-- 프로젝트 소개 :
-    - Configuration file(ControllerConfigFile.txt)과 Database schema(tableSchema.sql) 정보를 이용하여 데이터 생성
-    - Node-RED와 DB를 연동하여 기존 화면을 동적인 UI 화면으로 구상
+## Project Description
+   - Configuration file(ControllerConfigFile.txt)과 Database schema(tableSchema.sql) 정보를 이용하여 데이터 생성
     
-- 개발 환경 및 사용 기술 : 
-
-    <img src="https://user-images.githubusercontent.com/67498595/154415367-e2db53d0-4fb9-4f94-a172-7b21d2aff91d.svg" width = "100" height = "100"></br>
+   - Node-RED와 DB를 연동하여 기존 화면을 동적인 UI 화면으로 구상
     
-    <img src="https://user-images.githubusercontent.com/67498595/154413312-34b6eef1-3045-4247-a103-dfc8611ab97f.png" width = "100" height = "100">
+## Project Environment 
     
-    ![image](https://user-images.githubusercontent.com/67498595/154221609-49c6f4e3-a766-465a-a090-241e292e026f.png)
+   <img src="https://user-images.githubusercontent.com/67498595/154415367-e2db53d0-4fb9-4f94-a172-7b21d2aff91d.svg" width = "100" height = "100"></br>
+   
+   <img src="https://user-images.githubusercontent.com/67498595/154413312-34b6eef1-3045-4247-a103-dfc8611ab97f.png" width = "100" height = "100">
+   
+   ![image](https://user-images.githubusercontent.com/67498595/154221609-49c6f4e3-a766-465a-a090-241e292e026f.png)
 
 
-## 프로젝트 결과물
+## Project File
+
    ### :file_folder: Data
+   > *tableSchema.sql* 을 이용하여 생성한 Database File
    ### :file_folder: Info
+   >
    ### :file_folder: UI
-    
+   >
+
 - 생성 데이터(test.db)
 
   예시1. [table명 : smartfarm_1]
