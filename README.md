@@ -1,4 +1,4 @@
-# Smartfarm UI 제작 Project
+# Smart-arm UI 제작 Project
 
 > 유비샘 (2022.01 - 2022.02)
 
