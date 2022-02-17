@@ -77,10 +77,3 @@ create table IF NOT EXISTS tMstObjectItemNew
 
    PRIMARY KEY (RowNo)                   -- UNIQUE(RowNo)
 );
-
--- <UI 디자인에 필요한>
--- ObjectType : 장비 종류 파악시 필요
--- objectPin1/2 : 모터, 밸브 사용 여부 파악시 필요
--- MotorOperTime : 모터 작동 시간 설정시 필요
--- OperationStartTime : 모터, 밸브 작동 시작 시간 필요
--- ThTempOpen, ThTempClose : 온(습)도계 목표 온도 설정시 필요
