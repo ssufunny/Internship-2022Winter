@@ -20,6 +20,8 @@
 
    ### :file_folder: Data (생성 파일)
    > *tableSchema.sql* 을 이용하여 생성한 Database File
+   ### :file_folder: FlowS (생성 파일)
+   > Node-RED에 생성한 Flow File 
    ### :file_folder: Info (받은 파일)
    > Smartfarm UI 제작에 있어 필요한 기본 정보 자료 File 
    ### :file_folder: UI (생성 파일)
