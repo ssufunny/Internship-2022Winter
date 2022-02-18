@@ -1,6 +1,7 @@
-# Smart-arm UI 제작 Project
+# Smart-Farm UI 제작 Project
 
-> 유비샘 (2022.01 - 2022.02)
+> 유비샘 (2022.01 - 2022.02)</br>
+> 2팀 안형근, 김지수
 
 ## Project Description
    - Configuration file(ControllerConfigFile.txt)과 Database schema(tableSchema.sql) 정보를 이용하여 데이터 생성
@@ -19,8 +20,8 @@
 ## Project File
 
    ### :file_folder: Data (생성 파일)
-   > *tableSchema.sql* 을 이용하여 생성한 Database File
-   ### :file_folder: FlowS (생성 파일)
+   > *tableSchema.sql* 을 이용하여 생성한 Database File 
+   ### :file_folder: Flows (생성 파일)
    > Node-RED에 생성한 Flow File 
    ### :file_folder: Info (받은 파일)
    > Smartfarm UI 제작에 있어 필요한 기본 정보 자료 File 
