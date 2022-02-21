@@ -23,4 +23,4 @@
 ## Project Result
   | 구분 | UI 화면 | 구분 | UI 화면 |
   |:---:|:---:|:---:|:---:|
-  | Node-RED 제어화면 | ![node-RED 제어화면](https://user-images.githubusercontent.com/81690621/154901559-d676bce1-6da5-4303-a477-681bc184d7e2.png) | Config 파일이 생성된 모습 | ![Config 파일이 생성된 모습](https://user-images.githubusercontent.com/81690621/154900382-15546367-5497-4ffa-a92c-9555141e99bc.png) |
+  | Node-RED 제어화면 | ![node-RED 제어화면](https://user-images.githubusercontent.com/81690621/154901704-73a85621-dcd3-4733-926e-0ef2c998c449.png) | Config 파일이 생성된 모습 | ![Config 파일이 생성된 모습](https://user-images.githubusercontent.com/81690621/154900382-15546367-5497-4ffa-a92c-9555141e99bc.png) |
