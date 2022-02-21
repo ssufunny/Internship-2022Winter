@@ -3,8 +3,8 @@
 > 유비샘 (2022.01 - 2022.02)
 
 ## Project participants
--한기대   강신혁
--한기대   추교윤
+-한기대   강신혁<br/>
+-한기대   추교윤<br/>
 -한국외대 최다빈
 
 ## Project Description
