@@ -21,6 +21,6 @@
    <img src="https://user-images.githubusercontent.com/81690621/154899664-0de73253-4a8c-4d38-ae4d-1dd45b4d74bc.png" width = "100" height = "100">
 
 ## Project Result
-  | 구분 | UI 화면 | 구분 | test  |
+  | 구분 | UI 화면 | 구분 | test 결과 |
   |:---:|:---:|:---:|:---:|
   | Node-RED 제어화면 | ![node-RED 제어화면](https://user-images.githubusercontent.com/81690621/154901704-73a85621-dcd3-4733-926e-0ef2c998c449.png) | Config 파일이 생성된 모습 | ![Config 파일이 생성된 모습](https://user-images.githubusercontent.com/81690621/154900382-15546367-5497-4ffa-a92c-9555141e99bc.png) |
