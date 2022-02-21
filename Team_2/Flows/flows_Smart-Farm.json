@@ -99,78 +99,6 @@
         "h": 82
     },
     {
-        "id": "2f10a127063692b1",
-        "type": "group",
-        "z": "4cddfbde14dbe5c4",
-        "g": "880a9c640df8c4a9",
-        "name": "천창2",
-        "style": {
-            "label": true,
-            "color": "#000000"
-        },
-        "nodes": [
-            "c482ddd0aefd8706",
-            "80ebd02174907a9e",
-            "f5a1ae9ebb512bc6",
-            "ef07c9a25ec63f6c",
-            "57bf735bfc671992",
-            "307ac28ca6a79aca",
-            "338c476f5301f5c7"
-        ],
-        "x": 1394,
-        "y": 379,
-        "w": 512,
-        "h": 242
-    },
-    {
-        "id": "1fc2283daf38edd4",
-        "type": "group",
-        "z": "4cddfbde14dbe5c4",
-        "g": "880a9c640df8c4a9",
-        "name": "천장1",
-        "style": {
-            "label": true,
-            "color": "#000000"
-        },
-        "nodes": [
-            "3357c9a0a8b3d3a5",
-            "cb19e8654d759add",
-            "9a76581cd5ee35d2",
-            "499da313a869a6b3",
-            "42b0c6536fe63dee",
-            "f821f2758b294249",
-            "c12e711211db87e0"
-        ],
-        "x": 854,
-        "y": 379,
-        "w": 512,
-        "h": 242
-    },
-    {
-        "id": "63bc8aa3e1bae918",
-        "type": "group",
-        "z": "4cddfbde14dbe5c4",
-        "g": "880a9c640df8c4a9",
-        "name": "천창3",
-        "style": {
-            "label": true,
-            "color": "#000000"
-        },
-        "nodes": [
-            "76b530c338296490",
-            "2b827d704db77237",
-            "3a36337dd9a9f831",
-            "484cdf3163d64646",
-            "2d463c7196622f5d",
-            "cb8b27b5f7a6f839",
-            "7511e3b118ac9d57"
-        ],
-        "x": 854,
-        "y": 639,
-        "w": 512,
-        "h": 242
-    },
-    {
         "id": "b6e858ac2b850cfe",
         "type": "group",
         "z": "4cddfbde14dbe5c4",
@@ -202,8 +130,8 @@
             "bad744acf46238ba",
             "338422dc85076567"
         ],
-        "x": 674,
-        "y": 99,
+        "x": 394,
+        "y": 119,
         "w": 172,
         "h": 242
     },
@@ -225,8 +153,8 @@
             "0c4981f2ec7809c2",
             "ab508935656009cc"
         ],
-        "x": 874,
-        "y": 19,
+        "x": 574,
+        "y": 119,
         "w": 152,
         "h": 322
     },
@@ -249,7 +177,7 @@
             "a9e90e7fe8997691",
             "0045e469b606ac65"
         ],
-        "x": 214,
+        "x": 34,
         "y": 119,
         "w": 352,
         "h": 202
@@ -273,8 +201,8 @@
             "f13c8c653c606921",
             "aac985cdbe42e7e6"
         ],
-        "x": 1214,
-        "y": 79,
+        "x": 954,
+        "y": 19,
         "w": 352,
         "h": 202
     },
@@ -364,7 +292,7 @@
             "63bc8aa3e1bae918"
         ],
         "x": 828,
-        "y": 353,
+        "y": 333,
         "w": 1104,
         "h": 554
     },
@@ -421,14 +349,14 @@
         "nodes": [
             "4e0957f80a7b5f24",
             "544442283c7959e2",
-            "6090c4f91a859723",
             "2704469c06a97c2f",
-            "5b21e6eb44233c15"
+            "5b21e6eb44233c15",
+            "74d94ea507b39c70"
         ],
         "x": 34,
-        "y": 5,
+        "y": 13,
         "w": 832,
-        "h": 82
+        "h": 88
     },
     {
         "id": "ab8d328aa1f832a8",
@@ -451,165 +379,6 @@
         "h": 82
     },
     {
-        "id": "ca4e3080d073dd4c",
-        "type": "group",
-        "z": "31600a7ce055a3df",
-        "g": "0fe9076073b80468",
-        "name": "관수1",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "f3de685b953768a9",
-            "22bd327ec2a2c52a",
-            "21429fb8d1f65c13",
-            "e9b8954042f0ef4c",
-            "70fadcbc26025672",
-            "a96fb1522fb4ef78",
-            "2e85e84145512377"
-        ],
-        "x": 54,
-        "y": 379,
-        "w": 312,
-        "h": 282
-    },
-    {
-        "id": "67dc78541717d9af",
-        "type": "group",
-        "z": "31600a7ce055a3df",
-        "g": "0fe9076073b80468",
-        "name": "관수2",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "66ac1d14d336cb15",
-            "1f6cfac2e78ca65d",
-            "bb3502fb7b08a538",
-            "ed405ec96d78d1d2",
-            "6460d49ca63ca483",
-            "ef63cd475f98a94e",
-            "eafa419ff56d4942"
-        ],
-        "x": 374,
-        "y": 379,
-        "w": 312,
-        "h": 282
-    },
-    {
-        "id": "43bcd596e4fa6e3b",
-        "type": "group",
-        "z": "31600a7ce055a3df",
-        "g": "0fe9076073b80468",
-        "name": "관수3",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "494335da58a58f71",
-            "7af11b73a4cd9fb4",
-            "90e20e75fea64433",
-            "14f823ac234f56ad",
-            "8d5d22446cd00d4a",
-            "6106519427848380",
-            "82f3653884d6831d"
-        ],
-        "x": 694,
-        "y": 379,
-        "w": 312,
-        "h": 282
-    },
-    {
-        "id": "aca63dbc62fa81dd",
-        "type": "group",
-        "z": "31600a7ce055a3df",
-        "g": "0fe9076073b80468",
-        "name": "관수4",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "11b66beae955ef19",
-            "03035c8c52aa6dd0",
-            "96353eec17a05990",
-            "14c3c80b06115c58",
-            "7bf02db087aa87ae",
-            "a3794a9dba23c519",
-            "cede1409417f1493"
-        ],
-        "x": 54,
-        "y": 679,
-        "w": 312,
-        "h": 282
-    },
-    {
-        "id": "970c988dd954b8fc",
-        "type": "group",
-        "z": "31600a7ce055a3df",
-        "g": "0fe9076073b80468",
-        "name": "관수5",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "adb3efea09a5eb9b",
-            "2b6110bceaed5cb6",
-            "e2d53796b5c973f7",
-            "6fab98180618904e",
-            "6f4315664019072f",
-            "1988aee25489bdcc",
-            "31e36917786b16b6"
-        ],
-        "x": 374,
-        "y": 679,
-        "w": 312,
-        "h": 282
-    },
-    {
-        "id": "91638591cdc21708",
-        "type": "group",
-        "z": "31600a7ce055a3df",
-        "g": "0fe9076073b80468",
-        "name": "관수6",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "dd361d2eb515bb37",
-            "877f2e3a0e4532aa",
-            "a10bf816cbd83f1b",
-            "cc99bb5fb9fe84b6",
-            "475d579416010626",
-            "67f6873a549a6c67",
-            "343fd3f86391c508"
-        ],
-        "x": 694,
-        "y": 679,
-        "w": 312,
-        "h": 282
-    },
-    {
-        "id": "0fe9076073b80468",
-        "type": "group",
-        "z": "31600a7ce055a3df",
-        "name": "관수",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "ca4e3080d073dd4c",
-            "67dc78541717d9af",
-            "43bcd596e4fa6e3b",
-            "aca63dbc62fa81dd",
-            "970c988dd954b8fc",
-            "91638591cdc21708"
-        ],
-        "x": 28,
-        "y": 353,
-        "w": 1004,
-        "h": 634
-    },
-    {
         "id": "758834ae989ac457",
         "type": "group",
         "z": "27e630aa57f5427b",
@@ -618,14 +387,14 @@
             "label": true
         },
         "nodes": [
-            "4ddab33dbb56218d",
             "da0590c1c0dc587b",
             "956e88d2470f4f35",
             "1105d0d05694d207",
-            "1b4816b92ed87fde"
+            "1b4816b92ed87fde",
+            "2365c772f83da9d0"
         ],
         "x": 54,
-        "y": 5,
+        "y": 19,
         "w": 1092,
         "h": 82
     },
@@ -833,6 +602,420 @@
         "h": 322
     },
     {
+        "id": "d4c315bbb4c6610f",
+        "type": "group",
+        "z": "4d3ec98e95c610e9",
+        "name": "DB 연결",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "5b928203fb9d97c2",
+            "257e45d00e3b6265",
+            "76bcc298fe8629e8",
+            "b9dc07d7e0955f0f",
+            "9721b48d60c138bd",
+            "a83e17c4017d1adc"
+        ],
+        "x": 74,
+        "y": 59,
+        "w": 852,
+        "h": 122
+    },
+    {
+        "id": "2f10a127063692b1",
+        "type": "group",
+        "z": "4cddfbde14dbe5c4",
+        "g": "880a9c640df8c4a9",
+        "name": "천창2",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "c482ddd0aefd8706",
+            "80ebd02174907a9e",
+            "f5a1ae9ebb512bc6",
+            "ef07c9a25ec63f6c",
+            "57bf735bfc671992",
+            "307ac28ca6a79aca",
+            "338c476f5301f5c7"
+        ],
+        "x": 1394,
+        "y": 359,
+        "w": 512,
+        "h": 242
+    },
+    {
+        "id": "1fc2283daf38edd4",
+        "type": "group",
+        "z": "4cddfbde14dbe5c4",
+        "g": "880a9c640df8c4a9",
+        "name": "천장1",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "3357c9a0a8b3d3a5",
+            "cb19e8654d759add",
+            "9a76581cd5ee35d2",
+            "499da313a869a6b3",
+            "42b0c6536fe63dee",
+            "f821f2758b294249",
+            "c12e711211db87e0"
+        ],
+        "x": 854,
+        "y": 359,
+        "w": 512,
+        "h": 242
+    },
+    {
+        "id": "63bc8aa3e1bae918",
+        "type": "group",
+        "z": "4cddfbde14dbe5c4",
+        "g": "880a9c640df8c4a9",
+        "name": "천창3",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "76b530c338296490",
+            "2b827d704db77237",
+            "3a36337dd9a9f831",
+            "484cdf3163d64646",
+            "2d463c7196622f5d",
+            "cb8b27b5f7a6f839",
+            "7511e3b118ac9d57"
+        ],
+        "x": 854,
+        "y": 619,
+        "w": 512,
+        "h": 242
+    },
+    {
+        "id": "ca4e3080d073dd4c",
+        "type": "group",
+        "z": "31600a7ce055a3df",
+        "g": "0fe9076073b80468",
+        "name": "관수1",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "f3de685b953768a9",
+            "22bd327ec2a2c52a",
+            "21429fb8d1f65c13",
+            "e9b8954042f0ef4c",
+            "70fadcbc26025672",
+            "a96fb1522fb4ef78",
+            "2e85e84145512377"
+        ],
+        "x": 774,
+        "y": 139,
+        "w": 312,
+        "h": 282
+    },
+    {
+        "id": "67dc78541717d9af",
+        "type": "group",
+        "z": "31600a7ce055a3df",
+        "g": "0fe9076073b80468",
+        "name": "관수2",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "66ac1d14d336cb15",
+            "1f6cfac2e78ca65d",
+            "bb3502fb7b08a538",
+            "ed405ec96d78d1d2",
+            "6460d49ca63ca483",
+            "ef63cd475f98a94e",
+            "eafa419ff56d4942"
+        ],
+        "x": 1094,
+        "y": 139,
+        "w": 312,
+        "h": 282
+    },
+    {
+        "id": "43bcd596e4fa6e3b",
+        "type": "group",
+        "z": "31600a7ce055a3df",
+        "g": "0fe9076073b80468",
+        "name": "관수3",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "494335da58a58f71",
+            "7af11b73a4cd9fb4",
+            "90e20e75fea64433",
+            "14f823ac234f56ad",
+            "8d5d22446cd00d4a",
+            "6106519427848380",
+            "82f3653884d6831d"
+        ],
+        "x": 1414,
+        "y": 139,
+        "w": 312,
+        "h": 282
+    },
+    {
+        "id": "aca63dbc62fa81dd",
+        "type": "group",
+        "z": "31600a7ce055a3df",
+        "g": "0fe9076073b80468",
+        "name": "관수4",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "11b66beae955ef19",
+            "03035c8c52aa6dd0",
+            "96353eec17a05990",
+            "14c3c80b06115c58",
+            "7bf02db087aa87ae",
+            "a3794a9dba23c519",
+            "cede1409417f1493"
+        ],
+        "x": 774,
+        "y": 439,
+        "w": 312,
+        "h": 282
+    },
+    {
+        "id": "970c988dd954b8fc",
+        "type": "group",
+        "z": "31600a7ce055a3df",
+        "g": "0fe9076073b80468",
+        "name": "관수5",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "adb3efea09a5eb9b",
+            "2b6110bceaed5cb6",
+            "e2d53796b5c973f7",
+            "6fab98180618904e",
+            "6f4315664019072f",
+            "1988aee25489bdcc",
+            "31e36917786b16b6"
+        ],
+        "x": 1094,
+        "y": 439,
+        "w": 312,
+        "h": 282
+    },
+    {
+        "id": "91638591cdc21708",
+        "type": "group",
+        "z": "31600a7ce055a3df",
+        "g": "0fe9076073b80468",
+        "name": "관수6",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "dd361d2eb515bb37",
+            "877f2e3a0e4532aa",
+            "a10bf816cbd83f1b",
+            "cc99bb5fb9fe84b6",
+            "475d579416010626",
+            "67f6873a549a6c67",
+            "343fd3f86391c508"
+        ],
+        "x": 1414,
+        "y": 439,
+        "w": 312,
+        "h": 282
+    },
+    {
+        "id": "4232b464a3c1da3d",
+        "type": "group",
+        "z": "4d3ec98e95c610e9",
+        "name": "번호목록1",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "2e3ebdfc55af918e",
+            "55ac42dfeadff5ed",
+            "f8d18522a0c3fc34",
+            "4d411ac51af43356",
+            "1b2bc90465401dce",
+            "f2b42ec51d54f71c",
+            "dd571b97e4a48fc4",
+            "1822b8cbbdfd5934",
+            "1bf7536629ed6ec9",
+            "b6d1b238c1347fac",
+            "9a43ed5d90ec113d",
+            "a34535ca784d448c"
+        ],
+        "x": 74,
+        "y": 239,
+        "w": 912,
+        "h": 162
+    },
+    {
+        "id": "969a9825278b5843",
+        "type": "group",
+        "z": "4d3ec98e95c610e9",
+        "name": "번호목록2",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "417abb8b6c1e17bd",
+            "6043095b42f6dec7",
+            "88a92bc6a2be910a",
+            "341a663f4eea7702",
+            "0a1a11969478f5ea",
+            "3d0837869ecf560b",
+            "550f21411d7b0de5",
+            "4523fe30b07c231d",
+            "349ba1b99071d271",
+            "3cf28e42245118f4",
+            "3fdd703fa2d854fb",
+            "1d3c1d28deec7142"
+        ],
+        "x": 74,
+        "y": 399,
+        "w": 912,
+        "h": 162
+    },
+    {
+        "id": "adbdb1f0b42acd77",
+        "type": "group",
+        "z": "4d3ec98e95c610e9",
+        "name": "번호목록3",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "737aa4fc84da9a35",
+            "244f875ad99f4ebb",
+            "bbe36edea19bfb38",
+            "be70d9678786b639",
+            "68f047c3537802aa",
+            "437b493c7f2bc17b",
+            "10db8e5641804509",
+            "da87f24488f3670d",
+            "64b7be51d2669f28",
+            "08cf55179cef0a24",
+            "4332dd775fce6859",
+            "8657cfa2518f0d0f"
+        ],
+        "x": 74,
+        "y": 559,
+        "w": 912,
+        "h": 162
+    },
+    {
+        "id": "b8a12db1b5d3f287",
+        "type": "group",
+        "z": "4d3ec98e95c610e9",
+        "name": "번호목록4",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "9c4c8dbb4e48fe72",
+            "8dd3dedfeeda0c7f",
+            "0ead7053ef5fc5b9",
+            "0fab22647397bb9f",
+            "2a5bcdc60242025b",
+            "9abbc31871469ee0",
+            "cfa78cd5a803b96c",
+            "1fe62b83df83ae6c",
+            "a42708d5e978e8f8",
+            "54dba5598f19c2ee",
+            "6ff33f0c211e5b04",
+            "166442c37b791afa"
+        ],
+        "x": 994,
+        "y": 239,
+        "w": 912,
+        "h": 162
+    },
+    {
+        "id": "e18e989bb9c9d956",
+        "type": "group",
+        "z": "4d3ec98e95c610e9",
+        "name": "번호목록5",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "c6a11463da973ead",
+            "66c0d3f49ccfd9bb",
+            "777769907d2c6c71",
+            "580084d6971423f2",
+            "fe468a11411223d1",
+            "d46b70d3949b5f64",
+            "af6547929df8a995",
+            "adf62a67b945b62f",
+            "be0d603bb9eb619f",
+            "cac872eea1091c52",
+            "a6f47efa27c3231d",
+            "94ee331adf0204b3"
+        ],
+        "x": 994,
+        "y": 399,
+        "w": 912,
+        "h": 162
+    },
+    {
+        "id": "4d19105832274ffa",
+        "type": "group",
+        "z": "4d3ec98e95c610e9",
+        "name": "번호목록6",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "df303bbfde98db97",
+            "a9d95015aa0f1ffa",
+            "515814e49d487933",
+            "7cf3a062b8297017",
+            "94157c550870e515",
+            "b7f2569c2ce6ba6d",
+            "2657ec8930a0e511",
+            "2db103f3f3fe5ed8",
+            "76d33831e72e5fe5",
+            "a79e48130c138703",
+            "a33afc9047dfb1c8",
+            "a63fa0d5ae9587e1"
+        ],
+        "x": 994,
+        "y": 559,
+        "w": 912,
+        "h": 162
+    },
+    {
+        "id": "0fe9076073b80468",
+        "type": "group",
+        "z": "31600a7ce055a3df",
+        "name": "관수",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "ca4e3080d073dd4c",
+            "67dc78541717d9af",
+            "43bcd596e4fa6e3b",
+            "aca63dbc62fa81dd",
+            "970c988dd954b8fc",
+            "91638591cdc21708"
+        ],
+        "x": 748,
+        "y": 113,
+        "w": 1004,
+        "h": 634
+    },
+    {
         "id": "5ac4f52b3eb9426b",
         "type": "ui_group",
         "name": "온습도",
@@ -955,7 +1138,7 @@
     {
         "id": "5b70977fbad2fd6b",
         "type": "sqlitedb",
-        "db": "C:\\Users\\user\\Documents\\한국외대\\현장실습\\유비샘\\ubifarm\\Data\\smartfarm.db",
+        "db": "C:\\Users\\user\\Documents\\한국외대\\현장실습\\유비샘\\2022-FieldPracticeAtUbiSam\\Team_2\\Data\\smartfarm.db",
         "mode": "RWC"
     },
     {
@@ -2339,11 +2522,11 @@
     {
         "id": "9c4f79e5a72ac23e",
         "type": "ui_group",
-        "name": "번호목록(1-12)",
+        "name": "번호목록1",
         "tab": "32a7082327a78699",
         "order": 5,
         "disp": false,
-        "width": "4",
+        "width": "17",
         "collapse": false,
         "className": ""
     },
@@ -2374,7 +2557,7 @@
         "tab": "32a7082327a78699",
         "order": 4,
         "disp": false,
-        "width": "4",
+        "width": "2",
         "collapse": false,
         "className": ""
     },
@@ -2383,43 +2566,33 @@
         "type": "ui_group",
         "name": "spacerRight_num",
         "tab": "32a7082327a78699",
-        "order": 8,
+        "order": 6,
         "disp": false,
-        "width": "4",
+        "width": "1",
         "collapse": false,
         "className": ""
     },
     {
         "id": "fcb28e13ce55cb43",
         "type": "ui_group",
-        "name": "번호목록(13-24)",
+        "name": "번호목록3",
         "tab": "32a7082327a78699",
-        "order": 6,
+        "order": 8,
         "disp": false,
-        "width": "4",
+        "width": "17",
         "collapse": false,
         "className": ""
     },
     {
         "id": "625bcb71d7134839",
         "type": "ui_group",
-        "name": "번호목록(25-36)",
+        "name": "번호목록5",
         "tab": "32a7082327a78699",
-        "order": 7,
+        "order": 10,
         "disp": false,
-        "width": "4",
+        "width": "17",
         "collapse": false,
         "className": ""
-    },
-    {
-        "id": "235dbebc9a7cd2da",
-        "type": "ui_spacer",
-        "z": "4d3ec98e95c610e9",
-        "name": "spacer",
-        "group": "c7c14458423dfab5",
-        "order": 2,
-        "width": "4",
-        "height": "12"
     },
     {
         "id": "d0d869d837323ea1",
@@ -2428,7 +2601,7 @@
         "name": "spacer",
         "group": "e9938077166ba1c4",
         "order": 6,
-        "width": "4",
+        "width": "1",
         "height": "12"
     },
     {
@@ -2683,6 +2856,169 @@
         "order": 13,
         "width": "2",
         "height": "10"
+    },
+    {
+        "id": "235eb2a0b3dd3139",
+        "type": "ui_group",
+        "name": "번호목록2",
+        "tab": "32a7082327a78699",
+        "order": 7,
+        "disp": false,
+        "width": "17",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "ce0d3b0a485f8f0d",
+        "type": "ui_group",
+        "name": "번호목록4",
+        "tab": "32a7082327a78699",
+        "order": 9,
+        "disp": false,
+        "width": "17",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "3d8fb5fa3f9e9ed6",
+        "type": "ui_group",
+        "name": "번호목록6",
+        "tab": "32a7082327a78699",
+        "order": 11,
+        "disp": false,
+        "width": "17",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "0847fa4fe89b2273",
+        "type": "ui_spacer",
+        "z": "4d3ec98e95c610e9",
+        "name": "spacer",
+        "group": "c7c14458423dfab5",
+        "order": 4,
+        "width": "2",
+        "height": "12"
+    },
+    {
+        "id": "95b33fa580b9c077",
+        "type": "ui_spacer",
+        "z": "4d3ec98e95c610e9",
+        "name": "spacer",
+        "group": "9c4f79e5a72ac23e",
+        "order": 5,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "4366ad71242efc29",
+        "type": "ui_spacer",
+        "z": "4d3ec98e95c610e9",
+        "name": "spacer",
+        "group": "9c4f79e5a72ac23e",
+        "order": 10,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "535240f3a0f93e2b",
+        "type": "ui_spacer",
+        "z": "4d3ec98e95c610e9",
+        "name": "spacer",
+        "group": "235eb2a0b3dd3139",
+        "order": 5,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "c213d019c123ae68",
+        "type": "ui_spacer",
+        "z": "4d3ec98e95c610e9",
+        "name": "spacer",
+        "group": "235eb2a0b3dd3139",
+        "order": 10,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "43567c307a3f33cb",
+        "type": "ui_spacer",
+        "z": "4d3ec98e95c610e9",
+        "name": "spacer",
+        "group": "fcb28e13ce55cb43",
+        "order": 5,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "081ff61894988909",
+        "type": "ui_spacer",
+        "z": "4d3ec98e95c610e9",
+        "name": "spacer",
+        "group": "fcb28e13ce55cb43",
+        "order": 10,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "816ffa039e48d408",
+        "type": "ui_spacer",
+        "z": "4d3ec98e95c610e9",
+        "name": "spacer",
+        "group": "ce0d3b0a485f8f0d",
+        "order": 5,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "549581d0ce583ddf",
+        "type": "ui_spacer",
+        "z": "4d3ec98e95c610e9",
+        "name": "spacer",
+        "group": "ce0d3b0a485f8f0d",
+        "order": 10,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "25ab31ea9de0a118",
+        "type": "ui_spacer",
+        "z": "4d3ec98e95c610e9",
+        "name": "spacer",
+        "group": "625bcb71d7134839",
+        "order": 5,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "7c2e15c614b46cf2",
+        "type": "ui_spacer",
+        "z": "4d3ec98e95c610e9",
+        "name": "spacer",
+        "group": "625bcb71d7134839",
+        "order": 10,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "46084fc621999c58",
+        "type": "ui_spacer",
+        "z": "4d3ec98e95c610e9",
+        "name": "spacer",
+        "group": "3d8fb5fa3f9e9ed6",
+        "order": 5,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "8e99f25c44cc7473",
+        "type": "ui_spacer",
+        "z": "4d3ec98e95c610e9",
+        "name": "spacer",
+        "group": "3d8fb5fa3f9e9ed6",
+        "order": 10,
+        "width": 1,
+        "height": 1
     },
     {
         "id": "e1457dd0113aba42",
@@ -3301,7 +3637,7 @@
         "topic": "topic",
         "topicType": "msg",
         "x": 1670,
-        "y": 420,
+        "y": 400,
         "wires": [
             [
                 "338c476f5301f5c7"
@@ -3330,7 +3666,7 @@
         "topic": "topic",
         "topicType": "msg",
         "x": 1670,
-        "y": 460,
+        "y": 440,
         "wires": [
             [
                 "338c476f5301f5c7"
@@ -3359,7 +3695,7 @@
         "topic": "topic",
         "topicType": "msg",
         "x": 1670,
-        "y": 500,
+        "y": 480,
         "wires": [
             [
                 "338c476f5301f5c7"
@@ -3388,7 +3724,7 @@
         "topic": "topic",
         "topicType": "msg",
         "x": 1670,
-        "y": 540,
+        "y": 520,
         "wires": [
             [
                 "338c476f5301f5c7"
@@ -3417,7 +3753,7 @@
         "topic": "topic",
         "topicType": "msg",
         "x": 1670,
-        "y": 580,
+        "y": 560,
         "wires": [
             [
                 "338c476f5301f5c7"
@@ -3446,7 +3782,7 @@
         "topic": "topic",
         "topicType": "msg",
         "x": 1470,
-        "y": 500,
+        "y": 480,
         "wires": [
             [
                 "80ebd02174907a9e",
@@ -3479,7 +3815,7 @@
         "topic": "topic",
         "topicType": "msg",
         "x": 1130,
-        "y": 420,
+        "y": 400,
         "wires": [
             [
                 "c12e711211db87e0"
@@ -3508,7 +3844,7 @@
         "topic": "topic",
         "topicType": "msg",
         "x": 1130,
-        "y": 460,
+        "y": 440,
         "wires": [
             [
                 "c12e711211db87e0"
@@ -3537,7 +3873,7 @@
         "topic": "topic",
         "topicType": "msg",
         "x": 1130,
-        "y": 500,
+        "y": 480,
         "wires": [
             [
                 "c12e711211db87e0"
@@ -3566,7 +3902,7 @@
         "topic": "topic",
         "topicType": "msg",
         "x": 1130,
-        "y": 540,
+        "y": 520,
         "wires": [
             [
                 "c12e711211db87e0"
@@ -3595,7 +3931,7 @@
         "topic": "topic",
         "topicType": "msg",
         "x": 1130,
-        "y": 580,
+        "y": 560,
         "wires": [
             [
                 "c12e711211db87e0"
@@ -3624,7 +3960,7 @@
         "topic": "topic",
         "topicType": "msg",
         "x": 930,
-        "y": 500,
+        "y": 480,
         "wires": [
             [
                 "3357c9a0a8b3d3a5",
@@ -3643,8 +3979,8 @@
         "mydb": "5b70977fbad2fd6b",
         "sqlquery": "msg.topic",
         "sql": "",
-        "name": "test",
-        "x": 510,
+        "name": "Smart-Farm",
+        "x": 590,
         "y": 60,
         "wires": [
             [
@@ -3657,14 +3993,14 @@
         "type": "function",
         "z": "4cddfbde14dbe5c4",
         "g": "ab8d328aa1f832a8",
-        "name": "",
+        "name": "autoSwitch.js",
         "func": "// <자동개폐기>\n// 1. 온습도 - 온습도센서, 온도센서, 습도센서\n//    최대 센서의 개수는 6개로 제한\n// 2. 천창개폐기 - 모터\n//    최대 모터의 개수는 3개로 제한\n//    모터 1개일 때, 모터 위치 : TopMid\n//    모터 2개일 때, 모터 위치 : TopLeft, TopRight\n//    모터 3개일 때, 모터 위치 : TopLeft, TopMid, TopRight\n\n// db에서 불러온 data를 활용하여 장비 수에 맞게 ui가 동적으로 적용되도록 하는 코드 작성\n// db를 통해 얻은 장비의 수만큼 그룹을 나타내고 그 이상의 그룹은 숨김 처리\n\nvar deviceCount = msg.payload.length // 센서와 모터 수의 합\nvar thCount = 0 // 센서 개수\nvar mtrCount = 0 // 모터 개수\n\n\nfor (i = 0; i < deviceCount; i++) { // 센서와 모터 수의 합만큼 반복\n    if (msg.payload[i].OperationControlMode == \"S\") { // 장비 종류가 센서라면\n        thCount += 1\n    }\n    else if (msg.payload[i].ObjectType == \"M\") { // 장비 종류가 모터라면\n        mtrCount += 1\n    }\n}\n\n// 모터 수에 따라 천창 위치 다르게 표시\nif (mtrCount == 1) {    // 모터 1개일 때\n    msg.autoSkyligthName_1 = \"천창(중)\" \n}\nelse if (mtrCount == 2) {   // 모터 2개일 때\n    msg.autoSkyligthName_1 = \"천창(좌)\"\n    msg.autoSkyligthName_2 = \"천창(우)\"\n}\nelse if (mtrCount == 3) {   // 모터 3개일 때\n    msg.autoSkyligthName_1 = \"천창(좌)\"\n    msg.autoSkyligthName_2 = \"천창(중)\"\n    msg.autoSkyligthName_3 = \"천창(우)\"\n}\n\nif (thCount < 3 || thCount == 5) {  // 센서 수가 1, 2, 5 일 때\n    msg.payload = {\n        \"group\": {\n            \"show\": [   // 대시보드에 해당 그룹을 나타냄\n                \"자동개폐기_구분1\", \"자동개폐기_구분\" + (thCount - 3),  // 구분\n                \"자동개폐기_spacerLeft_dvc\" + thCount, \"자동개폐기_spacerLeft_dvc\" + (thCount + 1), \"자동개폐기_spacerRight_dvc\" + thCount, \"자동개폐기_spacerRight_dvc\" + (thCount + 1), // spacer\n                \"자동개폐기_센서\" + thCount, \"자동개폐기_센서\" + (thCount - 1), \"자동개폐기_센서\" + (thCount - 2),  // 센서\n                \"자동개폐기_천창\" + (mtrCount - 1), \"자동개폐기_천창\" + mtrCount    // 천창\n            ], \n            \"hide\": [   // 대시보드에서 해당 그룹을 숨김\n                \"자동개폐기_구분\" + (thCount * thCount + 1), \"자동개폐기_구분\" + (thCount * thCount - 2),   // 구분\n                \"자동개폐기_spacerLeft_dvc\" + (thCount - 3),\"자동개폐기_spacerLeft_dvc\" + (thCount - 1), \"자동개폐기_spacerLeft_dvc\" + (thCount + 2), \"자동개폐기_spacerLeft_dvc\" + (thCount + 3), \"자동개폐기_spacerLeft_dvc\" + (thCount + 4), \"자동개폐기_spacerRight_dvc\" + (thCount - 3), \"자동개폐기_spacerRight_dvc\" + (thCount - 1), \"자동개폐기_spacerRight_dvc\" + (thCount + 2), \"자동개폐기_spacerRight_dvc\" + (thCount + 3), \"자동개폐기_spacerRight_dvc\" + (thCount + 4),   // spacer\n                \"자동개폐기_센서\" + (thCount + 1), \"자동개폐기_센서\" + (thCount + 2), \"자동개폐기_센서\" + (thCount + 3), \"자동개폐기_센서\" + (thCount + 4), \"자동개폐기_센서\" + (thCount + 5), \"자동개폐기_(2)센서3\",   // 센서\n                \"자동개폐기_천창\" + (mtrCount + 1), \"자동개폐기_천창\" + (mtrCount + 2)  // 천창\n            ], \n            \"focus\":true\n        }\n    }\n}\nelse if (thCount == 4) {    // 센서 수가 4 일 때\n    msg.payload = {\n        \"group\": {\n            \"show\": [   // 대시보드에 해당 그룹을 나타냄\n                \"자동개폐기_구분1\", \"자동개폐기_구분2\",     // 구분\n                \"자동개폐기_spacerLeft_dvc\" + thCount, \"자동개폐기_spacerLeft_dvc\" + (thCount - 2), \"자동개폐기_spacerRight_dvc\" + thCount, \"자동개폐기_spacerRight_dvc\" + (thCount - 2),   // spacer\n                \"자동개폐기_센서\" + thCount, \"자동개폐기_(2)센서\" + (thCount - 1), \"자동개폐기_센서\" + (thCount - 2), \"자동개폐기_센서\" + (thCount - 3), \"자동개폐기_센서\" + (thCount - 4), \"자동개폐기_센서\" + (thCount - 5), // 센서\n                \"자동개폐기_천창\" + (mtrCount - 1), \"자동개폐기_천창\" + mtrCount    // 천창\n            ], \n            \"hide\": [   // 대시보드에서 해당 그룹을 숨김\n                \"자동개폐기_spacerLeft_dvc\" + (thCount - 3), \"자동개폐기_spacerLeft_dvc\" + (thCount + 1), \"자동개폐기_spacerRight_dvc\" + (thCount - 3), \"자동개폐기_spacerRight_dvc\" + (thCount + 1),   // spacer\n                \"자동개폐기_센서\" + (thCount -1), \"자동개폐기_센서\" + (thCount + 1), \"자동개폐기_센서\" + (thCount + 2), \"자동개폐기_센서\" + (thCount + 3), \"자동개폐기_센서\" + (thCount + 4), \"자동개폐기_센서\" + (thCount + 5),    // 센서\n                \"자동개폐기_천창\" + (mtrCount + 1), \"자동개폐기_천창\" + (mtrCount + 2)  // 천창\n            ], \n            \"focus\":true\n        }\n    }\n}\nelse {  // 센서 수가 3, 6 일 때\n    msg.payload = {\n        \"group\": {\n            \"show\": [   // 대시보드에 해당 그룹을 나타냄\n                \"자동개폐기_구분1\", \"자동개폐기_구분\" + (thCount - 4),  // 구분\n                \"자동개폐기_센서\" + thCount, \"자동개폐기_센서\" + (thCount - 1), \"자동개폐기_센서\" + (thCount - 2), \"자동개폐기_센서\" + (thCount - 3), \"자동개폐기_센서\" + (thCount - 4), \"자동개폐기_센서\" + (thCount - 5), // 센서\n                \"자동개폐기_천창\" + (mtrCount - 1), \"자동개폐기_천창\" + mtrCount    // 천창\n            ], \n            \"hide\": [   // 대시보드에서 해당 그룹을 숨김\n                \"자동개폐기_구분\" + (thCount - 1),  // 구분\n                \"자동개폐기_spacerLeft_dvc\" + (thCount + 1), \"자동개폐기_spacerLeft_dvc\" + (thCount + 2), \"자동개폐기_spacerLeft_dvc\" + (thCount - 1), \"자동개폐기_spacerLeft_dvc\" + (thCount - 2), \"자동개폐기_spacerLeft_dvc\" + (thCount - 4), \"자동개폐기_spacerLeft_dvc\" + (thCount - 5), \"자동개폐기_spacerRight_dvc\" + (thCount + 1), \"자동개폐기_spacerRight_dvc\" + (thCount + 2), \"자동개폐기_spacerRight_dvc\" + (thCount - 1), \"자동개폐기_spacerRight_dvc\" + (thCount - 2), \"자동개폐기_spacerRight_dvc\" + (thCount - 4), \"자동개폐기_spacerRight_dvc\" + (thCount - 5),  // spacer\n                \"자동개폐기_센서\" + (thCount + 1), \"자동개폐기_센서\" + (thCount + 2), \"자동개폐기_센서\" + (thCount + 3), \"자동개폐기_(2)센서3\", // 센서\n                \"자동개폐기_천창\" + (mtrCount + 1), \"자동개폐기_천창\" + (mtrCount + 2)  // 천창\n            ], \n            \"focus\":true\n        }\n    }\n}\n\n\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1000,
+        "x": 990,
         "y": 60,
         "wires": [
             [
@@ -3697,7 +4033,7 @@
         "topic": "topic",
         "topicType": "msg",
         "x": 1130,
-        "y": 680,
+        "y": 660,
         "wires": [
             [
                 "7511e3b118ac9d57"
@@ -3726,7 +4062,7 @@
         "topic": "topic",
         "topicType": "msg",
         "x": 1130,
-        "y": 720,
+        "y": 700,
         "wires": [
             [
                 "7511e3b118ac9d57"
@@ -3755,7 +4091,7 @@
         "topic": "topic",
         "topicType": "msg",
         "x": 1130,
-        "y": 760,
+        "y": 740,
         "wires": [
             [
                 "7511e3b118ac9d57"
@@ -3784,7 +4120,7 @@
         "topic": "topic",
         "topicType": "msg",
         "x": 1130,
-        "y": 800,
+        "y": 780,
         "wires": [
             [
                 "7511e3b118ac9d57"
@@ -3813,7 +4149,7 @@
         "topic": "topic",
         "topicType": "msg",
         "x": 1130,
-        "y": 840,
+        "y": 820,
         "wires": [
             [
                 "7511e3b118ac9d57"
@@ -3842,7 +4178,7 @@
         "topic": "topic",
         "topicType": "msg",
         "x": 930,
-        "y": 760,
+        "y": 740,
         "wires": [
             [
                 "2b827d704db77237",
@@ -3871,14 +4207,14 @@
         "type": "function",
         "z": "4cddfbde14dbe5c4",
         "g": "ab8d328aa1f832a8",
-        "name": "",
-        "func": "msg.topic = \"select *  from tMstObjectItemNew where ObjectType = 'M' or OperationControlMode = 'S';\"\nreturn msg;",
+        "name": "센서, 모터 개수 (sql)",
+        "func": "msg.topic = \"select *  from tMstObjectItemNew where ObjectType = 'M' or ObjectType = 'Y' or ObjectType = 'H' or ObjectType = 'T';\"\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 340,
+        "x": 380,
         "y": 60,
         "wires": [
             [
@@ -3901,9 +4237,9 @@
                 "vt": "str"
             }
         ],
-        "repeat": "",
+        "repeat": "3600",
         "crontab": "",
-        "once": false,
+        "once": true,
         "onceDelay": 0.1,
         "topic": "",
         "payloadType": "str",
@@ -4303,7 +4639,7 @@
         "layout": "col-center",
         "className": "",
         "x": 1290,
-        "y": 500,
+        "y": 480,
         "wires": []
     },
     {
@@ -4321,7 +4657,7 @@
         "layout": "col-center",
         "className": "",
         "x": 1830,
-        "y": 500,
+        "y": 480,
         "wires": []
     },
     {
@@ -4339,13 +4675,14 @@
         "layout": "col-center",
         "className": "",
         "x": 1290,
-        "y": 760,
+        "y": 740,
         "wires": []
     },
     {
         "id": "2e3ebdfc55af918e",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
+        "g": "4232b464a3c1da3d",
         "name": "",
         "group": "9c4f79e5a72ac23e",
         "order": 2,
@@ -4362,8 +4699,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 330,
-        "y": 100,
+        "x": 310,
+        "y": 280,
         "wires": [
             []
         ]
@@ -4372,6 +4709,7 @@
         "id": "55ac42dfeadff5ed",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
+        "g": "4232b464a3c1da3d",
         "name": "",
         "group": "9c4f79e5a72ac23e",
         "order": 3,
@@ -4388,8 +4726,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 330,
-        "y": 140,
+        "x": 310,
+        "y": 320,
         "wires": [
             []
         ]
@@ -4398,6 +4736,7 @@
         "id": "f8d18522a0c3fc34",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
+        "g": "4232b464a3c1da3d",
         "name": "",
         "group": "9c4f79e5a72ac23e",
         "order": 4,
@@ -4414,8 +4753,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 330,
-        "y": 180,
+        "x": 310,
+        "y": 360,
         "wires": [
             []
         ]
@@ -4424,9 +4763,10 @@
         "id": "4d411ac51af43356",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
+        "g": "4232b464a3c1da3d",
         "name": "",
         "group": "9c4f79e5a72ac23e",
-        "order": 6,
+        "order": 7,
         "width": 1,
         "height": 1,
         "passthru": false,
@@ -4440,8 +4780,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 330,
-        "y": 240,
+        "x": 610,
+        "y": 280,
         "wires": [
             []
         ]
@@ -4450,9 +4790,10 @@
         "id": "1b2bc90465401dce",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
+        "g": "4232b464a3c1da3d",
         "name": "",
         "group": "9c4f79e5a72ac23e",
-        "order": 7,
+        "order": 8,
         "width": 1,
         "height": 1,
         "passthru": false,
@@ -4466,8 +4807,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 330,
-        "y": 280,
+        "x": 610,
+        "y": 320,
         "wires": [
             []
         ]
@@ -4476,9 +4817,10 @@
         "id": "f2b42ec51d54f71c",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
+        "g": "4232b464a3c1da3d",
         "name": "",
         "group": "9c4f79e5a72ac23e",
-        "order": 8,
+        "order": 9,
         "width": 1,
         "height": 1,
         "passthru": false,
@@ -4492,8 +4834,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 330,
-        "y": 320,
+        "x": 610,
+        "y": 360,
         "wires": [
             []
         ]
@@ -4502,9 +4844,10 @@
         "id": "dd571b97e4a48fc4",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
+        "g": "4232b464a3c1da3d",
         "name": "",
         "group": "9c4f79e5a72ac23e",
-        "order": 10,
+        "order": 12,
         "width": 1,
         "height": 1,
         "passthru": false,
@@ -4518,8 +4861,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 330,
-        "y": 380,
+        "x": 910,
+        "y": 280,
         "wires": [
             []
         ]
@@ -4528,9 +4871,10 @@
         "id": "1822b8cbbdfd5934",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
+        "g": "4232b464a3c1da3d",
         "name": "",
         "group": "9c4f79e5a72ac23e",
-        "order": 11,
+        "order": 13,
         "width": 1,
         "height": 1,
         "passthru": false,
@@ -4544,8 +4888,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 330,
-        "y": 420,
+        "x": 910,
+        "y": 320,
         "wires": [
             []
         ]
@@ -4554,9 +4898,10 @@
         "id": "1bf7536629ed6ec9",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
+        "g": "4232b464a3c1da3d",
         "name": "",
         "group": "9c4f79e5a72ac23e",
-        "order": 12,
+        "order": 14,
         "width": 1,
         "height": 1,
         "passthru": false,
@@ -4570,8 +4915,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 330,
-        "y": 460,
+        "x": 910,
+        "y": 360,
         "wires": [
             []
         ]
@@ -4580,6 +4925,7 @@
         "id": "c6a11463da973ead",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
+        "g": "e18e989bb9c9d956",
         "name": "",
         "group": "625bcb71d7134839",
         "order": 2,
@@ -4596,8 +4942,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 1050,
-        "y": 100,
+        "x": 1230,
+        "y": 440,
         "wires": [
             []
         ]
@@ -4606,6 +4952,7 @@
         "id": "66c0d3f49ccfd9bb",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
+        "g": "e18e989bb9c9d956",
         "name": "",
         "group": "625bcb71d7134839",
         "order": 3,
@@ -4622,8 +4969,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 1050,
-        "y": 140,
+        "x": 1230,
+        "y": 480,
         "wires": [
             []
         ]
@@ -4632,6 +4979,7 @@
         "id": "777769907d2c6c71",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
+        "g": "e18e989bb9c9d956",
         "name": "",
         "group": "625bcb71d7134839",
         "order": 4,
@@ -4648,8 +4996,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 1050,
-        "y": 180,
+        "x": 1230,
+        "y": 520,
         "wires": [
             []
         ]
@@ -4658,9 +5006,10 @@
         "id": "580084d6971423f2",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
+        "g": "e18e989bb9c9d956",
         "name": "",
         "group": "625bcb71d7134839",
-        "order": 6,
+        "order": 7,
         "width": 1,
         "height": 1,
         "passthru": false,
@@ -4674,8 +5023,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 1050,
-        "y": 240,
+        "x": 1530,
+        "y": 440,
         "wires": [
             []
         ]
@@ -4684,9 +5033,10 @@
         "id": "fe468a11411223d1",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
+        "g": "e18e989bb9c9d956",
         "name": "",
         "group": "625bcb71d7134839",
-        "order": 7,
+        "order": 8,
         "width": 1,
         "height": 1,
         "passthru": false,
@@ -4700,8 +5050,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 1050,
-        "y": 280,
+        "x": 1530,
+        "y": 480,
         "wires": [
             []
         ]
@@ -4710,9 +5060,10 @@
         "id": "d46b70d3949b5f64",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
+        "g": "e18e989bb9c9d956",
         "name": "",
         "group": "625bcb71d7134839",
-        "order": 8,
+        "order": 9,
         "width": 1,
         "height": 1,
         "passthru": false,
@@ -4726,8 +5077,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 1050,
-        "y": 320,
+        "x": 1530,
+        "y": 520,
         "wires": [
             []
         ]
@@ -4736,9 +5087,10 @@
         "id": "af6547929df8a995",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
+        "g": "e18e989bb9c9d956",
         "name": "",
         "group": "625bcb71d7134839",
-        "order": 10,
+        "order": 12,
         "width": 1,
         "height": 1,
         "passthru": false,
@@ -4752,8 +5104,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 1050,
-        "y": 380,
+        "x": 1830,
+        "y": 440,
         "wires": [
             []
         ]
@@ -4762,9 +5114,10 @@
         "id": "adf62a67b945b62f",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
+        "g": "e18e989bb9c9d956",
         "name": "",
         "group": "625bcb71d7134839",
-        "order": 11,
+        "order": 13,
         "width": 1,
         "height": 1,
         "passthru": false,
@@ -4778,8 +5131,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 1050,
-        "y": 420,
+        "x": 1830,
+        "y": 480,
         "wires": [
             []
         ]
@@ -4788,90 +5141,13 @@
         "id": "be0d603bb9eb619f",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
+        "g": "e18e989bb9c9d956",
         "name": "",
         "group": "625bcb71d7134839",
-        "order": 12,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "닫힘",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 1050,
-        "y": 460,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "e3d1b9334a72aa1e",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "9c4f79e5a72ac23e",
         "order": 14,
         "width": 1,
         "height": 1,
         "passthru": false,
-        "label": "열림",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 330,
-        "y": 560,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "c22482106b642b28",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "9c4f79e5a72ac23e",
-        "order": 15,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "정지",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 330,
-        "y": 600,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "7d83b709d3a57085",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "9c4f79e5a72ac23e",
-        "order": 16,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
         "label": "닫힘",
         "tooltip": "",
         "color": "black",
@@ -4882,398 +5158,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 330,
-        "y": 640,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "cdef4f8b967cabce",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "9c4f79e5a72ac23e",
-        "order": 18,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "열림",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 330,
-        "y": 700,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "2274df61cd5efd88",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "9c4f79e5a72ac23e",
-        "order": 19,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "정지",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 330,
-        "y": 740,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "f7a270b7e891e85d",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "9c4f79e5a72ac23e",
-        "order": 20,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "닫힘",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 330,
-        "y": 780,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "c431b0eb3e3395df",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "9c4f79e5a72ac23e",
-        "order": 22,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "열림",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 330,
-        "y": 840,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "dc772e105d6e8fb8",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "9c4f79e5a72ac23e",
-        "order": 23,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "정지",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 330,
-        "y": 880,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "f8c1f3fd9a92eec9",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "9c4f79e5a72ac23e",
-        "order": 24,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "닫힘",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 330,
-        "y": 920,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "d67e1c1a47db4903",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "fcb28e13ce55cb43",
-        "order": 14,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "열림",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 690,
-        "y": 560,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "8d84f42d937f1b69",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "fcb28e13ce55cb43",
-        "order": 15,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "정지",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 690,
-        "y": 600,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "2a84074e124ca47d",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "fcb28e13ce55cb43",
-        "order": 16,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "닫힘",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 690,
-        "y": 640,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "c3746f6834c88320",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "fcb28e13ce55cb43",
-        "order": 18,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "열림",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 690,
-        "y": 700,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "ece8b4152d2f3d61",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "fcb28e13ce55cb43",
-        "order": 19,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "정지",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 690,
-        "y": 740,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "c7d7b8aaa92478b7",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "fcb28e13ce55cb43",
-        "order": 20,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "닫힘",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 690,
-        "y": 780,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "b1c9ce7e1b2ad6d3",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "fcb28e13ce55cb43",
-        "order": 22,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "열림",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 690,
-        "y": 840,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "aaee19535bf0d559",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "fcb28e13ce55cb43",
-        "order": 23,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "정지",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 690,
-        "y": 880,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "ca8a9240200fbd90",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "fcb28e13ce55cb43",
-        "order": 24,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "닫힘",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 690,
-        "y": 920,
+        "x": 1830,
+        "y": 520,
         "wires": [
             []
         ]
@@ -5282,9 +5168,10 @@
         "id": "417abb8b6c1e17bd",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
+        "g": "969a9825278b5843",
         "name": "",
-        "group": "9c4f79e5a72ac23e",
-        "order": 26,
+        "group": "235eb2a0b3dd3139",
+        "order": 2,
         "width": 1,
         "height": 1,
         "passthru": false,
@@ -5298,8 +5185,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 330,
-        "y": 1020,
+        "x": 310,
+        "y": 440,
         "wires": [
             []
         ]
@@ -5308,9 +5195,10 @@
         "id": "6043095b42f6dec7",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
+        "g": "969a9825278b5843",
         "name": "",
-        "group": "9c4f79e5a72ac23e",
-        "order": 27,
+        "group": "235eb2a0b3dd3139",
+        "order": 3,
         "width": 1,
         "height": 1,
         "passthru": false,
@@ -5324,8 +5212,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 330,
-        "y": 1060,
+        "x": 310,
+        "y": 480,
         "wires": [
             []
         ]
@@ -5334,9 +5222,10 @@
         "id": "88a92bc6a2be910a",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
+        "g": "969a9825278b5843",
         "name": "",
-        "group": "9c4f79e5a72ac23e",
-        "order": 28,
+        "group": "235eb2a0b3dd3139",
+        "order": 4,
         "width": 1,
         "height": 1,
         "passthru": false,
@@ -5350,8 +5239,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 330,
-        "y": 1100,
+        "x": 310,
+        "y": 520,
         "wires": [
             []
         ]
@@ -5360,9 +5249,10 @@
         "id": "341a663f4eea7702",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
+        "g": "969a9825278b5843",
         "name": "",
-        "group": "9c4f79e5a72ac23e",
-        "order": 30,
+        "group": "235eb2a0b3dd3139",
+        "order": 7,
         "width": 1,
         "height": 1,
         "passthru": false,
@@ -5376,8 +5266,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 330,
-        "y": 1160,
+        "x": 610,
+        "y": 440,
         "wires": [
             []
         ]
@@ -5386,9 +5276,10 @@
         "id": "0a1a11969478f5ea",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
+        "g": "969a9825278b5843",
         "name": "",
-        "group": "9c4f79e5a72ac23e",
-        "order": 31,
+        "group": "235eb2a0b3dd3139",
+        "order": 8,
         "width": 1,
         "height": 1,
         "passthru": false,
@@ -5402,8 +5293,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 330,
-        "y": 1200,
+        "x": 610,
+        "y": 480,
         "wires": [
             []
         ]
@@ -5412,9 +5303,10 @@
         "id": "3d0837869ecf560b",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
+        "g": "969a9825278b5843",
         "name": "",
-        "group": "9c4f79e5a72ac23e",
-        "order": 32,
+        "group": "235eb2a0b3dd3139",
+        "order": 9,
         "width": 1,
         "height": 1,
         "passthru": false,
@@ -5428,8 +5320,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 330,
-        "y": 1240,
+        "x": 610,
+        "y": 520,
         "wires": [
             []
         ]
@@ -5438,9 +5330,10 @@
         "id": "550f21411d7b0de5",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
+        "g": "969a9825278b5843",
         "name": "",
-        "group": "9c4f79e5a72ac23e",
-        "order": 34,
+        "group": "235eb2a0b3dd3139",
+        "order": 12,
         "width": 1,
         "height": 1,
         "passthru": false,
@@ -5454,8 +5347,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 330,
-        "y": 1300,
+        "x": 910,
+        "y": 440,
         "wires": [
             []
         ]
@@ -5464,9 +5357,10 @@
         "id": "4523fe30b07c231d",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
+        "g": "969a9825278b5843",
         "name": "",
-        "group": "9c4f79e5a72ac23e",
-        "order": 35,
+        "group": "235eb2a0b3dd3139",
+        "order": 13,
         "width": 1,
         "height": 1,
         "passthru": false,
@@ -5480,8 +5374,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 330,
-        "y": 1340,
+        "x": 910,
+        "y": 480,
         "wires": [
             []
         ]
@@ -5490,9 +5384,10 @@
         "id": "349ba1b99071d271",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
+        "g": "969a9825278b5843",
         "name": "",
-        "group": "9c4f79e5a72ac23e",
-        "order": 36,
+        "group": "235eb2a0b3dd3139",
+        "order": 14,
         "width": 1,
         "height": 1,
         "passthru": false,
@@ -5506,8 +5401,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 330,
-        "y": 1380,
+        "x": 910,
+        "y": 520,
         "wires": [
             []
         ]
@@ -5516,9 +5411,10 @@
         "id": "9c4c8dbb4e48fe72",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
+        "g": "b8a12db1b5d3f287",
         "name": "",
-        "group": "fcb28e13ce55cb43",
-        "order": 26,
+        "group": "ce0d3b0a485f8f0d",
+        "order": 2,
         "width": 1,
         "height": 1,
         "passthru": false,
@@ -5532,8 +5428,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 690,
-        "y": 1020,
+        "x": 1235,
+        "y": 280,
         "wires": [
             []
         ]
@@ -5542,9 +5438,10 @@
         "id": "8dd3dedfeeda0c7f",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
+        "g": "b8a12db1b5d3f287",
         "name": "",
-        "group": "fcb28e13ce55cb43",
-        "order": 27,
+        "group": "ce0d3b0a485f8f0d",
+        "order": 3,
         "width": 1,
         "height": 1,
         "passthru": false,
@@ -5558,8 +5455,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 690,
-        "y": 1060,
+        "x": 1235,
+        "y": 320,
         "wires": [
             []
         ]
@@ -5568,9 +5465,10 @@
         "id": "0ead7053ef5fc5b9",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
+        "g": "b8a12db1b5d3f287",
         "name": "",
-        "group": "fcb28e13ce55cb43",
-        "order": 28,
+        "group": "ce0d3b0a485f8f0d",
+        "order": 4,
         "width": 1,
         "height": 1,
         "passthru": false,
@@ -5584,8 +5482,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 690,
-        "y": 1100,
+        "x": 1235,
+        "y": 360,
         "wires": [
             []
         ]
@@ -5594,9 +5492,10 @@
         "id": "0fab22647397bb9f",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
+        "g": "b8a12db1b5d3f287",
         "name": "",
-        "group": "fcb28e13ce55cb43",
-        "order": 30,
+        "group": "ce0d3b0a485f8f0d",
+        "order": 7,
         "width": 1,
         "height": 1,
         "passthru": false,
@@ -5610,8 +5509,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 690,
-        "y": 1160,
+        "x": 1535,
+        "y": 280,
         "wires": [
             []
         ]
@@ -5620,9 +5519,10 @@
         "id": "2a5bcdc60242025b",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
+        "g": "b8a12db1b5d3f287",
         "name": "",
-        "group": "fcb28e13ce55cb43",
-        "order": 31,
+        "group": "ce0d3b0a485f8f0d",
+        "order": 8,
         "width": 1,
         "height": 1,
         "passthru": false,
@@ -5636,8 +5536,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 690,
-        "y": 1200,
+        "x": 1535,
+        "y": 320,
         "wires": [
             []
         ]
@@ -5646,9 +5546,10 @@
         "id": "9abbc31871469ee0",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
+        "g": "b8a12db1b5d3f287",
         "name": "",
-        "group": "fcb28e13ce55cb43",
-        "order": 32,
+        "group": "ce0d3b0a485f8f0d",
+        "order": 9,
         "width": 1,
         "height": 1,
         "passthru": false,
@@ -5662,8 +5563,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 690,
-        "y": 1240,
+        "x": 1535,
+        "y": 360,
         "wires": [
             []
         ]
@@ -5672,9 +5573,10 @@
         "id": "cfa78cd5a803b96c",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
+        "g": "b8a12db1b5d3f287",
         "name": "",
-        "group": "fcb28e13ce55cb43",
-        "order": 34,
+        "group": "ce0d3b0a485f8f0d",
+        "order": 12,
         "width": 1,
         "height": 1,
         "passthru": false,
@@ -5688,8 +5590,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 690,
-        "y": 1320,
+        "x": 1830,
+        "y": 280,
         "wires": [
             []
         ]
@@ -5698,9 +5600,10 @@
         "id": "1fe62b83df83ae6c",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
+        "g": "b8a12db1b5d3f287",
         "name": "",
-        "group": "fcb28e13ce55cb43",
-        "order": 35,
+        "group": "ce0d3b0a485f8f0d",
+        "order": 13,
         "width": 1,
         "height": 1,
         "passthru": false,
@@ -5714,8 +5617,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 690,
-        "y": 1360,
+        "x": 1830,
+        "y": 320,
         "wires": [
             []
         ]
@@ -5724,9 +5627,10 @@
         "id": "a42708d5e978e8f8",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
+        "g": "b8a12db1b5d3f287",
         "name": "",
-        "group": "fcb28e13ce55cb43",
-        "order": 36,
+        "group": "ce0d3b0a485f8f0d",
+        "order": 14,
         "width": 1,
         "height": 1,
         "passthru": false,
@@ -5740,398 +5644,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 690,
-        "y": 1400,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "d8dd211a68004c1b",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "9c4f79e5a72ac23e",
-        "order": 38,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "열림",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 330,
-        "y": 1480,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "3e52b5d046634db9",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "9c4f79e5a72ac23e",
-        "order": 39,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "정지",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 330,
-        "y": 1520,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "9b5aa79ba0170cd9",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "9c4f79e5a72ac23e",
-        "order": 40,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "닫힘",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 330,
-        "y": 1560,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "87cf8e808d43fb42",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "fcb28e13ce55cb43",
-        "order": 38,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "열림",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 690,
-        "y": 1480,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "d8fdc6e7bb9cb479",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "fcb28e13ce55cb43",
-        "order": 39,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "정지",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 690,
-        "y": 1520,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "8632848b7deaae6b",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "fcb28e13ce55cb43",
-        "order": 40,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "닫힘",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 690,
-        "y": 1560,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "85f45e5a320d7ebd",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "fcb28e13ce55cb43",
-        "order": 42,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "열림",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 690,
-        "y": 1620,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "ef93f262a702d06f",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "fcb28e13ce55cb43",
-        "order": 43,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "정지",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 690,
-        "y": 1660,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "03d75eed86ef1f0c",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "fcb28e13ce55cb43",
-        "order": 44,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "닫힘",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 690,
-        "y": 1700,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "2a446dd5d9058e67",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "fcb28e13ce55cb43",
-        "order": 46,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "열림",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 690,
-        "y": 1760,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "ae9393f9b3e2b947",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "fcb28e13ce55cb43",
-        "order": 47,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "정지",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 690,
-        "y": 1800,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "e8143fcc5dc654d0",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "fcb28e13ce55cb43",
-        "order": 48,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "닫힘",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 690,
-        "y": 1840,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "28275b8ed66e606f",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "625bcb71d7134839",
-        "order": 46,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "열림",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 1050,
-        "y": 1760,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "f341092e75585591",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "625bcb71d7134839",
-        "order": 47,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "정지",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 1050,
-        "y": 1800,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "fddb0722f6f7f7fe",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "625bcb71d7134839",
-        "order": 48,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "닫힘",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 1050,
-        "y": 1840,
+        "x": 1830,
+        "y": 360,
         "wires": [
             []
         ]
@@ -6140,13 +5654,14 @@
         "id": "cac872eea1091c52",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
-        "name": "",
+        "g": "e18e989bb9c9d956",
+        "name": "장비이름",
         "group": "625bcb71d7134839",
         "order": 1,
-        "width": 1,
+        "width": "2",
         "height": 1,
         "passthru": false,
-        "label": "25번",
+        "label": "{{msg.payload[12]}}",
         "tooltip": "",
         "color": "black",
         "bgcolor": "skyblue",
@@ -6156,8 +5671,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 890,
-        "y": 140,
+        "x": 1080,
+        "y": 480,
         "wires": [
             [
                 "c6a11463da973ead",
@@ -6170,13 +5685,14 @@
         "id": "a6f47efa27c3231d",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
-        "name": "",
+        "g": "e18e989bb9c9d956",
+        "name": "장비이름",
         "group": "625bcb71d7134839",
-        "order": 5,
-        "width": 1,
+        "order": 6,
+        "width": "2",
         "height": 1,
         "passthru": false,
-        "label": "26번",
+        "label": "{{msg.payload[13]}}",
         "tooltip": "",
         "color": "black",
         "bgcolor": "skyblue",
@@ -6186,8 +5702,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 890,
-        "y": 280,
+        "x": 1380,
+        "y": 480,
         "wires": [
             [
                 "580084d6971423f2",
@@ -6200,13 +5716,14 @@
         "id": "94ee331adf0204b3",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
-        "name": "",
+        "g": "e18e989bb9c9d956",
+        "name": "장비이름",
         "group": "625bcb71d7134839",
-        "order": 9,
-        "width": 1,
+        "order": 11,
+        "width": "2",
         "height": 1,
         "passthru": false,
-        "label": "27번",
+        "label": "{{msg.payload[14]}}",
         "tooltip": "",
         "color": "black",
         "bgcolor": "skyblue",
@@ -6216,8 +5733,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 890,
-        "y": 420,
+        "x": 1680,
+        "y": 480,
         "wires": [
             [
                 "af6547929df8a995",
@@ -6227,106 +5744,17 @@
         ]
     },
     {
-        "id": "ee31dc8c41f78676",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "fcb28e13ce55cb43",
-        "order": 13,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "16번",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "skyblue",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 530,
-        "y": 600,
-        "wires": [
-            [
-                "d67e1c1a47db4903",
-                "8d84f42d937f1b69",
-                "2a84074e124ca47d"
-            ]
-        ]
-    },
-    {
-        "id": "fb53bdfd02792f50",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "fcb28e13ce55cb43",
-        "order": 17,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "17번",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "skyblue",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 530,
-        "y": 740,
-        "wires": [
-            [
-                "c3746f6834c88320",
-                "ece8b4152d2f3d61",
-                "c7d7b8aaa92478b7"
-            ]
-        ]
-    },
-    {
-        "id": "77d5e36984f8ae08",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "fcb28e13ce55cb43",
-        "order": 21,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "18번",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "skyblue",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 530,
-        "y": 880,
-        "wires": [
-            [
-                "b1c9ce7e1b2ad6d3",
-                "aaee19535bf0d559",
-                "ca8a9240200fbd90"
-            ]
-        ]
-    },
-    {
         "id": "3cf28e42245118f4",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "9c4f79e5a72ac23e",
-        "order": 29,
-        "width": 1,
+        "g": "969a9825278b5843",
+        "name": "장비이름",
+        "group": "235eb2a0b3dd3139",
+        "order": 6,
+        "width": "2",
         "height": 1,
         "passthru": false,
-        "label": "8번",
+        "label": "{{msg.payload[4]}}",
         "tooltip": "",
         "color": "black",
         "bgcolor": "skyblue",
@@ -6336,8 +5764,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 170,
-        "y": 1200,
+        "x": 460,
+        "y": 480,
         "wires": [
             [
                 "341a663f4eea7702",
@@ -6350,13 +5778,14 @@
         "id": "3fdd703fa2d854fb",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "9c4f79e5a72ac23e",
-        "order": 33,
-        "width": 1,
+        "g": "969a9825278b5843",
+        "name": "장비이름",
+        "group": "235eb2a0b3dd3139",
+        "order": 11,
+        "width": "2",
         "height": 1,
         "passthru": false,
-        "label": "9번",
+        "label": "{{msg.payload[5]}}",
         "tooltip": "",
         "color": "black",
         "bgcolor": "skyblue",
@@ -6366,8 +5795,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 170,
-        "y": 1340,
+        "x": 760,
+        "y": 480,
         "wires": [
             [
                 "550f21411d7b0de5",
@@ -6380,13 +5809,14 @@
         "id": "54dba5598f19c2ee",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "fcb28e13ce55cb43",
-        "order": 25,
-        "width": 1,
+        "g": "b8a12db1b5d3f287",
+        "name": "장비이름",
+        "group": "ce0d3b0a485f8f0d",
+        "order": 1,
+        "width": "2",
         "height": 1,
         "passthru": false,
-        "label": "19번",
+        "label": "{{msg.payload[9]}}",
         "tooltip": "",
         "color": "black",
         "bgcolor": "skyblue",
@@ -6396,8 +5826,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 530,
-        "y": 1060,
+        "x": 1080,
+        "y": 320,
         "wires": [
             [
                 "9c4c8dbb4e48fe72",
@@ -6410,13 +5840,14 @@
         "id": "6ff33f0c211e5b04",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "fcb28e13ce55cb43",
-        "order": 29,
-        "width": 1,
+        "g": "b8a12db1b5d3f287",
+        "name": "장비이름",
+        "group": "ce0d3b0a485f8f0d",
+        "order": 6,
+        "width": "2",
         "height": 1,
         "passthru": false,
-        "label": "20번",
+        "label": "{{msg.payload[10]}}",
         "tooltip": "",
         "color": "black",
         "bgcolor": "skyblue",
@@ -6426,8 +5857,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 530,
-        "y": 1200,
+        "x": 1385,
+        "y": 320,
         "wires": [
             [
                 "0fab22647397bb9f",
@@ -6440,13 +5871,14 @@
         "id": "166442c37b791afa",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "fcb28e13ce55cb43",
-        "order": 33,
-        "width": 1,
+        "g": "b8a12db1b5d3f287",
+        "name": "장비이름",
+        "group": "ce0d3b0a485f8f0d",
+        "order": 11,
+        "width": "2",
         "height": 1,
         "passthru": false,
-        "label": "21번",
+        "label": "{{msg.payload[11]}}",
         "tooltip": "",
         "color": "black",
         "bgcolor": "skyblue",
@@ -6456,163 +5888,13 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 530,
-        "y": 1360,
+        "x": 1680,
+        "y": 320,
         "wires": [
             [
                 "cfa78cd5a803b96c",
                 "1fe62b83df83ae6c",
                 "a42708d5e978e8f8"
-            ]
-        ]
-    },
-    {
-        "id": "1f91d13ff71db467",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "9c4f79e5a72ac23e",
-        "order": 37,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "10번",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "skyblue",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 170,
-        "y": 1520,
-        "wires": [
-            [
-                "d8dd211a68004c1b",
-                "3e52b5d046634db9",
-                "9b5aa79ba0170cd9"
-            ]
-        ]
-    },
-    {
-        "id": "70bda7dd01230e5c",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "fcb28e13ce55cb43",
-        "order": 37,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "22번",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "skyblue",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 530,
-        "y": 1520,
-        "wires": [
-            [
-                "87cf8e808d43fb42",
-                "d8fdc6e7bb9cb479",
-                "8632848b7deaae6b"
-            ]
-        ]
-    },
-    {
-        "id": "8fa2f05676b892fe",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "fcb28e13ce55cb43",
-        "order": 41,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "23번",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "skyblue",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 530,
-        "y": 1660,
-        "wires": [
-            [
-                "85f45e5a320d7ebd",
-                "ef93f262a702d06f",
-                "03d75eed86ef1f0c"
-            ]
-        ]
-    },
-    {
-        "id": "84a3fd791473c212",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "fcb28e13ce55cb43",
-        "order": 45,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "24번",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "skyblue",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 530,
-        "y": 1800,
-        "wires": [
-            [
-                "2a446dd5d9058e67",
-                "ae9393f9b3e2b947",
-                "e8143fcc5dc654d0"
-            ]
-        ]
-    },
-    {
-        "id": "6b5ab44ad61b4c5a",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "625bcb71d7134839",
-        "order": 45,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "36번",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "skyblue",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 890,
-        "y": 1800,
-        "wires": [
-            [
-                "28275b8ed66e606f",
-                "f341092e75585591",
-                "fddb0722f6f7f7fe"
             ]
         ]
     },
@@ -6623,8 +5905,8 @@
         "g": "a3c58e79b5f74b9d",
         "name": "",
         "events": "all",
-        "x": 1480,
-        "y": 120,
+        "x": 1220,
+        "y": 60,
         "wires": [
             []
         ]
@@ -6636,8 +5918,8 @@
         "g": "a3c58e79b5f74b9d",
         "name": "",
         "events": "all",
-        "x": 1480,
-        "y": 160,
+        "x": 1220,
+        "y": 100,
         "wires": [
             []
         ]
@@ -6649,8 +5931,8 @@
         "g": "a3c58e79b5f74b9d",
         "name": "",
         "events": "all",
-        "x": 1480,
-        "y": 240,
+        "x": 1220,
+        "y": 180,
         "wires": [
             []
         ]
@@ -6662,8 +5944,8 @@
         "g": "a3c58e79b5f74b9d",
         "name": "",
         "events": "all",
-        "x": 1480,
-        "y": 200,
+        "x": 1220,
+        "y": 140,
         "wires": [
             []
         ]
@@ -6689,8 +5971,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 1310,
-        "y": 120,
+        "x": 1050,
+        "y": 60,
         "wires": [
             [
                 "2d9f5933986cea35"
@@ -6718,8 +6000,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 1310,
-        "y": 160,
+        "x": 1050,
+        "y": 100,
         "wires": [
             [
                 "9297a4ac5389c6a1"
@@ -6747,8 +6029,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 1320,
-        "y": 240,
+        "x": 1060,
+        "y": 180,
         "wires": [
             [
                 "fe695e01b69d32b1"
@@ -6776,8 +6058,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 1310,
-        "y": 200,
+        "x": 1050,
+        "y": 140,
         "wires": [
             [
                 "d981b75aff5182b9"
@@ -6788,13 +6070,14 @@
         "id": "b6d1b238c1347fac",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
-        "name": "",
+        "g": "4232b464a3c1da3d",
+        "name": "장비이름",
         "group": "9c4f79e5a72ac23e",
         "order": 1,
-        "width": 1,
+        "width": "2",
         "height": 1,
         "passthru": false,
-        "label": "1번",
+        "label": "{{msg.payload[0]}}",
         "tooltip": "",
         "color": "black",
         "bgcolor": "skyblue",
@@ -6804,8 +6087,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 170,
-        "y": 140,
+        "x": 160,
+        "y": 320,
         "wires": [
             [
                 "2e3ebdfc55af918e",
@@ -6818,13 +6101,14 @@
         "id": "9a43ed5d90ec113d",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
-        "name": "",
+        "g": "4232b464a3c1da3d",
+        "name": "장비이름",
         "group": "9c4f79e5a72ac23e",
-        "order": 5,
-        "width": 1,
+        "order": 6,
+        "width": "2",
         "height": 1,
         "passthru": false,
-        "label": "2번",
+        "label": "{{msg.payload[1]}}",
         "tooltip": "",
         "color": "black",
         "bgcolor": "skyblue",
@@ -6834,8 +6118,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 170,
-        "y": 280,
+        "x": 460,
+        "y": 320,
         "wires": [
             [
                 "4d411ac51af43356",
@@ -6848,13 +6132,14 @@
         "id": "a34535ca784d448c",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
-        "name": "",
+        "g": "4232b464a3c1da3d",
+        "name": "장비이름",
         "group": "9c4f79e5a72ac23e",
-        "order": 9,
-        "width": 1,
+        "order": 11,
+        "width": "2",
         "height": 1,
         "passthru": false,
-        "label": "3번",
+        "label": "{{msg.payload[2]}}",
         "tooltip": "",
         "color": "black",
         "bgcolor": "skyblue",
@@ -6864,8 +6149,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 170,
-        "y": 420,
+        "x": 760,
+        "y": 320,
         "wires": [
             [
                 "dd571b97e4a48fc4",
@@ -6875,106 +6160,17 @@
         ]
     },
     {
-        "id": "4c8e9b7fdfe2ed74",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "9c4f79e5a72ac23e",
-        "order": 13,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "4번",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "skyblue",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 170,
-        "y": 600,
-        "wires": [
-            [
-                "e3d1b9334a72aa1e",
-                "c22482106b642b28",
-                "7d83b709d3a57085"
-            ]
-        ]
-    },
-    {
-        "id": "6519397df0803b94",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "9c4f79e5a72ac23e",
-        "order": 17,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "5번",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "skyblue",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 170,
-        "y": 740,
-        "wires": [
-            [
-                "cdef4f8b967cabce",
-                "2274df61cd5efd88",
-                "f7a270b7e891e85d"
-            ]
-        ]
-    },
-    {
-        "id": "32f9ae34a20bfa66",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "9c4f79e5a72ac23e",
-        "order": 21,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "6번",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "skyblue",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 170,
-        "y": 880,
-        "wires": [
-            [
-                "c431b0eb3e3395df",
-                "dc772e105d6e8fb8",
-                "f8c1f3fd9a92eec9"
-            ]
-        ]
-    },
-    {
         "id": "1d3c1d28deec7142",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "9c4f79e5a72ac23e",
-        "order": 25,
-        "width": 1,
+        "g": "969a9825278b5843",
+        "name": "장비이름",
+        "group": "235eb2a0b3dd3139",
+        "order": 1,
+        "width": "2",
         "height": 1,
         "passthru": false,
-        "label": "7번",
+        "label": "{{msg.payload[3]}}",
         "tooltip": "",
         "color": "black",
         "bgcolor": "skyblue",
@@ -6984,8 +6180,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 170,
-        "y": 1040,
+        "x": 160,
+        "y": 480,
         "wires": [
             [
                 "417abb8b6c1e17bd",
@@ -6995,225 +6191,10 @@
         ]
     },
     {
-        "id": "527d5e45f5c09710",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "9c4f79e5a72ac23e",
-        "order": 42,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "열림",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 330,
-        "y": 1620,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "83ad513a0d72aa6b",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "9c4f79e5a72ac23e",
-        "order": 43,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "정지",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 330,
-        "y": 1660,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "709266bdc55cf038",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "9c4f79e5a72ac23e",
-        "order": 44,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "닫힘",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 330,
-        "y": 1700,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "075901b7077a5d57",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "9c4f79e5a72ac23e",
-        "order": 46,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "열림",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 330,
-        "y": 1760,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "97a7edaace95b7f7",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "9c4f79e5a72ac23e",
-        "order": 47,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "정지",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 330,
-        "y": 1800,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "e66f9bb816d4575c",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "9c4f79e5a72ac23e",
-        "order": 48,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "닫힘",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 330,
-        "y": 1840,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "914e9debbaad6d6d",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "9c4f79e5a72ac23e",
-        "order": 41,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "11번",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "skyblue",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 170,
-        "y": 1660,
-        "wires": [
-            [
-                "527d5e45f5c09710",
-                "83ad513a0d72aa6b",
-                "709266bdc55cf038"
-            ]
-        ]
-    },
-    {
-        "id": "fb2cdc33935598fd",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "9c4f79e5a72ac23e",
-        "order": 45,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "12번",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "skyblue",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 170,
-        "y": 1800,
-        "wires": [
-            [
-                "075901b7077a5d57",
-                "97a7edaace95b7f7",
-                "e66f9bb816d4575c"
-            ]
-        ]
-    },
-    {
         "id": "737aa4fc84da9a35",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
+        "g": "adbdb1f0b42acd77",
         "name": "",
         "group": "fcb28e13ce55cb43",
         "order": 2,
@@ -7230,8 +6211,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 690,
-        "y": 100,
+        "x": 310,
+        "y": 600,
         "wires": [
             []
         ]
@@ -7240,6 +6221,7 @@
         "id": "244f875ad99f4ebb",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
+        "g": "adbdb1f0b42acd77",
         "name": "",
         "group": "fcb28e13ce55cb43",
         "order": 3,
@@ -7256,8 +6238,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 690,
-        "y": 140,
+        "x": 310,
+        "y": 640,
         "wires": [
             []
         ]
@@ -7266,6 +6248,7 @@
         "id": "bbe36edea19bfb38",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
+        "g": "adbdb1f0b42acd77",
         "name": "",
         "group": "fcb28e13ce55cb43",
         "order": 4,
@@ -7282,8 +6265,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 690,
-        "y": 180,
+        "x": 310,
+        "y": 680,
         "wires": [
             []
         ]
@@ -7292,9 +6275,10 @@
         "id": "be70d9678786b639",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
+        "g": "adbdb1f0b42acd77",
         "name": "",
         "group": "fcb28e13ce55cb43",
-        "order": 6,
+        "order": 7,
         "width": 1,
         "height": 1,
         "passthru": false,
@@ -7308,8 +6292,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 690,
-        "y": 240,
+        "x": 610,
+        "y": 600,
         "wires": [
             []
         ]
@@ -7318,9 +6302,10 @@
         "id": "68f047c3537802aa",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
+        "g": "adbdb1f0b42acd77",
         "name": "",
         "group": "fcb28e13ce55cb43",
-        "order": 7,
+        "order": 8,
         "width": 1,
         "height": 1,
         "passthru": false,
@@ -7334,8 +6319,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 690,
-        "y": 280,
+        "x": 610,
+        "y": 640,
         "wires": [
             []
         ]
@@ -7344,9 +6329,10 @@
         "id": "437b493c7f2bc17b",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
+        "g": "adbdb1f0b42acd77",
         "name": "",
         "group": "fcb28e13ce55cb43",
-        "order": 8,
+        "order": 9,
         "width": 1,
         "height": 1,
         "passthru": false,
@@ -7360,8 +6346,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 690,
-        "y": 320,
+        "x": 610,
+        "y": 680,
         "wires": [
             []
         ]
@@ -7370,9 +6356,10 @@
         "id": "10db8e5641804509",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
+        "g": "adbdb1f0b42acd77",
         "name": "",
         "group": "fcb28e13ce55cb43",
-        "order": 10,
+        "order": 12,
         "width": 1,
         "height": 1,
         "passthru": false,
@@ -7386,8 +6373,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 690,
-        "y": 380,
+        "x": 910,
+        "y": 600,
         "wires": [
             []
         ]
@@ -7396,9 +6383,10 @@
         "id": "da87f24488f3670d",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
+        "g": "adbdb1f0b42acd77",
         "name": "",
         "group": "fcb28e13ce55cb43",
-        "order": 11,
+        "order": 13,
         "width": 1,
         "height": 1,
         "passthru": false,
@@ -7412,8 +6400,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 690,
-        "y": 420,
+        "x": 910,
+        "y": 640,
         "wires": [
             []
         ]
@@ -7422,9 +6410,10 @@
         "id": "64b7be51d2669f28",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
+        "g": "adbdb1f0b42acd77",
         "name": "",
         "group": "fcb28e13ce55cb43",
-        "order": 12,
+        "order": 14,
         "width": 1,
         "height": 1,
         "passthru": false,
@@ -7438,8 +6427,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 690,
-        "y": 460,
+        "x": 910,
+        "y": 680,
         "wires": [
             []
         ]
@@ -7448,13 +6437,14 @@
         "id": "08cf55179cef0a24",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
-        "name": "",
+        "g": "adbdb1f0b42acd77",
+        "name": "장비이름",
         "group": "fcb28e13ce55cb43",
         "order": 1,
-        "width": 1,
+        "width": "2",
         "height": 1,
         "passthru": false,
-        "label": "13번",
+        "label": "{{msg.payload[6]}}",
         "tooltip": "",
         "color": "black",
         "bgcolor": "skyblue",
@@ -7464,8 +6454,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 530,
-        "y": 140,
+        "x": 160,
+        "y": 640,
         "wires": [
             [
                 "737aa4fc84da9a35",
@@ -7478,13 +6468,14 @@
         "id": "4332dd775fce6859",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
-        "name": "",
+        "g": "adbdb1f0b42acd77",
+        "name": "장비이름",
         "group": "fcb28e13ce55cb43",
-        "order": 5,
-        "width": 1,
+        "order": 6,
+        "width": "2",
         "height": 1,
         "passthru": false,
-        "label": "14번",
+        "label": "{{msg.payload[7]}}",
         "tooltip": "",
         "color": "black",
         "bgcolor": "skyblue",
@@ -7494,8 +6485,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 530,
-        "y": 280,
+        "x": 460,
+        "y": 640,
         "wires": [
             [
                 "be70d9678786b639",
@@ -7508,13 +6499,14 @@
         "id": "8657cfa2518f0d0f",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
-        "name": "",
+        "g": "adbdb1f0b42acd77",
+        "name": "장비이름",
         "group": "fcb28e13ce55cb43",
-        "order": 9,
-        "width": 1,
+        "order": 11,
+        "width": "2",
         "height": 1,
         "passthru": false,
-        "label": "15번",
+        "label": "{{msg.payload[8]}}",
         "tooltip": "",
         "color": "black",
         "bgcolor": "skyblue",
@@ -7524,8 +6516,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 530,
-        "y": 420,
+        "x": 760,
+        "y": 640,
         "wires": [
             [
                 "10db8e5641804509",
@@ -7535,336 +6527,13 @@
         ]
     },
     {
-        "id": "80cbb4de23a67716",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "625bcb71d7134839",
-        "order": 14,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "열림",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 1050,
-        "y": 560,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "386a29e9da525423",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "625bcb71d7134839",
-        "order": 15,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "정지",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 1050,
-        "y": 600,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "2618b2135ce8e42f",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "625bcb71d7134839",
-        "order": 16,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "닫힘",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 1050,
-        "y": 640,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "04790484da160b60",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "625bcb71d7134839",
-        "order": 18,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "열림",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 1050,
-        "y": 700,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "f11cb0e46482bf12",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "625bcb71d7134839",
-        "order": 19,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "정지",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 1050,
-        "y": 740,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "bddf3f952bf6600e",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "625bcb71d7134839",
-        "order": 20,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "닫힘",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 1050,
-        "y": 780,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "a1ad32a0b6bb6302",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "625bcb71d7134839",
-        "order": 22,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "열림",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 1050,
-        "y": 840,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "12c49f10d9308710",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "625bcb71d7134839",
-        "order": 23,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "정지",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 1050,
-        "y": 880,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "7ffa34388d3e3eea",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "625bcb71d7134839",
-        "order": 24,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "닫힘",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 1050,
-        "y": 920,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "1d40e5685b938b9d",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "625bcb71d7134839",
-        "order": 13,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "28번",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "skyblue",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 890,
-        "y": 600,
-        "wires": [
-            [
-                "80cbb4de23a67716",
-                "386a29e9da525423",
-                "2618b2135ce8e42f"
-            ]
-        ]
-    },
-    {
-        "id": "40ab25ff856048f4",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "625bcb71d7134839",
-        "order": 17,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "29번",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "skyblue",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 890,
-        "y": 740,
-        "wires": [
-            [
-                "04790484da160b60",
-                "f11cb0e46482bf12",
-                "bddf3f952bf6600e"
-            ]
-        ]
-    },
-    {
-        "id": "17c07e38bb7336c1",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "625bcb71d7134839",
-        "order": 21,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "30번",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "skyblue",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 890,
-        "y": 880,
-        "wires": [
-            [
-                "a1ad32a0b6bb6302",
-                "12c49f10d9308710",
-                "7ffa34388d3e3eea"
-            ]
-        ]
-    },
-    {
         "id": "df303bbfde98db97",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
+        "g": "4d19105832274ffa",
         "name": "",
-        "group": "625bcb71d7134839",
-        "order": 26,
+        "group": "3d8fb5fa3f9e9ed6",
+        "order": 2,
         "width": 1,
         "height": 1,
         "passthru": false,
@@ -7878,8 +6547,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 1050,
-        "y": 1020,
+        "x": 1230,
+        "y": 600,
         "wires": [
             []
         ]
@@ -7888,9 +6557,10 @@
         "id": "a9d95015aa0f1ffa",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
+        "g": "4d19105832274ffa",
         "name": "",
-        "group": "625bcb71d7134839",
-        "order": 27,
+        "group": "3d8fb5fa3f9e9ed6",
+        "order": 3,
         "width": 1,
         "height": 1,
         "passthru": false,
@@ -7904,8 +6574,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 1050,
-        "y": 1060,
+        "x": 1230,
+        "y": 640,
         "wires": [
             []
         ]
@@ -7914,9 +6584,10 @@
         "id": "515814e49d487933",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
+        "g": "4d19105832274ffa",
         "name": "",
-        "group": "625bcb71d7134839",
-        "order": 28,
+        "group": "3d8fb5fa3f9e9ed6",
+        "order": 4,
         "width": 1,
         "height": 1,
         "passthru": false,
@@ -7930,8 +6601,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 1050,
-        "y": 1100,
+        "x": 1230,
+        "y": 680,
         "wires": [
             []
         ]
@@ -7940,9 +6611,10 @@
         "id": "7cf3a062b8297017",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
+        "g": "4d19105832274ffa",
         "name": "",
-        "group": "625bcb71d7134839",
-        "order": 30,
+        "group": "3d8fb5fa3f9e9ed6",
+        "order": 7,
         "width": 1,
         "height": 1,
         "passthru": false,
@@ -7956,8 +6628,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 1050,
-        "y": 1160,
+        "x": 1530,
+        "y": 600,
         "wires": [
             []
         ]
@@ -7966,9 +6638,10 @@
         "id": "94157c550870e515",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
+        "g": "4d19105832274ffa",
         "name": "",
-        "group": "625bcb71d7134839",
-        "order": 31,
+        "group": "3d8fb5fa3f9e9ed6",
+        "order": 8,
         "width": 1,
         "height": 1,
         "passthru": false,
@@ -7982,8 +6655,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 1050,
-        "y": 1200,
+        "x": 1530,
+        "y": 640,
         "wires": [
             []
         ]
@@ -7992,9 +6665,10 @@
         "id": "b7f2569c2ce6ba6d",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
+        "g": "4d19105832274ffa",
         "name": "",
-        "group": "625bcb71d7134839",
-        "order": 32,
+        "group": "3d8fb5fa3f9e9ed6",
+        "order": 9,
         "width": 1,
         "height": 1,
         "passthru": false,
@@ -8008,8 +6682,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 1050,
-        "y": 1240,
+        "x": 1530,
+        "y": 680,
         "wires": [
             []
         ]
@@ -8018,9 +6692,10 @@
         "id": "2657ec8930a0e511",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
+        "g": "4d19105832274ffa",
         "name": "",
-        "group": "625bcb71d7134839",
-        "order": 34,
+        "group": "3d8fb5fa3f9e9ed6",
+        "order": 12,
         "width": 1,
         "height": 1,
         "passthru": false,
@@ -8034,8 +6709,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 1050,
-        "y": 1300,
+        "x": 1830,
+        "y": 600,
         "wires": [
             []
         ]
@@ -8044,9 +6719,10 @@
         "id": "2db103f3f3fe5ed8",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
+        "g": "4d19105832274ffa",
         "name": "",
-        "group": "625bcb71d7134839",
-        "order": 35,
+        "group": "3d8fb5fa3f9e9ed6",
+        "order": 13,
         "width": 1,
         "height": 1,
         "passthru": false,
@@ -8060,8 +6736,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 1050,
-        "y": 1340,
+        "x": 1830,
+        "y": 640,
         "wires": [
             []
         ]
@@ -8070,9 +6746,10 @@
         "id": "76d33831e72e5fe5",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
+        "g": "4d19105832274ffa",
         "name": "",
-        "group": "625bcb71d7134839",
-        "order": 36,
+        "group": "3d8fb5fa3f9e9ed6",
+        "order": 14,
         "width": 1,
         "height": 1,
         "passthru": false,
@@ -8086,8 +6763,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 1050,
-        "y": 1380,
+        "x": 1830,
+        "y": 680,
         "wires": [
             []
         ]
@@ -8096,13 +6773,14 @@
         "id": "a79e48130c138703",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "625bcb71d7134839",
-        "order": 25,
-        "width": 1,
+        "g": "4d19105832274ffa",
+        "name": "장비이름",
+        "group": "3d8fb5fa3f9e9ed6",
+        "order": 1,
+        "width": "2",
         "height": 1,
         "passthru": false,
-        "label": "31번",
+        "label": "{{msg.payload[15]}}",
         "tooltip": "",
         "color": "black",
         "bgcolor": "skyblue",
@@ -8112,8 +6790,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 890,
-        "y": 1060,
+        "x": 1080,
+        "y": 640,
         "wires": [
             [
                 "df303bbfde98db97",
@@ -8126,13 +6804,14 @@
         "id": "a33afc9047dfb1c8",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "625bcb71d7134839",
-        "order": 29,
-        "width": 1,
+        "g": "4d19105832274ffa",
+        "name": "장비이름",
+        "group": "3d8fb5fa3f9e9ed6",
+        "order": 6,
+        "width": "2",
         "height": 1,
         "passthru": false,
-        "label": "32번",
+        "label": "{{msg.payload[16]}}",
         "tooltip": "",
         "color": "black",
         "bgcolor": "skyblue",
@@ -8142,8 +6821,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 890,
-        "y": 1200,
+        "x": 1380,
+        "y": 640,
         "wires": [
             [
                 "7cf3a062b8297017",
@@ -8156,13 +6835,14 @@
         "id": "a63fa0d5ae9587e1",
         "type": "ui_button",
         "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "625bcb71d7134839",
-        "order": 33,
-        "width": 1,
+        "g": "4d19105832274ffa",
+        "name": "장비이름",
+        "group": "3d8fb5fa3f9e9ed6",
+        "order": 11,
+        "width": "2",
         "height": 1,
         "passthru": false,
-        "label": "33번",
+        "label": "{{msg.payload[17]}}",
         "tooltip": "",
         "color": "black",
         "bgcolor": "skyblue",
@@ -8172,8 +6852,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 890,
-        "y": 1340,
+        "x": 1680,
+        "y": 640,
         "wires": [
             [
                 "2657ec8930a0e511",
@@ -8183,218 +6863,139 @@
         ]
     },
     {
-        "id": "6e97b1cf54062a89",
-        "type": "ui_button",
+        "id": "5b928203fb9d97c2",
+        "type": "function",
         "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "625bcb71d7134839",
-        "order": 38,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "열림",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 1050,
-        "y": 1460,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "8e44f3e71152cd62",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "625bcb71d7134839",
-        "order": 39,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "정지",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 1050,
-        "y": 1500,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "deabf5ab2952e7ff",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "625bcb71d7134839",
-        "order": 40,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "닫힘",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 1050,
-        "y": 1540,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "5d0f8a65370d8c66",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "625bcb71d7134839",
-        "order": 42,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "열림",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 1050,
-        "y": 1600,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "666db1cc1b56192d",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "625bcb71d7134839",
-        "order": 43,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "정지",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 1050,
-        "y": 1640,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "ebdb9a0c35da69a9",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "625bcb71d7134839",
-        "order": 44,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "닫힘",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 1050,
-        "y": 1680,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "da7f8a57106c166a",
-        "type": "ui_button",
-        "z": "4d3ec98e95c610e9",
-        "name": "",
-        "group": "625bcb71d7134839",
-        "order": 37,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "34번",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "skyblue",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 890,
-        "y": 1500,
+        "g": "d4c315bbb4c6610f",
+        "name": "개별스위치 개수(sql)",
+        "func": "msg.topic = \"select *  from tMstObjectItemNew where ObjectType = 'F' or ObjectType = 'V' or ObjectType = 'A' order by ObjectType;\"\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 340,
+        "y": 100,
         "wires": [
             [
-                "6e97b1cf54062a89",
-                "8e44f3e71152cd62",
-                "deabf5ab2952e7ff"
+                "a83e17c4017d1adc"
             ]
         ]
     },
     {
-        "id": "732f9b8d9c683a7c",
-        "type": "ui_button",
+        "id": "257e45d00e3b6265",
+        "type": "inject",
         "z": "4d3ec98e95c610e9",
+        "g": "d4c315bbb4c6610f",
         "name": "",
-        "group": "625bcb71d7134839",
-        "order": 41,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "35번",
-        "tooltip": "",
-        "color": "black",
-        "bgcolor": "skyblue",
-        "className": "",
-        "icon": "",
-        "payload": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "3600",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
         "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 890,
-        "y": 1640,
+        "x": 170,
+        "y": 100,
         "wires": [
             [
-                "5d0f8a65370d8c66",
-                "666db1cc1b56192d",
-                "ebdb9a0c35da69a9"
+                "5b928203fb9d97c2"
+            ]
+        ]
+    },
+    {
+        "id": "76bcc298fe8629e8",
+        "type": "function",
+        "z": "4d3ec98e95c610e9",
+        "g": "d4c315bbb4c6610f",
+        "name": "switch.js",
+        "func": "// <개별스위치>\n// 스위치 종류 : F(FAN), V(Valve), A(AC)\n// 스위치 개수에 따라 그룹 번호 설정\n// 스위치 그룹은 한 그룹에 3개씩 6 그룹으로 총 개별스위치 개수 18개 제한\n\nvar switchCount = msg.payload.length // 스위치 개수\n// 그룹 번호 설정\nif (switchCount <= 3) groupCount = 1\nelse if (switchCount <= 6) groupCount = 2\nelse if (switchCount <= 9) groupCount = 3\nelse if (switchCount <= 12) groupCount = 4\nelse if (switchCount <= 15) groupCount = 5\nelse if (switchCount <= 18) groupCount = 6\n\nmsg.payload = {\n    \"group\": {\n        \"show\": [   // 대시보드에 해당 그룹을 나타냄\n            \"개별스위치_번호목록\" + groupCount, \"개별스위치_번호목록\" + (groupCount - 1), \"개별스위치_번호목록\" + (groupCount - 2), \"개별스위치_번호목록\" + (groupCount - 3), \"개별스위치_번호목록\" + (groupCount - 4), \"개별스위치_번호목록\" + (groupCount - 5)    // 번호목록\n        ], \n        \"hide\": [   // 대시보드에서 해당 그룹을 숨김\n            \"개별스위치_번호목록\" + (groupCount + 1), \"개별스위치_번호목록\" + (groupCount + 2), \"개별스위치_번호목록\" + (groupCount + 3), \"개별스위치_번호목록\" + (groupCount + 4), \"개별스위치_번호목록\" + (groupCount + 5)    // 번호목록\n        ], \n        \"focus\":true\n    }\n}\n\nreturn msg;\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 680,
+        "y": 100,
+        "wires": [
+            [
+                "b9dc07d7e0955f0f"
+            ]
+        ]
+    },
+    {
+        "id": "b9dc07d7e0955f0f",
+        "type": "ui_ui_control",
+        "z": "4d3ec98e95c610e9",
+        "g": "d4c315bbb4c6610f",
+        "name": "",
+        "events": "all",
+        "x": 840,
+        "y": 100,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "9721b48d60c138bd",
+        "type": "function",
+        "z": "4d3ec98e95c610e9",
+        "g": "d4c315bbb4c6610f",
+        "name": "switchName.js",
+        "func": "// <switchName>\n// 개별스위치 클릭 시 목록에 나타날 정보 중 장비이름에 들어갈 내용\n// 그룹이름은 FAN, 관수, AC 번호로 나타냄\n\nvar dvcCount = msg.payload.length // 장비 개수\nvar groupName = []  // 그룹이름 배열\nvar fanCount = 0 // FAN 수\nvar valveCount = 0  // 밸브 수\nvar acCount = 0 // AC 수\n\nfor (i = 0; i < dvcCount; i++) {\n    var dvcType = msg.payload[i].ObjectType // 장비 타입(F or V or A)\n    // FAN\n    if (dvcType == 'F') {\n        fanCount += 1 // FAN 수\n        groupName.push(\"FAN\" + fanCount) // FAN + FAN 수\n    }\n    // 관수\n    else if (dvcType == 'V') {\n        valveCount += 1 // 밸브 수\n        groupName.push(\"관수\" + valveCount) // 관수 + 밸브 수\n    }\n    // AC\n    else if (dvcType == 'A') {\n        acCount += 1 // AC 수\n        groupName.push(\"AC\" + acCount) // AC + AC 수\n    }\n}\n\nmsg.payload = groupName // payload에 그룹이름 배열 저장\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 700,
+        "y": 140,
+        "wires": [
+            [
+                "b6d1b238c1347fac",
+                "9a43ed5d90ec113d",
+                "a34535ca784d448c",
+                "1d3c1d28deec7142",
+                "3cf28e42245118f4",
+                "3fdd703fa2d854fb",
+                "08cf55179cef0a24",
+                "4332dd775fce6859",
+                "8657cfa2518f0d0f",
+                "54dba5598f19c2ee",
+                "6ff33f0c211e5b04",
+                "166442c37b791afa",
+                "cac872eea1091c52",
+                "a6f47efa27c3231d",
+                "94ee331adf0204b3",
+                "a79e48130c138703",
+                "a33afc9047dfb1c8",
+                "a63fa0d5ae9587e1"
+            ]
+        ]
+    },
+    {
+        "id": "a83e17c4017d1adc",
+        "type": "sqlite",
+        "z": "4d3ec98e95c610e9",
+        "g": "d4c315bbb4c6610f",
+        "mydb": "5b70977fbad2fd6b",
+        "sqlquery": "msg.topic",
+        "sql": "",
+        "name": "Smart-Farm",
+        "x": 530,
+        "y": 100,
+        "wires": [
+            [
+                "76bcc298fe8629e8",
+                "9721b48d60c138bd"
             ]
         ]
     },
@@ -8419,8 +7020,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 760,
-        "y": 180,
+        "x": 480,
+        "y": 200,
         "wires": [
             []
         ]
@@ -8446,8 +7047,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 760,
-        "y": 220,
+        "x": 480,
+        "y": 240,
         "wires": [
             []
         ]
@@ -8473,8 +7074,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 760,
-        "y": 260,
+        "x": 480,
+        "y": 280,
         "wires": [
             []
         ]
@@ -8500,8 +7101,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 760,
-        "y": 140,
+        "x": 480,
+        "y": 160,
         "wires": [
             []
         ]
@@ -8527,8 +7128,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 770,
-        "y": 300,
+        "x": 490,
+        "y": 320,
         "wires": [
             []
         ]
@@ -8560,8 +7161,8 @@
         "offcolor": "",
         "animate": false,
         "className": "",
-        "x": 950,
-        "y": 60,
+        "x": 650,
+        "y": 160,
         "wires": [
             []
         ]
@@ -8593,8 +7194,8 @@
         "offcolor": "",
         "animate": false,
         "className": "",
-        "x": 950,
-        "y": 100,
+        "x": 650,
+        "y": 200,
         "wires": [
             []
         ]
@@ -8626,8 +7227,8 @@
         "offcolor": "",
         "animate": false,
         "className": "",
-        "x": 950,
-        "y": 140,
+        "x": 650,
+        "y": 240,
         "wires": [
             []
         ]
@@ -8659,8 +7260,8 @@
         "offcolor": "",
         "animate": false,
         "className": "",
-        "x": 950,
-        "y": 180,
+        "x": 650,
+        "y": 280,
         "wires": [
             []
         ]
@@ -8692,8 +7293,8 @@
         "offcolor": "",
         "animate": false,
         "className": "",
-        "x": 950,
-        "y": 220,
+        "x": 650,
+        "y": 320,
         "wires": [
             []
         ]
@@ -8725,8 +7326,8 @@
         "offcolor": "",
         "animate": false,
         "className": "",
-        "x": 950,
-        "y": 260,
+        "x": 650,
+        "y": 360,
         "wires": [
             []
         ]
@@ -8758,8 +7359,8 @@
         "offcolor": "",
         "animate": false,
         "className": "",
-        "x": 950,
-        "y": 300,
+        "x": 650,
+        "y": 400,
         "wires": [
             []
         ]
@@ -8785,7 +7386,7 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 310,
+        "x": 130,
         "y": 160,
         "wires": [
             [
@@ -8800,7 +7401,7 @@
         "g": "4a4639236b754b68",
         "name": "",
         "events": "all",
-        "x": 470,
+        "x": 290,
         "y": 160,
         "wires": [
             []
@@ -8823,11 +7424,11 @@
         "bgcolor": "GRAY",
         "className": "",
         "icon": "",
-        "payload": "2",
+        "payload": "1",
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 310,
+        "x": 130,
         "y": 200,
         "wires": [
             [
@@ -8856,7 +7457,7 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 320,
+        "x": 140,
         "y": 280,
         "wires": [
             [
@@ -8871,7 +7472,7 @@
         "g": "4a4639236b754b68",
         "name": "",
         "events": "all",
-        "x": 480,
+        "x": 300,
         "y": 200,
         "wires": [
             []
@@ -8884,7 +7485,7 @@
         "g": "4a4639236b754b68",
         "name": "",
         "events": "all",
-        "x": 470,
+        "x": 290,
         "y": 280,
         "wires": [
             []
@@ -8897,7 +7498,7 @@
         "g": "4a4639236b754b68",
         "name": "",
         "events": "all",
-        "x": 480,
+        "x": 300,
         "y": 240,
         "wires": [
             []
@@ -8920,11 +7521,11 @@
         "bgcolor": "SILVER",
         "className": "",
         "icon": "list",
-        "payload": "1",
+        "payload": "2",
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 320,
+        "x": 140,
         "y": 240,
         "wires": [
             [
@@ -8959,8 +7560,8 @@
         "offcolor": "",
         "animate": false,
         "className": "",
-        "x": 130,
-        "y": 420,
+        "x": 850,
+        "y": 180,
         "wires": [
             [
                 "22bd327ec2a2c52a",
@@ -8999,8 +7600,8 @@
         "offcolor": "",
         "animate": false,
         "className": "",
-        "x": 450,
-        "y": 420,
+        "x": 1170,
+        "y": 180,
         "wires": [
             [
                 "1f6cfac2e78ca65d",
@@ -9039,8 +7640,8 @@
         "offcolor": "",
         "animate": false,
         "className": "",
-        "x": 770,
-        "y": 420,
+        "x": 1490,
+        "y": 180,
         "wires": [
             [
                 "7af11b73a4cd9fb4",
@@ -9079,8 +7680,8 @@
         "offcolor": "",
         "animate": false,
         "className": "",
-        "x": 130,
-        "y": 720,
+        "x": 850,
+        "y": 480,
         "wires": [
             [
                 "03035c8c52aa6dd0",
@@ -9119,8 +7720,8 @@
         "offcolor": "",
         "animate": false,
         "className": "",
-        "x": 450,
-        "y": 720,
+        "x": 1170,
+        "y": 480,
         "wires": [
             [
                 "2b6110bceaed5cb6",
@@ -9159,8 +7760,8 @@
         "offcolor": "",
         "animate": false,
         "className": "",
-        "x": 770,
-        "y": 720,
+        "x": 1490,
+        "y": 480,
         "wires": [
             [
                 "877f2e3a0e4532aa",
@@ -9193,8 +7794,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 270,
-        "y": 420,
+        "x": 990,
+        "y": 180,
         "wires": [
             []
         ]
@@ -9220,8 +7821,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 270,
-        "y": 460,
+        "x": 990,
+        "y": 220,
         "wires": [
             []
         ]
@@ -9247,8 +7848,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 270,
-        "y": 500,
+        "x": 990,
+        "y": 260,
         "wires": [
             []
         ]
@@ -9274,8 +7875,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 270,
-        "y": 540,
+        "x": 990,
+        "y": 300,
         "wires": [
             []
         ]
@@ -9301,8 +7902,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 590,
-        "y": 420,
+        "x": 1310,
+        "y": 180,
         "wires": [
             []
         ]
@@ -9328,8 +7929,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 590,
-        "y": 460,
+        "x": 1310,
+        "y": 220,
         "wires": [
             []
         ]
@@ -9355,8 +7956,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 590,
-        "y": 500,
+        "x": 1310,
+        "y": 260,
         "wires": [
             []
         ]
@@ -9382,8 +7983,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 590,
-        "y": 540,
+        "x": 1310,
+        "y": 300,
         "wires": [
             []
         ]
@@ -9409,8 +8010,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 910,
-        "y": 420,
+        "x": 1630,
+        "y": 180,
         "wires": [
             []
         ]
@@ -9436,8 +8037,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 910,
-        "y": 460,
+        "x": 1630,
+        "y": 220,
         "wires": [
             []
         ]
@@ -9463,8 +8064,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 910,
-        "y": 500,
+        "x": 1630,
+        "y": 260,
         "wires": [
             []
         ]
@@ -9490,8 +8091,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 910,
-        "y": 540,
+        "x": 1630,
+        "y": 300,
         "wires": [
             []
         ]
@@ -9517,8 +8118,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 270,
-        "y": 720,
+        "x": 990,
+        "y": 480,
         "wires": [
             []
         ]
@@ -9544,8 +8145,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 270,
-        "y": 760,
+        "x": 990,
+        "y": 520,
         "wires": [
             []
         ]
@@ -9571,8 +8172,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 270,
-        "y": 800,
+        "x": 990,
+        "y": 560,
         "wires": [
             []
         ]
@@ -9598,8 +8199,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 270,
-        "y": 840,
+        "x": 990,
+        "y": 600,
         "wires": [
             []
         ]
@@ -9625,8 +8226,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 590,
-        "y": 720,
+        "x": 1310,
+        "y": 480,
         "wires": [
             []
         ]
@@ -9652,8 +8253,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 590,
-        "y": 760,
+        "x": 1310,
+        "y": 520,
         "wires": [
             []
         ]
@@ -9679,8 +8280,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 590,
-        "y": 800,
+        "x": 1310,
+        "y": 560,
         "wires": [
             []
         ]
@@ -9706,8 +8307,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 590,
-        "y": 840,
+        "x": 1310,
+        "y": 600,
         "wires": [
             []
         ]
@@ -9733,8 +8334,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 910,
-        "y": 720,
+        "x": 1630,
+        "y": 480,
         "wires": [
             []
         ]
@@ -9760,8 +8361,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 910,
-        "y": 760,
+        "x": 1630,
+        "y": 520,
         "wires": [
             []
         ]
@@ -9787,8 +8388,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 910,
-        "y": 800,
+        "x": 1630,
+        "y": 560,
         "wires": [
             []
         ]
@@ -9814,8 +8415,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 910,
-        "y": 840,
+        "x": 1630,
+        "y": 600,
         "wires": [
             []
         ]
@@ -9839,8 +8440,8 @@
         "sendOnBlur": true,
         "className": "",
         "topicType": "msg",
-        "x": 280,
-        "y": 580,
+        "x": 1000,
+        "y": 340,
         "wires": [
             []
         ]
@@ -9864,8 +8465,8 @@
         "sendOnBlur": true,
         "className": "",
         "topicType": "msg",
-        "x": 600,
-        "y": 580,
+        "x": 1320,
+        "y": 340,
         "wires": [
             []
         ]
@@ -9889,8 +8490,8 @@
         "sendOnBlur": true,
         "className": "",
         "topicType": "msg",
-        "x": 920,
-        "y": 580,
+        "x": 1640,
+        "y": 340,
         "wires": [
             []
         ]
@@ -9914,8 +8515,8 @@
         "sendOnBlur": true,
         "className": "",
         "topicType": "msg",
-        "x": 280,
-        "y": 880,
+        "x": 1000,
+        "y": 640,
         "wires": [
             []
         ]
@@ -9939,8 +8540,8 @@
         "sendOnBlur": true,
         "className": "",
         "topicType": "msg",
-        "x": 600,
-        "y": 880,
+        "x": 1320,
+        "y": 640,
         "wires": [
             []
         ]
@@ -9964,8 +8565,8 @@
         "sendOnBlur": true,
         "className": "",
         "topicType": "msg",
-        "x": 920,
-        "y": 880,
+        "x": 1640,
+        "y": 640,
         "wires": [
             []
         ]
@@ -9989,8 +8590,8 @@
         "sendOnBlur": true,
         "className": "",
         "topicType": "msg",
-        "x": 280,
-        "y": 620,
+        "x": 1000,
+        "y": 380,
         "wires": [
             []
         ]
@@ -10014,8 +8615,8 @@
         "sendOnBlur": true,
         "className": "",
         "topicType": "msg",
-        "x": 600,
-        "y": 620,
+        "x": 1320,
+        "y": 380,
         "wires": [
             []
         ]
@@ -10039,8 +8640,8 @@
         "sendOnBlur": true,
         "className": "",
         "topicType": "msg",
-        "x": 920,
-        "y": 620,
+        "x": 1640,
+        "y": 380,
         "wires": [
             []
         ]
@@ -10064,8 +8665,8 @@
         "sendOnBlur": true,
         "className": "",
         "topicType": "msg",
-        "x": 280,
-        "y": 920,
+        "x": 1000,
+        "y": 680,
         "wires": [
             []
         ]
@@ -10089,8 +8690,8 @@
         "sendOnBlur": true,
         "className": "",
         "topicType": "msg",
-        "x": 600,
-        "y": 920,
+        "x": 1320,
+        "y": 680,
         "wires": [
             []
         ]
@@ -10114,8 +8715,8 @@
         "sendOnBlur": true,
         "className": "",
         "topicType": "msg",
-        "x": 920,
-        "y": 920,
+        "x": 1640,
+        "y": 680,
         "wires": [
             []
         ]
@@ -10128,7 +8729,7 @@
         "name": "",
         "events": "connect",
         "x": 780,
-        "y": 46,
+        "y": 60,
         "wires": [
             []
         ]
@@ -10138,35 +8739,18 @@
         "type": "function",
         "z": "31600a7ce055a3df",
         "g": "5016f8ea21da03f0",
-        "name": "",
-        "func": "// <관수>\n// 관수의 개수는 최대 6개로 제한\n\nvar wtrCount = msg.payload.length // 관수 개수\n\nmsg.payload = {\n    \"group\": {\n        \"show\": [ \n            \"관수_관수\" + wtrCount, \"관수_관수\" + (wtrCount - 1), \"관수_관수\" + (wtrCount - 2), \"관수_관수\" + (wtrCount - 3), \"관수_관수\" + (wtrCount - 4), \"관수_관수\" + (wtrCount - 5)    // 관수\n        ], \n        \"hide\": [ \n            \"관수_관수\" + (wtrCount + 1), \"관수_관수\" + (wtrCount + 2), \"관수_관수\" + (wtrCount + 3), \"관수_관수\" + (wtrCount + 4), \"관수_관수\" + (wtrCount + 5)    // 관수\n        ], \n        \"focus\":true\n    }\n}\n\nreturn msg;\n",
+        "name": "watering.js",
+        "func": "// <관수>\n// 관수의 개수는 최대 6개로 제한\n\nvar wtrCount = msg.payload.length // 관수 개수\n\nmsg.payload = {\n    \"group\": {\n        \"show\": [   // 대시보드에 해당 그룹을 나타냄\n            \"관수_관수\" + wtrCount, \"관수_관수\" + (wtrCount - 1), \"관수_관수\" + (wtrCount - 2), \"관수_관수\" + (wtrCount - 3), \"관수_관수\" + (wtrCount - 4), \"관수_관수\" + (wtrCount - 5)    // 관수\n        ], \n        \"hide\": [   // 대시보드에서 해당 그룹을 숨김\n            \"관수_관수\" + (wtrCount + 1), \"관수_관수\" + (wtrCount + 2), \"관수_관수\" + (wtrCount + 3), \"관수_관수\" + (wtrCount + 4), \"관수_관수\" + (wtrCount + 5)    // 관수\n        ], \n        \"focus\":true\n    }\n}\n\nreturn msg;\n",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 620,
-        "y": 46,
+        "x": 610,
+        "y": 60,
         "wires": [
             [
                 "4e0957f80a7b5f24"
-            ]
-        ]
-    },
-    {
-        "id": "6090c4f91a859723",
-        "type": "sqlite",
-        "z": "31600a7ce055a3df",
-        "g": "5016f8ea21da03f0",
-        "mydb": "5b70977fbad2fd6b",
-        "sqlquery": "msg.topic",
-        "sql": "",
-        "name": "test",
-        "x": 470,
-        "y": 46,
-        "wires": [
-            [
-                "544442283c7959e2"
             ]
         ]
     },
@@ -10175,18 +8759,18 @@
         "type": "function",
         "z": "31600a7ce055a3df",
         "g": "5016f8ea21da03f0",
-        "name": "",
+        "name": "밸브 개수(sql)",
         "func": "msg.topic = \"select *  from tMstObjectItemNew where ObjectType = 'V';\"\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 300,
-        "y": 46,
+        "x": 280,
+        "y": 60,
         "wires": [
             [
-                "6090c4f91a859723"
+                "74d94ea507b39c70"
             ]
         ]
     },
@@ -10205,17 +8789,34 @@
                 "vt": "str"
             }
         ],
-        "repeat": "",
+        "repeat": "3600",
         "crontab": "",
-        "once": false,
+        "once": true,
         "onceDelay": 0.1,
         "topic": "",
         "payloadType": "str",
         "x": 130,
-        "y": 46,
+        "y": 60,
         "wires": [
             [
                 "2704469c06a97c2f"
+            ]
+        ]
+    },
+    {
+        "id": "74d94ea507b39c70",
+        "type": "sqlite",
+        "z": "31600a7ce055a3df",
+        "g": "5016f8ea21da03f0",
+        "mydb": "5b70977fbad2fd6b",
+        "sqlquery": "msg.topic",
+        "sql": "",
+        "name": "Smart-Farm",
+        "x": 450,
+        "y": 54,
+        "wires": [
+            [
+                "544442283c7959e2"
             ]
         ]
     },
@@ -10317,7 +8918,7 @@
         "bgcolor": "GRAY",
         "className": "",
         "icon": "",
-        "payload": "2",
+        "payload": "1",
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
@@ -10375,7 +8976,7 @@
         "bgcolor": "GRAY",
         "className": "",
         "icon": "",
-        "payload": "1",
+        "payload": "2",
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
@@ -10742,7 +9343,7 @@
         "z": "27e630aa57f5427b",
         "g": "4e471b204f5131ea",
         "name": "groupName",
-        "func": "var dvcCount = msg.payload.length\nvar groupName = []\nvar valveCount = 0\n\nfor (i = 0; i < dvcCount; i++) {\n    var dvcType = msg.payload[i].ObjectType\n    var mtrPosition = msg.payload[i].ObjectPositionName\n    if (dvcType == 'M' && mtrPosition == 'TopLeft') {\n        groupName.push(\"천창(좌)\")\n    }\n    else if (dvcType == 'M' && mtrPosition == 'TopMid') {\n        groupName.push(\"천창(중)\")\n    }\n    else if (dvcType == 'M' && mtrPosition == 'TopRight') {\n        groupName.push(\"천창(우)\")\n    }\n    else if (dvcType == 'V') {\n        valveCount += 1\n        groupName.push(\"관수\" + valveCount)  \n    }\n}\n\nmsg.payload = groupName\nreturn msg;",
+        "func": "// <setting_groupName>\n// setting 클릭 시 목록에 나타날 정보 중 그룹이름에 들어갈 내용\n// 그룹이름은 천창 위치, 관수 번호로 나타냄\n\nvar dvcCount = msg.payload.length // 장비 개수\nvar groupName = []  // 그룹이름 배열\nvar valveCount = 0  // 밸브 수\n\nfor (i = 0; i < dvcCount; i++) {\n    var dvcType = msg.payload[i].ObjectType // 장비 타입(M or V)\n    var mtrPosition = msg.payload[i].ObjectPositionName // 장비 위치(TopLeft, TopMid, TopRight)\n    // 천창\n    if (dvcType == 'M' && mtrPosition == 'TopLeft') {\n        groupName.push(\"천창(좌)\")\n    }\n    else if (dvcType == 'M' && mtrPosition == 'TopMid') {\n        groupName.push(\"천창(중)\")\n    }\n    else if (dvcType == 'M' && mtrPosition == 'TopRight') {\n        groupName.push(\"천창(우)\")\n    }\n    // 관수\n    else if (dvcType == 'V') {\n        valveCount += 1 // 밸브 수\n        groupName.push(\"관수\" + valveCount) // 관수 + 밸브 수\n    }\n}\n\nmsg.payload = groupName // payload에 그룹이름 배열 저장\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -13078,26 +11679,18 @@
         "type": "function",
         "z": "27e630aa57f5427b",
         "g": "758834ae989ac457",
-        "name": "",
-        "func": "// <Setting>\n// Setting 목록의 개수는 최대 6개\n\nvar dvcCount = msg.payload.length // 설정 장비 개수\n\nmsg.payload = {\n    \"group\": {\n        \"show\": [ \n            \"Setting_설정입력\" + dvcCount, \"Setting_설정입력\" + (dvcCount - 1), \"Setting_설정입력\" + (dvcCount - 2), \"Setting_설정입력\" + (dvcCount - 3), \"Setting_설정입력\" + (dvcCount - 4), \"Setting_설정입력\" + (dvcCount - 5)    // Setting 목록\n        ], \n        \"hide\": [ \n            \"Setting_설정입력\" + (dvcCount + 1), \"Setting_설정입력\" + (dvcCount + 2), \"Setting_설정입력\" + (dvcCount + 3), \"Setting_설정입력\" + (dvcCount + 4), \"Setting_설정입력\" + (dvcCount + 5)    // Setting 목록\n        ], \n        \"focus\":true\n    }\n}\n\nreturn msg;\n",
+        "name": "setting.js",
+        "func": "// <Setting>\n// Setting 목록의 개수는 최대 6개\n\nvar dvcCount = msg.payload.length // 설정 장비 개수\n\nmsg.payload = {\n    \"group\": {\n        \"show\": [   // 대시보드에 해당 그룹을 나타냄\n            \"Setting_설정입력\" + dvcCount, \"Setting_설정입력\" + (dvcCount - 1), \"Setting_설정입력\" + (dvcCount - 2), \"Setting_설정입력\" + (dvcCount - 3), \"Setting_설정입력\" + (dvcCount - 4), \"Setting_설정입력\" + (dvcCount - 5)    // Setting 목록\n        ], \n        \"hide\": [   // 대시보드에서 해당 그룹을 숨김\n            \"Setting_설정입력\" + (dvcCount + 1), \"Setting_설정입력\" + (dvcCount + 2), \"Setting_설정입력\" + (dvcCount + 3), \"Setting_설정입력\" + (dvcCount + 4), \"Setting_설정입력\" + (dvcCount + 5)    // Setting 목록\n        ], \n        \"focus\":true\n    }\n}\n\nreturn msg;\n\n",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
         "x": 800,
-        "y": 46,
+        "y": 60,
         "wires": [
             [
-                "1b4816b92ed87fde",
-                "4823537264555cee",
-                "5d35d84fa2412571",
-                "d19a6e5ee3e89dde",
-                "2105eb5855f3091c",
-                "60b351380c2e56ce",
-                "da8a66793d5cde90",
-                "88ce908fa28efcd4",
-                "b973a4be6140a847"
+                "1b4816b92ed87fde"
             ]
         ]
     },
@@ -13109,26 +11702,9 @@
         "name": "",
         "events": "all",
         "x": 1060,
-        "y": 46,
+        "y": 60,
         "wires": [
             []
-        ]
-    },
-    {
-        "id": "4ddab33dbb56218d",
-        "type": "sqlite",
-        "z": "27e630aa57f5427b",
-        "g": "758834ae989ac457",
-        "mydb": "5b70977fbad2fd6b",
-        "sqlquery": "msg.topic",
-        "sql": "",
-        "name": "test",
-        "x": 490,
-        "y": 46,
-        "wires": [
-            [
-                "1105d0d05694d207"
-            ]
         ]
     },
     {
@@ -13136,18 +11712,18 @@
         "type": "function",
         "z": "27e630aa57f5427b",
         "g": "758834ae989ac457",
-        "name": "",
+        "name": "모터, 밸브 개수(sql)",
         "func": "msg.topic = \"select *  from tMstObjectItemNew where ObjectType = 'M' or ObjectType = 'V' order by ObjectType, ObjectPositionName;\"\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 320,
-        "y": 46,
+        "x": 330,
+        "y": 60,
         "wires": [
             [
-                "4ddab33dbb56218d"
+                "2365c772f83da9d0"
             ]
         ]
     },
@@ -13166,17 +11742,42 @@
                 "vt": "str"
             }
         ],
-        "repeat": "",
+        "repeat": "3600",
         "crontab": "",
-        "once": false,
+        "once": true,
         "onceDelay": 0.1,
         "topic": "",
         "payloadType": "str",
         "x": 150,
-        "y": 46,
+        "y": 60,
         "wires": [
             [
                 "da0590c1c0dc587b"
+            ]
+        ]
+    },
+    {
+        "id": "2365c772f83da9d0",
+        "type": "sqlite",
+        "z": "27e630aa57f5427b",
+        "g": "758834ae989ac457",
+        "mydb": "5b70977fbad2fd6b",
+        "sqlquery": "msg.topic",
+        "sql": "",
+        "name": "Smart-Farm",
+        "x": 510,
+        "y": 60,
+        "wires": [
+            [
+                "1105d0d05694d207",
+                "4823537264555cee",
+                "5d35d84fa2412571",
+                "d19a6e5ee3e89dde",
+                "2105eb5855f3091c",
+                "60b351380c2e56ce",
+                "da8a66793d5cde90",
+                "88ce908fa28efcd4",
+                "b973a4be6140a847"
             ]
         ]
     }
