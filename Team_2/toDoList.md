@@ -8,7 +8,6 @@
 - [ ] 기존 화면을 Node-RED로 구상하기 - config file 읽어서 자동 생성(-> DB 정보 읽기로 변경)
     - <2022.01.25 ~ 2022.01.27 / 김지수> config file 값 읽기 시도(~~test.js~~)
 
-
 #### <2022.01.27>
 - [ ] config file 대신 DB script 이용하여 UI 생성하기
     - <2022.01.27 ~ 2022.01.28 / 김지수> DB table에 dummy data 넣기(~~insert.sql~~, test.db)
@@ -50,7 +49,6 @@
 - [ ] DB - 임시 table 생성
     - <2022.02.09 / 김지수> DB script와 config file을 고려하여 임시 table 생성
     - <2022.02.10 ~ 2022.02.11 / 김지수> 동적 화면 test에 필요한 임시 table 추가 생성(test.db)
-
 
 #### <2022.02.15>
 - [ ] URL 설정
