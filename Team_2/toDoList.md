@@ -3,40 +3,40 @@
 ### Node-RED로 Smart-Farm UI 제작
 
 #### <2022.01.25>
-- [ ] 기존 화면을 Node-RED로 구상하기 - UI 디자인
+- [X] 기존 화면을 Node-RED로 구상하기 - UI 디자인
     - <2022.01.25 ~ 2022.02.07 / 안형근> UI 디자인 틀 잡기
-- [ ] 기존 화면을 Node-RED로 구상하기 - config file 읽어서 자동 생성(-> DB 정보 읽기로 변경)
+- [X] 기존 화면을 Node-RED로 구상하기 - config file 읽어서 자동 생성(-> DB 정보 읽기로 변경)
     - <2022.01.25 ~ 2022.01.27 / 김지수> config file 값 읽기 시도(~~test.js~~)
 
 #### <2022.01.27>
-- [ ] config file 대신 DB script 이용하여 UI 생성하기
+- [X] config file 대신 DB script 이용하여 UI 생성하기
     - <2022.01.27 ~ 2022.01.28 / 김지수> DB table에 dummy data 넣기(~~insert.sql~~, test.db)
     - <2022.02.03 ~ 2022.02.07 / 김지수> dummy data로 생성한 table 정보와 Node-RED 연결(~~test_db2nodered.js~~)
 
 #### <2022.02.07>
 
-- [ ] UI 디자인 수정 - Device 항목 상단에 표시 
+- [X] UI 디자인 수정 - Device 항목 상단에 표시 
     - <2022.02.08 ~ 2022.02.09 / 안형근>
-- [ ] UI 디자인 수정 - 구분 용이하게 색상 표현 
+- [X] UI 디자인 수정 - 구분 용이하게 색상 표현 
     - <2022.02.08 / 안형근> 
-- [ ] UI 디자인 수정 - 자동개폐기 날짜 부분에 현재 시간 표시
+- [X] UI 디자인 수정 - 자동개폐기 날짜 부분에 현재 시간 표시
     - <2022.02.08 / 안형근> 
-- [ ] UI 동적 표현 - Device 항목 클릭 시 각 화면으로 이동하게 하기
+- [X] UI 동적 표현 - Device 항목 클릭 시 각 화면으로 이동하게 하기
     - <2022.02.09 / 안형근> 
-- [ ] UI 동적 표현 - DB table 정보에 따라 화면 동적으로 표현
+- [X] UI 동적 표현 - DB table 정보에 따라 화면 동적으로 표현
     - <2022.02.08 ~ 2022.02.09 / 김지수> 임시 값으로 Group 생성하여 화면 동적으로 표현(~~test_dbInNodered.js~~)
-- [ ] DB - Data 개수 축소
+- [X] DB - Data 개수 축소
     - <2022.02.08 / 김지수> Data 개수 축소(~~update.sql~~)
     - <2022.02.09 / 김지수> 불필요한 Data 값 삭제(~~update.sql~~)
-- [ ] DB - select문 이용해서 테이블 정보 불러오기
+- [X] DB - select문 이용해서 테이블 정보 불러오기
     - <2022.02.08 ~ 2022.02.09 / 김지수> Node-RED와 SQLite 연동하여 테이블 정보 불러오기(~~test_db2nodered.sql~~)
 
 #### <2022.02.09>
-- [ ] 스토리보드 제작
+- [X] 스토리보드 제작
     - <2022.02.09 ~ 2022.02.11 / 안형근> Smart-Farm 스토리보드 제작
-- [ ] UI 디자인 수정 - 위젯 크기 각 화면마다 동일하게 조절
+- [X] UI 디자인 수정 - 위젯 크기 각 화면마다 동일하게 조절
     - <2022.02.09 ~ 2022.02.10 / 안형근> 위젯 크기 조절
-- [ ] UI 동적 표현 - 동적 화면 적용 시 기존 화면과 동일하게 표현
+- [X] UI 동적 표현 - 동적 화면 적용 시 기존 화면과 동일하게 표현
     - <2022.02.09 / 김지수> 연동된 table 정보로 화면 표현 시도(~~test_deviceCountIf.js~~, ~~test_uiControl.js~~, ~~test_deviceCount.js~~)
     - <2022.02.10 / 김지수> 연동된 table 정보로 자동개폐기 - 온습도센서 동적 화면 표현(~~test_deviceCount.js~~)
     - <2022.02.11 / 김지수> 연동된 table 정보로 자동개폐기 - 온습도센서, 천창 동적 화면 표현(~~test_deviceCount -> test_auto.js~~)
@@ -46,24 +46,24 @@
     - <2022.02.17 / 김지수> 코드 주석 추가 및 파일명 변경(~~test_auto.js~~ -> autoSwitch.js, ~~test_watering~~ -> watering.js, ~~test_setting.js~~ -> setting.js, ~~test_setting_groupName.js~~ -> setting_groupName.js)
     - <2022.02.18 / 김지수> 연동된 table 정보로 swtich 동적 화면 표현(switch.js)
     - <2022.02.21 / 김지수> 연동된 table 정보로 swtich 화면의 장비이름에 정보 넣기(switchName.js)
-- [ ] DB - 임시 table 생성
+- [X] DB - 임시 table 생성
     - <2022.02.09 / 김지수> DB script와 config file을 고려하여 임시 table 생성
     - <2022.02.10 ~ 2022.02.11 / 김지수> 동적 화면 test에 필요한 임시 table 추가 생성(test.db)
 
 #### <2022.02.15>
 - [ ] URL 설정
-- [ ] 스토리보드 내용 수정
+- [X] 스토리보드 내용 수정
     - <2022.02.15 ~ 2022.02.21 / 김지수> 
 
 #### <2022.02.21>
-- [ ] DB - Insert, Delete 문 작성해 table 생성
-    - <2022.02.22 / 김지수>
+- [X] DB - Insert, Delete 문 작성해 table 생성
+    - <2022.02.22 / 김지수> sqlCollection.sql에 Insert문, Delete문 추가
 - [ ] Code 주석 추가 - 날짜 넣기
 - [ ] Code 주석 추가 - 사용 설명 자세히 넣기
 - [ ] 버튼 Event Click 시 해당 Web 화면으로 연결(GET, POST 방식)
     - <2022.02.22 ~ / 안형근> GET 방식
     - <2022.02.22 ~ / 김지수> POST 방식
 - [ ] Time synch - cloud time과 비교하여 다르면 수정되게 하기(2022.02.22 보류)
-- [ ] 폴더명 변경 및 파일 이동
+- [X] 폴더명 변경 및 파일 이동
     <2022.02.22 / 김지수> ~~Data file~~ -> DB script 변경
     <2022.02.22 / 김지수> ~~test_db2nodered.sql~~ -> sqlCollection.sql 변경 후 DB script로 위치 이동
