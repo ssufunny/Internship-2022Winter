@@ -137,4 +137,3 @@ body.nr-dashboard-theme md-content md-card {
 
 </style>
 
-![css](https://user-images.githubusercontent.com/85628132/155062276-536b23fc-6174-4d00-a337-4d8801ceea68.jpg)
