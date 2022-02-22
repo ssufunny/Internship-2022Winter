@@ -1,7 +1,10 @@
 # Smart-Farm UI 제작 Project
 
-> 유비샘 (2022.01.25 - 2022.02.25)</br>
-> 2팀 안형근, 김지수
+> 유비샘 (2022.01.25 - 2022.02.25)
+
+## Project participants
+> 한기대 안형근
+> 한국외대 김지수
 
 ## Project Description
    - Configuration file(ControllerConfigFile.txt)과 Database schema(tableSchema.sql) 정보를 이용하여 데이터 생성
