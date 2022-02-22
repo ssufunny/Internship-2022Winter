@@ -1,6 +1,10 @@
-# Smart-arm UI 제작 Project
+# Smart-Farm UI 제작 Project
 
-> 유비샘 (2022.01 - 2022.02)
+> 유비샘 (2022.01.25 - 2022.02.25)
+
+## Project participants
+> 한기대 안형근
+> 한국외대 김지수
 
 ## Project Description
    - Configuration file(ControllerConfigFile.txt)과 Database schema(tableSchema.sql) 정보를 이용하여 데이터 생성
@@ -18,16 +22,16 @@
 
 ## Project File
 
-   ### :file_folder: Data (생성 파일)
-   > *tableSchema.sql* 을 이용하여 생성한 Database File
-   ### :file_folder: Info (받은 파일)
-   > Smartfarm UI 제작에 있어 필요한 기본 정보 자료 File 
-   ### :file_folder: UI (생성 파일)
+   ### :file_folder: DB Script
+   > *tableSchema.sql* 을 이용하여 생성한 Database와 Node-RED에서 DB 연동 시 사용한 SQL문 
+   ### :file_folder: Flows
+   > Node-RED에 생성한 Flow File 
+   ### :file_folder: UI
    > UI 제작 시 Node-RED의 function node에 작성한 코드 File 
 
 
 ## Project Result
   | 구분 | UI 화면 | 구분 | UI 화면 |
   |:---:|:---:|:---:|:---:|
-  | 자동개폐기 | ![자동개폐기](https://user-images.githubusercontent.com/67498595/154221096-fca52eda-1039-4018-891b-1fa0f6d188ee.png) | 개별스위치 | ![개별스위치](https://user-images.githubusercontent.com/67498595/154221122-ee0e2b3f-cc77-4c54-bb4d-c9ca0ce5256d.png) |
+  | 자동개폐기 | ![image](https://user-images.githubusercontent.com/67498595/155068777-25106307-e700-4690-a0df-149d2a04e5eb.png) | 개별스위치 | ![image](https://user-images.githubusercontent.com/67498595/155068682-24725801-614f-4cd5-b9a5-3557253a8604.png) |
   | 관수 | ![관수](https://user-images.githubusercontent.com/67498595/154221145-08077fcd-8f13-45e0-91ce-7c1b7d289229.png) | SETTING | ![SETTING](https://user-images.githubusercontent.com/67498595/154221166-f79c3a9b-4bbc-43b8-b106-73dd69d42fc1.png) |
