@@ -24,4 +24,10 @@
   | 구분 | UI 화면 | 구분 | test 결과 |
   |:---:|:---:|:---:|:---:|
   | Node-RED 제어화면 | ![node-RED 제어화면](https://user-images.githubusercontent.com/81690621/154901704-73a85621-dcd3-4733-926e-0ef2c998c449.png) | Config 파일이 생성된 모습 | ![Config 파일이 생성된 모습](https://user-images.githubusercontent.com/81690621/154900382-15546367-5497-4ffa-a92c-9555141e99bc.png) |
+  
+  | 구분 | node-RED 화면 |
+  |:---:|:---:|
   | Flow 노드배치 |![flow 화면](https://user-images.githubusercontent.com/81690621/155064993-ce26c27b-4d49-4a15-be13-5b924797469f.JPG) |
+  
+  
+  
