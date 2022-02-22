@@ -3,7 +3,7 @@
 > 유비샘 (2022.01.25 - 2022.02.25)
 
 ## Project participants
-> 한기대 안형근
+> 한기대 안형근   
 > 한국외대 김지수
 
 ## Project Description
