@@ -12,7 +12,7 @@
 #### <2022.01.27>
 - [ ] config file 대신 DB script 이용하여 UI 생성하기
     - <2022.01.27 ~ 2022.01.28 / 김지수> DB table에 dummy data 넣기(~~insert.sql~~, test.db)
-    - <2022.02.03 ~ 2022.02.07 / 김지수> dummy data로 생성한 table 정보와 Node-RED 연결(test_db2nodered.js)
+    - <2022.02.03 ~ 2022.02.07 / 김지수> dummy data로 생성한 table 정보와 Node-RED 연결(~~test_db2nodered.js~~)
 
 #### <2022.02.07>
 
@@ -30,7 +30,7 @@
     - <2022.02.08 / 김지수> Data 개수 축소(~~update.sql~~)
     - <2022.02.09 / 김지수> 불필요한 Data 값 삭제(~~update.sql~~)
 - [ ] DB - select문 이용해서 테이블 정보 불러오기
-    - <2022.02.08 ~ 2022.02.09 / 김지수> Node-RED와 SQLite 연동하여 테이블 정보 불러오기(test_db2nodered.js)
+    - <2022.02.08 ~ 2022.02.09 / 김지수> Node-RED와 SQLite 연동하여 테이블 정보 불러오기(~~test_db2nodered.sql~~)
 
 #### <2022.02.09>
 - [ ] 스토리보드 제작
@@ -58,9 +58,14 @@
     - <2022.02.15 ~ 2022.02.21 / 김지수> 
 
 #### <2022.02.21>
-- [ ] DB - Insert 문 작성해 table 생성
+- [ ] DB - Insert, Delete 문 작성해 table 생성
+    - <2022.02.22 / 김지수>
 - [ ] Code 주석 추가 - 날짜 넣기
 - [ ] Code 주석 추가 - 사용 설명 자세히 넣기
-- [ ] 버튼 누르면 해당 URL로 연결
+- [ ] 버튼 Event Click 시 해당 Web 화면으로 연결(GET, POST 방식)
+    - <2022.02.22 ~ / 안형근> GET 방식
+    - <2022.02.22 ~ / 김지수> POST 방식
 - [ ] Time synch - cloud time과 비교하여 다르면 수정되게 하기(2022.02.22 보류)
-- [ ] Data file -> DB script 변경
+- [ ] 폴더명 변경 및 파일 이동
+    <2022.02.22 / 김지수> ~~Data file~~ -> DB script 변경
+    <2022.02.22 / 김지수> ~~test_db2nodered.sql~~ -> sqlCollection.sql 변경 후 DB script로 위치 이동
