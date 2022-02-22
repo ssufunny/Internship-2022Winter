@@ -138,5 +138,3 @@ body.nr-dashboard-theme md-content md-card {
 </style>
 
 
-
-| Node-RED 제어화면 | ![node-RED 제어화면](https://user-images.githubusercontent.com/81690621/154901704-73a85621-dcd3-4733-926e-0ef2c998c449.png)
