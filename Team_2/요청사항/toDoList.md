@@ -5,7 +5,6 @@
 - <2022.01.25>
 - [ ] 기존 화면을 Node-RED로 구상하기 - UI 디자인
     - <2022.01.25 ~ 2022.02.07 / 안형근> UI 디자인 틀 잡기
-    - <2022.02.07 ~ 2022.02.0> 
 - [ ] 기존 화면을 Node-RED로 구상하기 - config file 읽어서 자동 생성(-> DB 정보 읽기로 변경)
     - <2022.01.25 ~ 2022.01.27 / 김지수> config file 값 읽기 시도(~~test.js~~)
 
@@ -34,25 +33,34 @@
     - <2022.02.08 ~ 2022.02.09 / 김지수> Node-RED와 SQLite 연동하여 테이블 정보 불러오기(test_db2nodered.js)
 
 - <2022.02.09>
-- [ ] UI 디자인 수정 - 위젯 크기 각 화면마다 동일하게 조절
-    - <2022.02.09 ~ 2022.02.10 / 안형근> 위젯 크기 조절
-- [ ] UI 동적 표현 - 동적 화면 적용 시 기존 화면과 동일하게 표현되도록 수정
-    - <2022.02.09 ~ 2022.02.10> 임시 table 정보로 화면 표현 시도
-    - <2022.02.11 ~ 2022.02.>
-- [ ] DB - 임시 table 생성
-    - <2022.02.09 / 김지수> DB script와 config file을 고려하여 임시 table 생성
-    - <2022.02.10 / 김지수> 동적 화면 test에 필요한 임시 table 추가 생성
 - [ ] 스토리보드 제작
     - <2022.02.09 ~ 2022.02.11 / 안형근> Smart-Farm 스토리보드 제작
+- [ ] UI 디자인 수정 - 위젯 크기 각 화면마다 동일하게 조절
+    - <2022.02.09 ~ 2022.02.10 / 안형근> 위젯 크기 조절
+- [ ] UI 동적 표현 - 동적 화면 적용 시 기존 화면과 동일하게 표현
+    - <2022.02.09 / 김지수> 연동된 table 정보로 화면 표현 시도(~~test_deviceCountIf.js~~, ~~test_uiControl.js~~, ~~test_deviceCount.js~~)
+    - <2022.02.10 / 김지수> 연동된 table 정보로 자동개폐기 - 온습도센서 동적 화면 표현(~~test_deviceCount.js~~)
+    - <2022.02.11 / 김지수> 연동된 table 정보로 자동개폐기 - 온습도센서, 천창 동적 화면 표현(~~test_deviceCount -> test_auto.js~~)
+    - <2022.02.14 / 김지수> 연동된 table 정보로 관수 동적 화면 표현(~~test_watering.js~~)
+    - <2022.02.15 / 김지수> 연동된 table 정보로 setting 동적 화면 표현(~~test_setting.js~~)
+    - <2022.02.15 / 김지수> 연동된 table 정보로 setting 화면의 그룹이름에 정보 넣기(~~test_setting_groupName.js~~)
+    - <2022.02.17 / 김지수> 코드 주석 추가 및 파일명 변경(~~test_auto.js~~ -> autoSwitch.js, ~~test_watering~~ -> watering.js, ~~test_setting.js~~ -> setting.js, ~~test_setting_groupName.js~~ -> setting_groupName.js)
+    - <2022.02.18 / 김지수> 연동된 table 정보로 swtich 동적 화면 표현(switch.js)
+    - <2022.02.21 / 김지수> 연동된 table 정보로 swtich 화면의 장비이름에 정보 넣기(switchName.js)
+- [ ] DB - 임시 table 생성
+    - <2022.02.09 / 김지수> DB script와 config file을 고려하여 임시 table 생성
+    - <2022.02.10 ~ 2022.02.11 / 김지수> 동적 화면 test에 필요한 임시 table 추가 생성(test.db)
+
 
 - <2022.02.15>
 - [ ] URL 설정
 - [ ] 스토리보드 내용 수정
+    -<2022.02.15 ~ 2022.02.21 / 김지수> 
 
 - <2022.02.21>
 - [ ] DB - Insert 문 작성해 table 생성
 - [ ] Code 주석 추가 - 날짜 넣기
 - [ ] Code 주석 추가 - 사용 설명 자세히 넣기
 - [ ] 버튼 누르면 해당 URL로 연결
-- [ ] Time synch - cloud time과 비교하여 다르면 수정되게 하기
+- [ ] Time synch - cloud time과 비교하여 다르면 수정되게 하기(2022.02.22 보류)
 - [ ] Data file -> DB script 변경
