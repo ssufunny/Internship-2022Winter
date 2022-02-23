@@ -25,7 +25,7 @@
    ### :file_folder: Flows
    > Node-RED에 생성한 Flow File 
    ### :file_folder: UI
-   > UI 제작 시 Node-RED의 dashboard CSS node에 작성한 코드 File
+   > UI 제작 시 Node-RED의 dashboard CSS node에 작성한 코드 File 및 동적 대시보드 코드 File
    ### :file_folder: 세미나 ppt
    > 세미나 진행 시 이전 피드백 진행사항들과 결과물을 보여주는 ppt
 
