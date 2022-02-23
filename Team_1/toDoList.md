@@ -24,7 +24,7 @@
 - [X] Setting Complete 값 Dictionary type 이용
 - [X] Devive Info의 Network Type dropdown형식으로 변경
 - [X] UI화면 Submit 버튼 위치 상단에서 하단으로 변경
-- [ ] Object Info 값별로 dropdown식으로 선택해 조립식으로 변경 및 text로 UI화면에 보이도록 변경
+- [ ] Object Info 값별로 dropdown식으로 선택해 조립식으로 변경 
 
 #### <2022.02.17>
 - [X] UI화면 text input값 5개 미만이면 경고창 생성 
