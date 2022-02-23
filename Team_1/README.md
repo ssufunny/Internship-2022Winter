@@ -36,7 +36,6 @@
   
   | 구분 | node-RED 화면 |
   |:---:|:---:|
-  | Flow 노드배치 |![flow 화면](https://user-images.githubusercontent.com/81690621/155064993-ce26c27b-4d49-4a15-be13-5b924797469f.JPG) |
-  
-  
+  | Flow 노드배치 |![flow 화면](https://user-images.githubusercontent.com/81690621/155250101-25a90125-c364-49e4-b756-083bc389ffe5.JPG) |
+
   
