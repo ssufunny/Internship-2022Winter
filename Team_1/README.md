@@ -19,6 +19,15 @@
    <img src="https://user-images.githubusercontent.com/67498595/154413312-34b6eef1-3045-4247-a103-dfc8611ab97f.png" width = "100" height = "100">
    
    <img src="https://user-images.githubusercontent.com/81690621/154899664-0de73253-4a8c-4d38-ae4d-1dd45b4d74bc.png" width = "100" height = "100">
+   
+## Project File
+
+   ### :file_folder: Flows
+   > Node-RED에 생성한 Flow File 
+   ### :file_folder: UI
+   > UI 제작 시 Node-RED의 dashboard CSS node에 작성한 코드 File
+   ### :file_folder: 세미나 ppt
+   > 세미나 진행 시 이전 피드백 진행사항들과 결과물을 보여주는 ppt
 
 ## Project Result
   | 구분 | UI 화면 | 구분 | test 결과 |
