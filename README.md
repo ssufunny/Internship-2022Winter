@@ -34,3 +34,4 @@
   |:---:|:---:|:---:|:---:|
   | 자동개폐기 | ![자동개폐기](https://user-images.githubusercontent.com/67498595/154221096-fca52eda-1039-4018-891b-1fa0f6d188ee.png) | 개별스위치 | ![개별스위치](https://user-images.githubusercontent.com/67498595/154221122-ee0e2b3f-cc77-4c54-bb4d-c9ca0ce5256d.png) |
   | 관수 | ![관수](https://user-images.githubusercontent.com/67498595/154221145-08077fcd-8f13-45e0-91ce-7c1b7d289229.png) | SETTING | ![SETTING](https://user-images.githubusercontent.com/67498595/154221166-f79c3a9b-4bbc-43b8-b106-73dd69d42fc1.png) |
+  
