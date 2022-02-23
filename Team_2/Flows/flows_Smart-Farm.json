@@ -1,5 +1,13 @@
 [
     {
+        "id": "4e1a47a6be9b1cb0",
+        "type": "tab",
+        "label": "SQL",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
         "id": "4cddfbde14dbe5c4",
         "type": "tab",
         "label": "자동개폐기",
@@ -50,9 +58,9 @@
             "b2a63b76c3825a08",
             "c888607dd681ce2a"
         ],
-        "x": 74,
+        "x": 84,
         "y": 119,
-        "w": 352,
+        "w": 342,
         "h": 202
     },
     {
@@ -623,6 +631,189 @@
         "h": 122
     },
     {
+        "id": "4232b464a3c1da3d",
+        "type": "group",
+        "z": "4d3ec98e95c610e9",
+        "name": "번호목록1",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "2e3ebdfc55af918e",
+            "55ac42dfeadff5ed",
+            "f8d18522a0c3fc34",
+            "4d411ac51af43356",
+            "1b2bc90465401dce",
+            "f2b42ec51d54f71c",
+            "dd571b97e4a48fc4",
+            "1822b8cbbdfd5934",
+            "1bf7536629ed6ec9",
+            "b6d1b238c1347fac",
+            "9a43ed5d90ec113d",
+            "a34535ca784d448c"
+        ],
+        "x": 74,
+        "y": 239,
+        "w": 912,
+        "h": 162
+    },
+    {
+        "id": "969a9825278b5843",
+        "type": "group",
+        "z": "4d3ec98e95c610e9",
+        "name": "번호목록2",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "417abb8b6c1e17bd",
+            "6043095b42f6dec7",
+            "88a92bc6a2be910a",
+            "341a663f4eea7702",
+            "0a1a11969478f5ea",
+            "3d0837869ecf560b",
+            "550f21411d7b0de5",
+            "4523fe30b07c231d",
+            "349ba1b99071d271",
+            "3cf28e42245118f4",
+            "3fdd703fa2d854fb",
+            "1d3c1d28deec7142"
+        ],
+        "x": 74,
+        "y": 399,
+        "w": 912,
+        "h": 162
+    },
+    {
+        "id": "adbdb1f0b42acd77",
+        "type": "group",
+        "z": "4d3ec98e95c610e9",
+        "name": "번호목록3",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "737aa4fc84da9a35",
+            "244f875ad99f4ebb",
+            "bbe36edea19bfb38",
+            "be70d9678786b639",
+            "68f047c3537802aa",
+            "437b493c7f2bc17b",
+            "10db8e5641804509",
+            "da87f24488f3670d",
+            "64b7be51d2669f28",
+            "08cf55179cef0a24",
+            "4332dd775fce6859",
+            "8657cfa2518f0d0f"
+        ],
+        "x": 74,
+        "y": 559,
+        "w": 912,
+        "h": 162
+    },
+    {
+        "id": "b8a12db1b5d3f287",
+        "type": "group",
+        "z": "4d3ec98e95c610e9",
+        "name": "번호목록4",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "9c4c8dbb4e48fe72",
+            "8dd3dedfeeda0c7f",
+            "0ead7053ef5fc5b9",
+            "0fab22647397bb9f",
+            "2a5bcdc60242025b",
+            "9abbc31871469ee0",
+            "cfa78cd5a803b96c",
+            "1fe62b83df83ae6c",
+            "a42708d5e978e8f8",
+            "54dba5598f19c2ee",
+            "6ff33f0c211e5b04",
+            "166442c37b791afa"
+        ],
+        "x": 994,
+        "y": 239,
+        "w": 912,
+        "h": 162
+    },
+    {
+        "id": "e18e989bb9c9d956",
+        "type": "group",
+        "z": "4d3ec98e95c610e9",
+        "name": "번호목록5",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "c6a11463da973ead",
+            "66c0d3f49ccfd9bb",
+            "777769907d2c6c71",
+            "580084d6971423f2",
+            "fe468a11411223d1",
+            "d46b70d3949b5f64",
+            "af6547929df8a995",
+            "adf62a67b945b62f",
+            "be0d603bb9eb619f",
+            "cac872eea1091c52",
+            "a6f47efa27c3231d",
+            "94ee331adf0204b3"
+        ],
+        "x": 994,
+        "y": 399,
+        "w": 912,
+        "h": 162
+    },
+    {
+        "id": "4d19105832274ffa",
+        "type": "group",
+        "z": "4d3ec98e95c610e9",
+        "name": "번호목록6",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "df303bbfde98db97",
+            "a9d95015aa0f1ffa",
+            "515814e49d487933",
+            "7cf3a062b8297017",
+            "94157c550870e515",
+            "b7f2569c2ce6ba6d",
+            "2657ec8930a0e511",
+            "2db103f3f3fe5ed8",
+            "76d33831e72e5fe5",
+            "a79e48130c138703",
+            "a33afc9047dfb1c8",
+            "a63fa0d5ae9587e1"
+        ],
+        "x": 994,
+        "y": 559,
+        "w": 912,
+        "h": 162
+    },
+    {
+        "id": "0fe9076073b80468",
+        "type": "group",
+        "z": "31600a7ce055a3df",
+        "name": "관수",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "ca4e3080d073dd4c",
+            "67dc78541717d9af",
+            "43bcd596e4fa6e3b",
+            "aca63dbc62fa81dd",
+            "970c988dd954b8fc",
+            "91638591cdc21708"
+        ],
+        "x": 748,
+        "y": 113,
+        "w": 1004,
+        "h": 634
+    },
+    {
         "id": "2f10a127063692b1",
         "type": "group",
         "z": "4cddfbde14dbe5c4",
@@ -833,189 +1024,6 @@
         "h": 282
     },
     {
-        "id": "4232b464a3c1da3d",
-        "type": "group",
-        "z": "4d3ec98e95c610e9",
-        "name": "번호목록1",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "2e3ebdfc55af918e",
-            "55ac42dfeadff5ed",
-            "f8d18522a0c3fc34",
-            "4d411ac51af43356",
-            "1b2bc90465401dce",
-            "f2b42ec51d54f71c",
-            "dd571b97e4a48fc4",
-            "1822b8cbbdfd5934",
-            "1bf7536629ed6ec9",
-            "b6d1b238c1347fac",
-            "9a43ed5d90ec113d",
-            "a34535ca784d448c"
-        ],
-        "x": 74,
-        "y": 239,
-        "w": 912,
-        "h": 162
-    },
-    {
-        "id": "969a9825278b5843",
-        "type": "group",
-        "z": "4d3ec98e95c610e9",
-        "name": "번호목록2",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "417abb8b6c1e17bd",
-            "6043095b42f6dec7",
-            "88a92bc6a2be910a",
-            "341a663f4eea7702",
-            "0a1a11969478f5ea",
-            "3d0837869ecf560b",
-            "550f21411d7b0de5",
-            "4523fe30b07c231d",
-            "349ba1b99071d271",
-            "3cf28e42245118f4",
-            "3fdd703fa2d854fb",
-            "1d3c1d28deec7142"
-        ],
-        "x": 74,
-        "y": 399,
-        "w": 912,
-        "h": 162
-    },
-    {
-        "id": "adbdb1f0b42acd77",
-        "type": "group",
-        "z": "4d3ec98e95c610e9",
-        "name": "번호목록3",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "737aa4fc84da9a35",
-            "244f875ad99f4ebb",
-            "bbe36edea19bfb38",
-            "be70d9678786b639",
-            "68f047c3537802aa",
-            "437b493c7f2bc17b",
-            "10db8e5641804509",
-            "da87f24488f3670d",
-            "64b7be51d2669f28",
-            "08cf55179cef0a24",
-            "4332dd775fce6859",
-            "8657cfa2518f0d0f"
-        ],
-        "x": 74,
-        "y": 559,
-        "w": 912,
-        "h": 162
-    },
-    {
-        "id": "b8a12db1b5d3f287",
-        "type": "group",
-        "z": "4d3ec98e95c610e9",
-        "name": "번호목록4",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "9c4c8dbb4e48fe72",
-            "8dd3dedfeeda0c7f",
-            "0ead7053ef5fc5b9",
-            "0fab22647397bb9f",
-            "2a5bcdc60242025b",
-            "9abbc31871469ee0",
-            "cfa78cd5a803b96c",
-            "1fe62b83df83ae6c",
-            "a42708d5e978e8f8",
-            "54dba5598f19c2ee",
-            "6ff33f0c211e5b04",
-            "166442c37b791afa"
-        ],
-        "x": 994,
-        "y": 239,
-        "w": 912,
-        "h": 162
-    },
-    {
-        "id": "e18e989bb9c9d956",
-        "type": "group",
-        "z": "4d3ec98e95c610e9",
-        "name": "번호목록5",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "c6a11463da973ead",
-            "66c0d3f49ccfd9bb",
-            "777769907d2c6c71",
-            "580084d6971423f2",
-            "fe468a11411223d1",
-            "d46b70d3949b5f64",
-            "af6547929df8a995",
-            "adf62a67b945b62f",
-            "be0d603bb9eb619f",
-            "cac872eea1091c52",
-            "a6f47efa27c3231d",
-            "94ee331adf0204b3"
-        ],
-        "x": 994,
-        "y": 399,
-        "w": 912,
-        "h": 162
-    },
-    {
-        "id": "4d19105832274ffa",
-        "type": "group",
-        "z": "4d3ec98e95c610e9",
-        "name": "번호목록6",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "df303bbfde98db97",
-            "a9d95015aa0f1ffa",
-            "515814e49d487933",
-            "7cf3a062b8297017",
-            "94157c550870e515",
-            "b7f2569c2ce6ba6d",
-            "2657ec8930a0e511",
-            "2db103f3f3fe5ed8",
-            "76d33831e72e5fe5",
-            "a79e48130c138703",
-            "a33afc9047dfb1c8",
-            "a63fa0d5ae9587e1"
-        ],
-        "x": 994,
-        "y": 559,
-        "w": 912,
-        "h": 162
-    },
-    {
-        "id": "0fe9076073b80468",
-        "type": "group",
-        "z": "31600a7ce055a3df",
-        "name": "관수",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "ca4e3080d073dd4c",
-            "67dc78541717d9af",
-            "43bcd596e4fa6e3b",
-            "aca63dbc62fa81dd",
-            "970c988dd954b8fc",
-            "91638591cdc21708"
-        ],
-        "x": 748,
-        "y": 113,
-        "w": 1004,
-        "h": 634
-    },
-    {
         "id": "5ac4f52b3eb9426b",
         "type": "ui_group",
         "name": "온습도",
@@ -1138,7 +1146,7 @@
     {
         "id": "5b70977fbad2fd6b",
         "type": "sqlitedb",
-        "db": "C:\\Users\\user\\Documents\\한국외대\\현장실습\\유비샘\\2022-FieldPracticeAtUbiSam\\Team_2\\Data\\smartfarm.db",
+        "db": "C:\\Users\\user\\Documents\\한국외대\\현장실습\\유비샘\\2022-FieldPracticeAtUbiSam\\Team_2\\DB Script\\Smart-Farm.db",
         "mode": "RWC"
     },
     {
@@ -1406,7 +1414,7 @@
         "tab": "ddd9ea36f8f41724",
         "order": 2,
         "disp": false,
-        "width": 20,
+        "width": "20",
         "collapse": false,
         "className": ""
     },
@@ -1754,28 +1762,6 @@
         "className": ""
     },
     {
-        "id": "8c13c48f5678616e",
-        "type": "ui_group",
-        "name": "spacerLeft_list",
-        "tab": "ddd9ea36f8f41724",
-        "order": 1,
-        "disp": false,
-        "width": "7",
-        "collapse": false,
-        "className": ""
-    },
-    {
-        "id": "328a49b0168ed2a1",
-        "type": "ui_group",
-        "name": "spacerRight_list",
-        "tab": "ddd9ea36f8f41724",
-        "order": 3,
-        "disp": false,
-        "width": "7",
-        "collapse": false,
-        "className": ""
-    },
-    {
         "id": "036cf3726d90df79",
         "type": "ui_group",
         "name": "spacerLeft_dvc1",
@@ -1879,7 +1865,7 @@
         "type": "ui_spacer",
         "z": "4cddfbde14dbe5c4",
         "name": "spacer",
-        "group": "8c13c48f5678616e",
+        "group": "",
         "order": 1,
         "width": "7",
         "height": "15"
@@ -1889,7 +1875,7 @@
         "type": "ui_spacer",
         "z": "4cddfbde14dbe5c4",
         "name": "spacer",
-        "group": "328a49b0168ed2a1",
+        "group": "",
         "order": 3,
         "width": "7",
         "height": "15"
@@ -2611,7 +2597,7 @@
         "tab": "32a7082327a78699",
         "order": 1,
         "disp": false,
-        "width": "7",
+        "width": "4",
         "collapse": false,
         "className": ""
     },
@@ -2622,7 +2608,7 @@
         "tab": "32a7082327a78699",
         "order": 3,
         "disp": false,
-        "width": "7",
+        "width": "4",
         "collapse": false,
         "className": ""
     },
@@ -2633,7 +2619,7 @@
         "name": "spacer",
         "group": "ba0a22c9f075b059",
         "order": 7,
-        "width": "7",
+        "width": "4",
         "height": "15"
     },
     {
@@ -2643,7 +2629,7 @@
         "name": "spacer",
         "group": "fc68fed4b7643a01",
         "order": 8,
-        "width": "7",
+        "width": "4",
         "height": "15"
     },
     {
@@ -2684,7 +2670,7 @@
         "tab": "fd90f67fc5f23f44",
         "order": 1,
         "disp": false,
-        "width": "7",
+        "width": "4",
         "collapse": false,
         "className": ""
     },
@@ -2695,7 +2681,7 @@
         "tab": "fd90f67fc5f23f44",
         "order": 3,
         "disp": false,
-        "width": "7",
+        "width": "4",
         "collapse": false,
         "className": ""
     },
@@ -2706,7 +2692,7 @@
         "name": "spacer",
         "group": "fde404c8e151e4d1",
         "order": 3,
-        "width": "7",
+        "width": "4",
         "height": "15"
     },
     {
@@ -2716,7 +2702,7 @@
         "name": "spacer",
         "group": "c9ca7cbf3a8445e4",
         "order": 4,
-        "width": "7",
+        "width": "4",
         "height": "15"
     },
     {
@@ -3019,6 +3005,156 @@
         "order": 10,
         "width": 1,
         "height": 1
+    },
+    {
+        "id": "a6577bdc1f407170",
+        "type": "ui_group",
+        "name": "spacerLeft_list",
+        "tab": "ddd9ea36f8f41724",
+        "order": 1,
+        "disp": false,
+        "width": "4",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "11b489cc3e956e2b",
+        "type": "ui_group",
+        "name": "spacerRight_list",
+        "tab": "ddd9ea36f8f41724",
+        "order": 3,
+        "disp": false,
+        "width": "4",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "00ce018364b8bb96",
+        "type": "ui_spacer",
+        "z": "31600a7ce055a3df",
+        "name": "spacer",
+        "group": "a6577bdc1f407170",
+        "order": 22,
+        "width": "4",
+        "height": "15"
+    },
+    {
+        "id": "7fbdbb144c1a2362",
+        "type": "ui_spacer",
+        "z": "4cddfbde14dbe5c4",
+        "name": "spacer",
+        "group": "11b489cc3e956e2b",
+        "order": 3,
+        "width": "4",
+        "height": "15"
+    },
+    {
+        "id": "3428ae813de462e5",
+        "type": "sqlite",
+        "z": "4e1a47a6be9b1cb0",
+        "mydb": "5b70977fbad2fd6b",
+        "sqlquery": "msg.topic",
+        "sql": "",
+        "name": "INSERT",
+        "x": 480,
+        "y": 100,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "85717397cfdf75aa",
+        "type": "inject",
+        "z": "4e1a47a6be9b1cb0",
+        "name": "INSERT",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payloadType": "str",
+        "x": 170,
+        "y": 100,
+        "wires": [
+            [
+                "9e02d813b494b85c"
+            ]
+        ]
+    },
+    {
+        "id": "9e02d813b494b85c",
+        "type": "function",
+        "z": "4e1a47a6be9b1cb0",
+        "name": "INSERT",
+        "func": "msg.topic = \"INSERT INTO tMstObjectItemNew (ObjectExist, ObjectID4LoRa, LoRaNodeGpioRelayNo, ObjectType, TempHumiType, FanDevDriverType, ObjectCommunicationType, objectPin1, objectPin2, MotorOperTime, ObjectPositionName, OperationControlMode, OperationModeStatus, OperationStartTime, objectValueTemp, objectValueHumi, ThSensorRowNo, ThTempOpen, ThTempClose) VALUES ('O', '00101', '1', 'Y', 'B', NULL, 'L', NULL, NULL, NULL, NULL, 'S', NULL, datetime('now','localtime'), 0, 0, -1, NULL, NULL), ('O', '00102', '2', 'Y', 'B', NULL, 'L', NULL, NULL, NULL,NULL,'S',NULL, datetime('now','localtime'), 0, 0, -1, NULL, NULL), ('O', NULL, '3', 'Y', 'V', NULL, 'G', 23, NULL, NULL, NULL, 'S', NULL, datetime('now','localtime'), 0, 0, -1, NULL, NULL), ('O', NULL, '3', 'M', NULL, NULL, 'G', 17, 27, 50, 'TopLeft', NULL, NULL, datetime('now','localtime'), 0, 0, -1, NULL, NULL), ('O', '00105', '3', 'M', NULL, NULL, 'L', NULL, NULL, 70, 'TopRight', NULL, NULL, datetime('now','localtime'), 0, 0, -1, NULL, NULL), ('O', '00106', '1', 'F', NULL, 'F:C:2', 'L', NULL, NULL, NULL, NULL, NULL, NULL, datetime('now','localtime'), 0, 0, -1, NULL, NULL), ('O', NULL,' 2', 'V', NULL, NULL, 'G', 9, NULL, NULL, NULL, NULL, NULL, datetime('now','localtime'), 0, 0, -1, NULL, NULL), ('O', NULL,' 2', 'V', NULL, NULL, 'G', 6, NULL, NULL, NULL, NULL, NULL, datetime('now','localtime'), 0, 0, -1, NULL, NULL), ('O', NULL,' 2', 'V', NULL, NULL, 'G', 13, NULL, NULL, NULL, NULL, NULL, datetime('now','localtime'), 0, 0, -1, NULL, NULL);\"\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 320,
+        "y": 100,
+        "wires": [
+            [
+                "3428ae813de462e5"
+            ]
+        ]
+    },
+    {
+        "id": "a2136ceb42fddc05",
+        "type": "function",
+        "z": "4e1a47a6be9b1cb0",
+        "name": "DELETE",
+        "func": "msg.topic = \"DELETE FROM tMstObjectItemNew;\"\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 320,
+        "y": 180,
+        "wires": [
+            [
+                "3428ae813de462e5"
+            ]
+        ]
+    },
+    {
+        "id": "7ea2c9974436cac5",
+        "type": "inject",
+        "z": "4e1a47a6be9b1cb0",
+        "name": "DELETE",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payloadType": "str",
+        "x": 170,
+        "y": 180,
+        "wires": [
+            [
+                "a2136ceb42fddc05"
+            ]
+        ]
     },
     {
         "id": "e1457dd0113aba42",
