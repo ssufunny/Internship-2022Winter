@@ -16,7 +16,7 @@
 > - <2022.01.11> 프로그램 이름 선정 및 아이콘 생성
 > - <2022.01.12 ~ 2022.01.25> 스토리보드 제작
 > - <2022.01.12> 메인화면 - 타이틀 바, 작업공간, 노드팔레트, 사이드 바 화면 제작
-> - <2022.01.13 ~ 2022.01.19> 노드팔레트 - Dashboard, Function 구상(<a href='https://github.com/ssufunny/Internship-2022Winter/blob/main/01.11-01.25/rotation.py'>rotation.py</a>, <a href='https://github.com/ssufunny/Internship-2022Winter/blob/main/01.11-01.25/temp-humidity.py'>temp-humidity.py)
+> - <2022.01.13 ~ 2022.01.19> 노드팔레트 - Dashboard, Function 구상(<a href='https://github.com/ssufunny/Internship-2022Winter/blob/main/01.11-01.25/rotation.py'>rotation.py</a>, <a href='https://github.com/ssufunny/Internship-2022Winter/blob/main/01.11-01.25/temp-humidity.py'>temp-humidity.py</a>)
 > - <2022.01.20 ~ 2022.01.25> 예시 flow 생성, 예시 flow 실행 시 화면 UI 제작
 
 ### :file_folder: 01.25-02.25
