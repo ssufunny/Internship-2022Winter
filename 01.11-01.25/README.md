@@ -18,7 +18,7 @@
 - <2022.01.12 / 안형근> 메인화면 - 사이드 바 화면 제작
 - <2022.01.12 / 김지수> 메인화면 - 타이틀 바, 작업공간, 노드팔레트, 사이드 바 화면 제작
 - <2022.01.13 ~ 2022.01.19 / 안형근> 노드팔레트 - Dashboard 구상
-- <2022.01.13 ~ 2022.01.19 / 김지수> 노드팔레트 - Dashboard, Function 구상
+- <2022.01.13 ~ 2022.01.19 / 김지수> 노드팔레트 - Dashboard, Function 구상(<a href='https://github.com/ssufunny/Internship-2022Winter/blob/main/01.11-01.25/rotation.py'>rotation.py</a>, <a href='https://github.com/ssufunny/Internship-2022Winter/blob/main/01.11-01.25/temp-humidity.py'>temp-humidity.py)
 - <2022.01.20 ~ 2022.01.25 / 안형근> 예시 flow 생성
 - <2022.01.20 ~ 2022.01.25 / 김지수> 예시 flow 생성, 예시 flow 실행 시 화면 UI 제작
 
