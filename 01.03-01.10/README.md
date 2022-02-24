@@ -9,7 +9,7 @@
 
 ## Project Description
    - Simple Smart-Farm 화면 구상
-   - Node-RED로 UI 디자인
+   - Node-RED & PowerPoint로 UI 디자인
    - Simple Smart-Farm 스토리보드 제작
 
 ## Project Environment 
