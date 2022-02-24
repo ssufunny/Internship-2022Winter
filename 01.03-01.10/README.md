@@ -8,18 +8,18 @@
 > 한국외대 김지수
 
 ## Project Description
-    - Simple Smart-Farm 화면 구상
-    - Node-RED로 UI 디자인
-    - Simple Smart-Farm 스토리보드 제작
+   - Simple Smart-Farm 화면 구상
+   - Node-RED로 UI 디자인
+   - Simple Smart-Farm 스토리보드 제작
 
 ## Project Result
-    - PC 화면    
+   - PC 화면    
     | 구분 | UI 화면 | 구분 | UI 화면 |
     |:---:|:---:|:---:|:---:|
     | 로그인 |  | 회원가입 |  |
     | 마이페이지 |  | UbiFarm |  |
 
-    - 모바일 화면   
+   - 모바일 화면   
     | 구분 | UI 화면 | 구분 | UI 화면 |
     |:---:|:---:|:---:|:---:|
     | 로그인 |  | 회원가입 |  |
