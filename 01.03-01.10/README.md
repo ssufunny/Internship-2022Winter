@@ -9,8 +9,12 @@
 
 ## Project Description
    - Simple Smart-Farm 화면 구상
-   - Node-RED로 UI 디자인
+   - Node-RED & PowerPoint로 UI 디자인
    - Simple Smart-Farm 스토리보드 제작
+
+## Project Environment 
+    
+   <img src="https://user-images.githubusercontent.com/67498595/154413312-34b6eef1-3045-4247-a103-dfc8611ab97f.png" width = "100" height = "100">
  
 ## Project History   
 - <2022.01.03 / 안형근, 김지수> Node-RED, Smart-Farm 학습
