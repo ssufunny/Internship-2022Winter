@@ -16,7 +16,7 @@
 > - <2022.01.11> 프로그램 이름 선정 및 아이콘 생성
 > - <2022.01.12 ~ 2022.01.25> 스토리보드 제작
 > - <2022.01.12> 메인화면 - 타이틀 바, 작업공간, 노드팔레트, 사이드 바 화면 제작
-> - <2022.01.13 ~ 2022.01.19> 노드팔레트 - Dashboard, Function 구상
+> - <2022.01.13 ~ 2022.01.19> 노드팔레트 - Dashboard, Function 구상(<a href='https://github.com/ssufunny/Internship-2022Winter/blob/main/01.11-01.25/rotation.py'>rotation.py</a>, <a href='https://github.com/ssufunny/Internship-2022Winter/blob/main/01.11-01.25/temp-humidity.py'>temp-humidity.py</a>)
 > - <2022.01.20 ~ 2022.01.25> 예시 flow 생성, 예시 flow 실행 시 화면 UI 제작
 
 ### :file_folder: 01.25-02.25
@@ -40,10 +40,10 @@
 > - <2022.02.15> 연동된 table 정보로 setting 동적 화면 표현(~~test_setting.js~~)
 > - <2022.02.15> 연동된 table 정보로 setting 화면의 그룹이름에 정보 넣기(~~test_setting_groupName.js~~)
 > - <2022.02.15 ~ 2022.02.21> 제작된 스토리보드 내용 수정
-> - <2022.02.17> 코드 주석 추가 및 파일명 변경(~~test_auto.js~~ -> autoSwitch.js, ~~test_watering~~ -> watering.js, ~~test_setting.js~~ -> setting.js, ~~test_setting_groupName.js~~ -> setting_groupName.js)
-> - <2022.02.18> 연동된 table 정보로 swtich 동적 화면 표현(switch.js)
-> - <2022.02.21> 연동된 table 정보로 swtich 화면의 장비이름에 정보 넣기(switchName.js)
+> - <2022.02.17> 코드 주석 추가 및 파일명 변경(~~test_auto.js~~ -> <a href='https://github.com/ssufunny/Internship-2022Winter/blob/main/01.25-02.25/Ui/autoSwitch.js'>autoSwitch.js</a>, ~~test_watering~~ -> <a href='https://github.com/ssufunny/Internship-2022Winter/blob/main/01.25-02.25/Ui/watering.js'>watering.js</a>, ~~test_setting.js~~ -> <a href='https://github.com/ssufunny/Internship-2022Winter/blob/main/01.25-02.25/Ui/setting.js'>setting.js</a>, ~~test_setting_groupName.js~~ -> <a href='https://github.com/ssufunny/Internship-2022Winter/blob/main/01.25-02.25/Ui/setting_groupName.js'>setting_groupName.js</a>)
+> - <2022.02.18> 연동된 table 정보로 swtich 동적 화면 표현(<a href='https://github.com/ssufunny/Internship-2022Winter/blob/main/01.25-02.25/Ui/switch.js'>switch.js</a>)
+> - <2022.02.21> 연동된 table 정보로 swtich 화면의 장비이름에 정보 넣기(<a href='https://github.com/ssufunny/Internship-2022Winter/blob/main/01.25-02.25/Ui/switchName.js'>switchName.js</a>)
 > - <2022.02.22> 버튼 Event Click 시 해당 Web 화면으로 연결을 위해 GET, POST 방식 학습
-> - <2022.02.22> sqlCollection.sql에 Insert문, Delete문 추가
+> - <2022.02.22> <a href='https://github.com/ssufunny/Internship-2022Winter/blob/main/01.25-02.25/DB%20script/sqlCollection.sql'>sqlCollection.sql</a>에 Insert문, Delete문 추가
 > - <2022.02.23 ~ 2022.02.24> Ui Folder 내 모든 코드에 사용 설명 추가
 > - <2022.02.24> Ui Folder 내 모든 코드에 history 추가, sqlCollection.sql에 history 추가
