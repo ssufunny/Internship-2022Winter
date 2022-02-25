@@ -45,5 +45,7 @@
 > - <2022.02.21> 연동된 table 정보로 swtich 화면의 장비이름에 정보 넣기(<a href='https://github.com/ssufunny/Internship-2022Winter/blob/main/01.25-02.25/Ui/switchName.js'>switchName.js</a>)
 > - <2022.02.22> 버튼 Event Click 시 해당 Web 화면으로 연결을 위해 GET, POST 방식 학습
 > - <2022.02.22> <a href='https://github.com/ssufunny/Internship-2022Winter/blob/main/01.25-02.25/DB%20script/sqlCollection.sql'>sqlCollection.sql</a>에 Insert문, Delete문 추가
+> - <2022.02.22> 임시 값 table 없는 <a href='https://github.com/ssufunny/Internship-2022Winter/blob/main/01.25-02.25/DB%20script/Smart-Farm.db'>Smar-Farm.db</a> 생성
 > - <2022.02.23 ~ 2022.02.24> Ui Folder 내 모든 코드에 사용 설명 추가
 > - <2022.02.24> Ui Folder 내 모든 코드에 history 추가, sqlCollection.sql에 history 추가
+> - <2022.02.25> 최종 flow 생성(<a href='https://github.com/ssufunny/Internship-2022Winter/blob/main/01.25-02.25/Flows/flows_Smart-Farm.json'>flows_Smart-Farm.json</a>)
